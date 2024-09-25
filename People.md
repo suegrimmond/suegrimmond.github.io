@@ -1,4 +1,5 @@
 ## Current Group Members
+[Sue Grimmond](https://suegrimmond.github.io/)
 
 | PDRA | PhD | 
 |---|--| 
@@ -14,7 +15,7 @@
 ||GI
 
 
-[News](https://suegrimmond.github.io/People)
+[News](https://suegrimmond.github.io/News)
 
 ##  Past Group Members
 
