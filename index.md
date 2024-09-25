@@ -1,4 +1,5 @@
-<h1><p align="center">$\color{Apricot}{Sue\ Grimmond}$</p></h1>
+# [Sue Grimmond](https://research.reading.ac.uk/meteorology/people/sue-grimmond/)
+### Department of Meteorology, University of Reading
 
  
 
