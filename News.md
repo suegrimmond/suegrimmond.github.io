@@ -19,3 +19,22 @@
 - Papers By topic	Most recent papers	
 - Alex Bjorkegren	Start jobs Dept of Health	Feb 2016
 - Izzy Capel-Timms	Starts PhD	January 2016
+- Ting Sun	re-joins group	January 2016
+- Will Morrison	  ACEEES Student Presentation Award	Hawaii December 2015
+- Martin Best	Successfully defended PhD	November 2015
+- Christoph Kent	WES Student Presenation Award	October 2015
+- Will Morrison	Starts PhD	October 2015
+- Elliott Warren	Starts PhD	October  2015
+- Ben Crawford	Joins group	September 2015
+- Alex Bjorkegren	ICUC9 Student Presentation Award	Toulouse July 2016
+- Christoph Kent	Starts PhD	February 2015
+- SLUM	Spectral Library of Urban Materials released	March 2014
+- SUEWS v2014a.1 released	feb 2014
+- Simone Kotthaus	successfully defended her PhD	(Decemeber 2013)
+- Helen Ward	successfully defended her PhD	Jul 2013
+- Helen Ward	starts  Post Doc  CEH Wallingford	April 2013
+- LCCP report	released July 17 2013
+- Simone Kotthaus	wins best Student presentation award IAUC	Dublin	2012
+- Thomas Loridan	successfully defended his PhD	Nov 8	2011
+- Thomas Loridan	starts job at Risk Management Solutions (RMS)	November 2011
+- Simone Kotthaus	wins Best Student Poster at AMS 9th Urban Symposium Keystone Colorado
