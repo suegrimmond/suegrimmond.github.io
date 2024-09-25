@@ -19,26 +19,26 @@
 
 | PDRA | PhD | Visitors/ Technician |
 |---|--| --|
- Will Morrison | Beth Saunders|  Keisuke Nakao
+Will Morrison | Beth Saunders|  Keisuke Nakao
 Mathew Lipson  | DM | Matthew Paskin (t)
-Natlie Theeuwes| Meg Stretton|Junxia Dou
-  Ting Sun | Isabel Capel-Timms  | Kit Benjamin (t)
+Natalie Theeuwes| Meg Stretton| Junxia Dou
+Ting Sun | Isabel Capel-Timms  | Kit Benjamin (t)
 Hamid Omidvar | Elliott Warren | Yuya Takane
 Ben Crawford | Christoph Kent | Kohin Hirano
-Andrew Gabey  | Mathew (Yan) Ng (t)
-|Will Morrison| George Meachim (t)
-| Simone Kotthaus | Jess Brown (t)
-Helen Ward | Kjell zum Berge (t)
-|| Will Morrison (t)
+Andrew Gabey | | Mathew (Yan) Ng (t)
+| Simone Kotthaus| Will Morrison| George Meachim (t)
+| Helen Ward |  | Jess Brown (t)
+| |  | Kjell zum Berge (t)
+| | | Will Morrison (t)
 
 
 ## Past KCL
 | PDRA | PhD | Visitors/ Technician |
 |---|--| --|
-| Fredik Lindberg  | Martin Best | Will Morrison (t)
-|Leena Jarvi | Alex Bjorkegren|
-| | Simone Kotthaus |
-| |Helen Ward |   Lukas Pauscher (t)
-|| Thomas Loridan | John Mustchin
+ Fredik Lindberg  | Martin Best | Will Morrison (t)
+ Leena Jarvi | Alex Bjorkegren|
+|  | Simone Kotthaus |
+| | Helen Ward |   Lukas Pauscher (t)
+| Thomas Loridan | John Mustchin
 
 
