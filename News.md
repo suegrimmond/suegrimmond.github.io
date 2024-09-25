@@ -1,0 +1,21 @@
+ - Christoph Kent:	Successful PhD Viva	April 2018
+- Marine Jeoffrion:	visit from Meteo France	Feb 2018
+- Matthias Demuzere (Ghent University)	Collaboration within APHH China – NERC Airpro	February 2018
+- Jess Brown	joins group	August 2017
+- Denise Hertwig	joins group	August 2017
+- Beth Saunders	joins group	August 2017
+- Ting Sun	NERC Fellowship	July 2017
+- Jie Peng	visit from SIMS-Shanghai-CMA	February -April 2017
+- Wen GU	visit from SIMS-Shanghai-CMA	February -April 2017
+- Yuya Takane	arrives from National Institute of Advanced Industrial Science and Technology (AIST)- Japan	February 2017
+- X Ao	Arrives from SIMS-Shanghai-CMA	January 2017- July 2017
+- Natalie Theeuwes	arrives in Reading	December 2016
+- Bei Huang	arrives from Tsinghua University, China	September 2016
+- Makoto NAKAYOSHI	arrives from Tokyo University of Science, Japan	September 2016
+- Kohin Hirano	vist from NIED, Japan	August 2016- July 2017
+- Junxia DOU	visit from IUM, China	June – December 2016
+- Tiangang Yi	visit from NUS/CESBIO	June 2016
+- Alex Bjorkegren	Successfully defended PhD (no revisions!)	June 2016
+- Papers By topic	Most recent papers	
+- Alex Bjorkegren	Start jobs Dept of Health	Feb 2016
+- Izzy Capel-Timms	Starts PhD	January 2016
