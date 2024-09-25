@@ -13,8 +13,6 @@
 || DT
 ||GI
 
-
-
 ##  Past Group Members
 
 | PDRA | PhD | Visitors/ Technician |
@@ -35,10 +33,13 @@ Andrew Gabey | | Mathew (Yan) Ng (t)
 ## Past KCL
 | PDRA | PhD | Visitors/ Technician |
 |---|--| --|
- Fredik Lindberg  | Martin Best | Will Morrison (t)
- Leena Jarvi | Alex Bjorkegren|
-|  | Simone Kotthaus |
-| | Helen Ward |   Lukas Pauscher (t)
-| Thomas Loridan | John Mustchin
+| Fredik Lindberg  | Martin Best | Will Morrison (t)
+| Leena Jarvi | Alex Bjorkegren| |
+| | Simone Kotthaus | |
+| | Helen Ward |   Lukas Pauscher (t) |
+| | Thomas Loridan | John Mustchin (t)
+
+
+## Past Indiana University 
 
 
