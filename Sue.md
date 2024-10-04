@@ -1,0 +1,26 @@
+[Sue Grimmond](http://www.met.reading.ac.uk/userpages/xv904931.php)  is the past Met Office Joint Chair and Professor of Urban Meteorology at University of Reading. She joined the [Department of Meteorology](http://www.met.reading.ac.uk/), University of Reading in August 2013. Previously she was a Chair of Physical Geography and Professor at King’s College London, after being Assistant, Associate and Full Professor at Indiana University, Bloomington USA. She completed her undergraduate degree (BSc Hons) at the University of Otago, New Zealand, and graduate degrees (MSc and PhD) at The University of British Columbia. She is a past President of the International Association of Urban Climate ([IAUC](http://www.urban-climate.org/)) and past Lead Expert for the WMO on Urban and Building Climatology. Sue is on the editorial board of Urban Climate; and previously Editor for Journal of Atmospheric and Oceanic Technology and member of the Journal of Applied Meteorology and Climatology; Annals of the Association of American Geographers, Agricultural and Forest Meteorology, Geography Compass (Climatology Editor) and Advances in Meteorology Editorial boards. Her Awards include: European Meteorological Society Silver Medal, Royal Meteorological Society Symons's Gold Medal, EuDoctor of Science Honoris Causa (Göteborg University), Fellow of the American Meteorological Society (AMS), Isaac Manasseh Meyer Fellowship (NUS), Universitatis Lodziensis Amico Medal (University of Łódź), Helmut E Landsberg Award (AMS),  [Luke Howard Award (IAUC)](http://www.urban-climate.org/); Ernest Frolich Fellowship (CSIRO), Japan Society for Promotion of Science Invitation Fellowship (University of Tokyo), Eminent Professor Visit Award (Monash University). She is a Visiting Professor of National Centre for International Research of Low-carbon and Green Buildings (MOST)/ Joint International Research Laboratory of Green Buildings and the Built Environments (MoE) Chongqing University, Visiting Distinguished Professor, Tsinghua University, Visiting Special Expert, Shanghai Meteorological Bureau.
+
+Current international Scientific Committee membership includes for KIT Earth and Environment International Scientific Advisory Board, Scientific Committee of the Institute of Urban Meteorology (CMA), ARUP Project Review Board Climate Services in China, ICUC-11 (IAUC) and WMO GURME Scientific  Advisory Group.
+
+
+### Research Interests
+
+- urban climatology
+- surface-atmosphere exchanges
+- heat, carbon and water
+- micrometeorology
+- land-surface parameterisation schemes
+- Boundary layer meteorology
+- Hydroclimatology
+- observations
+
+### Publications
+- [ORCID](http://orcid.org/0000-0002-3166-9415)
+- [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en)
+- [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)
+- [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185)
+-  [academia.edu](http://kcl.academia.edu/SueGrimmond)
+
+CV
+
+
