@@ -38,3 +38,19 @@
 - Thomas Loridan	successfully defended his PhD	Nov 8	2011
 - Thomas Loridan	starts job at Risk Management Solutions (RMS)	November 2011
 - Simone Kotthaus	wins Best Student Poster at AMS 9th Urban Symposium Keystone Colorado
+
+- 21 Dec 2010: Baltimore CO2 paper: Crawford B, CSB Grimmond and A Christen (2011) Five years of carbon dioxide fluxes measurements in a highly vegetated suburban area Atmospheric Environment, 45, 896-905  doi:10.1016/j.atmosenv.2010.11.017
+- 4 Aug 2010 :  Pilps-urban: International Urban Energy Balance comparison paper 1 Grimmond CSB, M Blackett, M Best, J Barlow, JJ Baik, S Belcher, SI Bohnenstengel, I Calmet, F Chen, A Dandou, K Fortuniak, ML Gouvea, R Hamdi, M Hendry, T Kawai, Y Kawamoto, H Kondo, ES Krayenhoff, SH Lee, T Loridan, A Martilli, V Masson, S Miao, K Oleson, G Pigeon, A Porson, YH Ryu, F Salamanca, GJ Steeneveld, M Tombrou, J Voogt, D Young, N Zhang (2010) The International Urban Energy Balance Models Comparison Project: First results from Phase 1 Journal of Applied Meteorology & Climatology, 49, 1268-92, doi: 10.1175/2010JAMC2354.1 pdf
+- 4 Aug 2010: Trade-offs in urban canopy parameterizations paper published: Loridan T, CSB Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martilli, H Kusaka,M Best (2010) Trade-offs & responsiveness of the single-layer urban canopy parameterization in WRF: an offline evaluation using the MOSCEM optimization algorithm & field observations. Quarterly Journal of the Royal Meteorological Society, 136: 997-1019. DOI:10.1002/qj.614 pdf
+- WRF/Urban Modelling system paper published  Chen F, H Kusaka, R Bornstein, J Ching, CSB Grimmond, S Grossman-Clarke, T Loridan, KW Manning, A Martilli, S Miao, D Sailor, FP Salamanca, H Taha, M Tewari, X Wang, AA Wyszogrodzki, C Zhang (2010) The integrated WRF/urban modeling system: development, evaluation, & applications to urban environmental problems, International Journal of Climatology DOI: 10.1002/joc.2158 pdf
+- 3 Aug 2010 AMS 9th Symp. Urban Environment, August 2–6, 2010 Keystone, Colorado
+  - Grossman-Clarke S, JA Zehnder, T Loridan, S Grimmond Contribution of Land use changes to near surface air temperatures during recent summer extreme heat events in the Phoenix metropolitan area , USA (poster)
+  - Erell E, I Eliasson, S Grimmond, B Offerle, T Williamson Incorporating spatial & temporal variations of advected moisture in the Canyon Air Temperature (CAT) model
+  - Hendry MA, MJ Best, M Gouvea, CSB Grimmond, A Porson: International Urban Energy Balance Comparison Project: JULES-URBAN models, any winners?
+  - Gouvea ML, CSB Grimmond Spatially integrated measurements of sensible heat flux using scintillometry
+  - Gouvea ML, CSB Grimmond, MJ Best Evaluation of the surface parameterization JULES across a range of urban environments with varying vegetation plan area fractions.
+  - Järvi L, S Grimmond, T Loridan T Oke, A Christen, B Crawford, Urban water balance In Vancouver: assessing the impact of changing land cover.
+  - Loridan T, CSB Grimmond, BD Offerle, DT Young, TEL Smith & L Järvi, Recent developments & evaluation of the LUMPS-NARP urban land surface scheme
+  - Loridan T, CSB Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martilli, H Kusaka, M Best, The single-layer urban canopy model in WRF V3.2: recent amendments & offline evaluation using the MOSCEM optimization algorithm with field observations.
+ - Järvi L, CSB Grimmond Single-source urban evaporation-interception scheme (SUES-2): recent developments
+ - Kotthaus S, S Grimmond Surface Energy Balance Observations & Carbon Dioxide Exchange in the Centre of an European City
