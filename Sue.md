@@ -14,12 +14,27 @@ Current international Scientific Committee membership includes for KIT Earth and
 - Hydroclimatology
 - observations
 
-### Publications
+### [Publications]
+
 - [ORCID](http://orcid.org/0000-0002-3166-9415)
 - [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en)
 - [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)
 - [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185)
 -  [academia.edu](http://kcl.academia.edu/SueGrimmond)
+
+| Modelling|
+|--|
+|[Land surface modelling](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+model&_action_search=Search) |
+| [LUCY](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+LUCY&_action_search=Search) |
+|[LUMPS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=LUMPS+grimmond&_action_search=Search) |
+| [OHM](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+OHM&_action_search=Search) |
+|[SUEWS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=SUEWS&_action_search=Search) |
+| |
+|Observations|
+| [Scintillometry](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+scintillometry&_action_search=Search)|
+| [Eddy Covariance](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+eddy+covariance&_action_search=Search) |
+
+
 
 CV
 
