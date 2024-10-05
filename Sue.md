@@ -2,40 +2,32 @@
 
 Current international Scientific Committee membership includes for KIT Earth and Environment International Scientific Advisory Board, Scientific Committee of the Institute of Urban Meteorology (CMA), ARUP Project Review Board Climate Services in China, ICUC-11 (IAUC) and WMO GURME Scientific  Advisory Group.
 
+| [ORCID](http://orcid.org/0000-0002-3166-9415) | [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en) | [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)  [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185) | [academia.edu](http://reading.academia.edu/SueGrimmond)| 
 
-### Research Interests
-
+### Publicationd and Research Interests
 - urban climatology
 - surface-atmosphere exchanges
 - heat, carbon and water
 - micrometeorology
-- land-surface parameterisation schemes
 - Boundary layer meteorology
 - Hydroclimatology
-- observations
 
-### [Publications]
 
-- [ORCID](http://orcid.org/0000-0002-3166-9415)
-- [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en)
-- [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)
-- [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185)
--  [academia.edu](http://kcl.academia.edu/SueGrimmond)
-
-| Modelling|
-|--|
-|[Land surface modelling](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+model&_action_search=Search) |
-| [LUCY](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+LUCY&_action_search=Search) |
-|[LUMPS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=LUMPS+grimmond&_action_search=Search) |
-| [OHM](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+OHM&_action_search=Search) |
-|[SUEWS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=SUEWS&_action_search=Search) |
+|  | |
+|--|--|
+|[Land surface modelling](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+model&_action_search=Search) |[SUEWS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=SUEWS&_action_search=Search) |
+| [OHM](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+OHM&_action_search=Search) | [LUCY](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+LUCY&_action_search=Search) |
+| [LUMPS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=LUMPS+grimmond&_action_search=Search) |
 | |
-|Observations|
-| [Scintillometry](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+scintillometry&_action_search=Search)|
-| [Eddy Covariance](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+eddy+covariance&_action_search=Search) |
-
-
-
+| Variables and Processes |
+| [Water balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22water+balance%22&_action_search=Search)| - [Evaproation](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+evaporation&_action_search=Search)
+| [Energy Balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22energy+balance%22&_action_search=Search)| - [Sensible heat flux](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22sensible+heat+flux%22&_action_search=Search)|
+| [CO2](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+CO2&_action_search=Search)|
+| | [BoundaryLayer Height](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22boundary+layer+height%22&_action_search=Search)|
+|Observational Techniques|
+| [Scintillometry](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+scintillometry&_action_search=Search)|[Eddy Covariance](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+eddy+covariance&_action_search=Search) |
+| Environments |
+| [Urban](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+urban&_action_search=Search)| [Forest](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+forest&_action_search=Search),  [Wetlands]() |
 CV
 
 
