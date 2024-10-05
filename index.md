@@ -7,3 +7,4 @@
 - [Software](https://urban-meteorology-reading.github.io/)
 - Data sets at Zenodo
 - [Weather](https://suegrimmond.github.io/Weather)
+- [News](https://suegrimmond.github.io/News)
