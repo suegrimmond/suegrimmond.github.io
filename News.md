@@ -1,3 +1,8 @@
+- 2024
+  - Tianhao 
+  - Silvia Rognone joins group
+  - Beth Saunders starts PDRA at Innsbruck
+  - Keisuke Nakao retuns to Japan
 - 2018
   - Christoph Kent:	Successful PhD Viva	April 2018
   - Marine Jeoffrion:	visit from Meteo France	Feb 2018
