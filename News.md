@@ -3,6 +3,22 @@
   - Silvia Rognone joins group
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao retuns to Japan
+  - ASSURE/urbisphere Bristl field campaign begins
+- 2023
+  -   Tianhao Zhong starts visit from Nanjing Univ. October
+  - Mathew Paskin starts PhD Sept 2023
+  - HL joins group
+  -  urbisphere-Paris campaign begins
+- 2022
+  - urbisphere-Berlin campaign ends
+  - Megan McGrory joins group January 2022
+- 2021
+  -   urbisphere-Berlin campaign begins
+- 2020
+  -   ERC urbisphere project begins
+  -   Mat Lispon returns to UNSW
+- 2019
+- 
 - 2018
   - Christoph Kent:	Successful PhD Viva	April 2018
   - Marine Jeoffrion:	visit from Meteo France	Feb 2018
@@ -28,7 +44,7 @@
   - Izzy Capel-Timms	Starts PhD	January 2016
   - Ting Sun	re-joins group	January 2016
 - 2015 
-  - Will Morrison	  ACEEES Student Presentation Award	Hawaii December 2015
+  - Will Morrison	 ACEEES Student Presentation Award	Hawaii December 2015
   - Martin Best	Successfully defended PhD	November 2015
   - Christoph Kent	WES Student Presenation Award	October 2015
   - Will Morrison	Starts PhD	October 2015
