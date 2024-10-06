@@ -31,6 +31,12 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 
 | [ORCID](http://orcid.org/0000-0002-3166-9415) | [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en) |[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55188785600) | [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)  [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185) | [academia.edu](http://reading.academia.edu/SueGrimmond)|
 
+
+### Projects
+
+- [Projects](https://github.com/suegrimmond/suegrimmond.github.io/Projects)
+- [Group](https://github.com/suegrimmond/suegrimmond.github.io/Group)
+
 ### Publications and Research Interests
 
 - urban climatology
