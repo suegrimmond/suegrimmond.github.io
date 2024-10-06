@@ -1,26 +1,27 @@
 ## Current Group Members
+
 [Sue Grimmond](https://suegrimmond.github.io/Sue)
 
-| PDRA | PhD | 
-|---|--| 
+| PDRA | PhD |
+|---|--|
 | Denise Hertwig | Yiqing Liu |
 | Russell Glazer | Vitor Lavor |
 | Silvia Rognone | Tiancheng Ma |
 | Megan McGrory | Matthew Paskin |
-| Matt Clements | HL
+| Matt Clements | |
 |  | MF
 || CAS
 || DL
 || DT
 ||GI
 
-
 [News](https://suegrimmond.github.io/News)
 
-##  Past Group Members
+## Past Group Members: Reading
 
 | PDRA | PhD | Visitors/ Technician |
 |---|--| --|
+| | | HL|
 Will Morrison | Beth Saunders|  Keisuke Nakao
 Mathew Lipson  | DM | Matthew Paskin (t)
 Natalie Theeuwes| Meg Stretton| Junxia Dou
@@ -33,7 +34,6 @@ Andrew Gabey | | Mathew (Yan) Ng (t)
 | |  | Kjell zum Berge (t)
 | | | Will Morrison (t)
 
-
 ## Past KCL
 
 | PDRA | PhD | Visitors/ Technician |
@@ -44,7 +44,4 @@ Andrew Gabey | | Mathew (Yan) Ng (t)
 | | Helen Ward |   Lukas Pauscher (t) |
 | | Thomas Loridan | John Mustchin (t)
 
-
-## Past Indiana University 
-
-
+## Past Indiana University

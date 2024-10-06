@@ -2,16 +2,16 @@
 
 Current international Scientific Committee membership includes for KIT Earth and Environment International Scientific Advisory Board, Scientific Committee of the Institute of Urban Meteorology (CMA), ARUP Project Review Board Climate Services in China, ICUC-11 (IAUC) and WMO GURME Scientific  Advisory Group.
 
-| [ORCID](http://orcid.org/0000-0002-3166-9415) | [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en) | [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)  [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185) | [academia.edu](http://reading.academia.edu/SueGrimmond)| 
+| [ORCID](http://orcid.org/0000-0002-3166-9415) | [google citations](https://scholar.google.co.uk/citations?user=wlxFPjkAAAAJ&hl=en) | [ResearchGate](http://www.researchgate.net/profile/C_Sue_Grimmond/)  [LinkedIn](http://uk.linkedin.com/pub/sue-grimmond/2/4a5/185) | [academia.edu](http://reading.academia.edu/SueGrimmond)|
 
 ### Publicationd and Research Interests
+
 - urban climatology
 - surface-atmosphere exchanges
 - heat, carbon and water
 - micrometeorology
 - Boundary layer meteorology
 - Hydroclimatology
-
 
 |  | |
 |--|--|
@@ -29,5 +29,3 @@ Current international Scientific Committee membership includes for KIT Earth and
 | Environments |
 | [Urban](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+urban&_action_search=Search)| [Forest](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+forest&_action_search=Search),  [Wetlands]() |
 CV
-
-
