@@ -1,9 +1,9 @@
 | 1 | 2 | 3 | 4| 5 | 6 |7 |8 |
 |--|--|--|--|--|--|--|--|
-|[Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)|[gs](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)|
+|[Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)|[G.sS.](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)|
 [Ao](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ao) | [Best](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#best) | [Bjorkegren](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#bjorkegren)|[Crawford](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#crawford)| [Chrysoulakis](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#chrysoulakis)|[Dou](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#dou)|[Gabey](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#gabey) |[Gough](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#gough) |
 [Hertwig](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#hertwig)|[Honjo](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#honjo)|[Huang](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#huang)|[Järvi](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#j%C3%A4rvi) [-GS](https://scholar.google.com/citations?user=9m7df68AAAAJ)
-| [Kent](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kent) |[Kokkonen](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kokkonen)| [Kotthaus](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kotthaus)| [Lindberg](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#lindberg)| [Qi Li](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#qi-li)|[Yiqing Liu](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#yiqing-liu)|[Morrison](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#morrison)|[Offerle](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#offerle)
+| [Kent](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kent) |[Kokkonen](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kokkonen)| [Kotthaus](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kotthaus)| [Lindberg](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#lindberg)| [Li, Qi](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#qi-li)|[Liu, Yiqing](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#yiqing-liu)|[Morrison](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#morrison)|[Offerle](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#offerle)
 [Saunders](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#saunders)|[Sun](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#sun)|[Takane](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#takane)| [Theeuwes](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#theeuwes) |[Tsiringakis](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#tsiringakis) |[Ward](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ward) | [Warren](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#warren)| [Xiong](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#huang)|
 
 | 9| 10| 11 | 12 |
@@ -13,6 +13,11 @@
 | 13 | 14 |15 | 16 | 17 |18 | 19|
 |--|--|--|--|--|--|--|
 [CO2](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#co2) | [Form & Function](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#form--function) |[IUS](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ius)| [Meso-scale Modelling](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#meso-scale-modelling) | [WUDAPT](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#wudapt)|
+
+### Ao 
+1. Ao XY, CSB Grimmond, YY Chang, DW Liu, YQ Tang, P Hu, YD Wang, J Zou, JG Tan 2016: Challenges of observing heat, water and carbon exchanges in Shanghai, a dense, tall megacity IJC 36: 4608–4624 https://doi.org/10.1002/joc.4657
+1. Ao XY, CSB Grimmond, DW Liu, ZH Han, P Hu, YD Wang, XR Zhen, JG Tan 2016: Radiation fluxes in a business district of Shanghai JAMC 55: 2451-2468 https://doi.org/10.1175/JAMC-D-16-0082.1
+2. Ao X, CSB Grimmond, HC Ward, AM Gabey, J Tan, X Yang, D Liu, X Zhi, H Liu, N Zhang 2018: Evaluation of the surface urban energy and water balance scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation JHM 19: 1983–2005 https://doi.org/10.1175/JHM-D-18-0057.1
 
 ### Best   
 1. Best MJ, CSB Grimmond 2016: Modelling the Bowen ratio at a number of urban sites over a range of vegetation cover JHM 17: 2537–2553, https://doi.org/10.1175/JHM-D-15-0126.1
@@ -27,6 +32,18 @@
 1. Crawford B, CSB Grimmond, A Gabey, M Marconcini, HC Ward, CW Kent 2018: Variability of urban surface temperatures and implications for aerodynamic energy exchange in unstable conditions QJRMS 144: 1719-1741 https://doi.org/10.1002/qj.3325
 1. Crawford B, CSB Grimmond, HC Ward, W Morrison, S. Kotthaus 2017: Spatial and temporal patterns of surface-atmosphere energy exchange in a dense urban environment using scintillometry QJRMS 143: 703B: 817–833 https://doi.org/10.1002/qj.2967
 2. Crawford B, CSB Grimmond, A Christen 2011: Five years of carbon dioxide fluxes measurements in a highly vegetated suburban area, AE 45, 896-905 https://doi.org/10.1016/j.atmosenv.2010.11.017
+
+### Chrysoulakis
+1. Chrysoulakis N, S Grimmond, C Feigenwinter, F Lindberg, JP Gastellu-Etchegorry, M Marconcini, Z Mitraka, S Stagakis, B Crawford, F Olofson, L Landier, W Morrison, E Parlow 2018: Urban energy exchanges monitoring from space SR 8:11498   https://doi.org/10.1038/s41598-018-29873-x
+1. Chrysoulakis N, Marconcini M, Gastellu-Etchegorry J, Grimmond C, Feigenwinter C, Lindberg F, Del Frate F, Klostermann J, Mitraka Z, Esch T, Landier L, Gabey A, Parlow E, Olofson F 2017: Anthropogenic heat flux estimation from space: Results of the second phase of the URBANFLUXES Project. JURSE 2017, Dubai, UAE   https://doi.org/10.1109/10.1109/JURSE.2017.7924591
+1. Mitraka Z, Christian Feigenwinter, N Chrysoulakis, E Parlow, S Grimmond, F Lindberg, Andreas Wicki, Mattia Marconcini 2017: Towards discriminating between zones with different thermal behaviour in cities.  JURSE, Dubai, UAE.  https://doi.org/10.1109/JURSE.2017.7924593
+    
+### Dou
+1. Dou J, CSB Gimmond, Z Cheng, S Miao, M Liao, D Feng 2019: Summertime surface energy balance fluxes at two Beijing sites IJC 39(5): 2793-2810 https://doi.org/10.1002/joc.5989
+
+### Gabey
+1. Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic heat flux: advisable spatial resolutions when input data are scarce TAC 135 (1-2): 791-807 https://doi.org/10.1007/s00704-018-2367-y
+
 
 ### Gough
 1. Gough H, Z Luo, C Halios, M-F King, CJ Noakes, CSB Grimmond, JF Barlow, R Hoxey, AD Quinn 2018: Field measurements of natural ventilation in an idealised full-scale building in a staggered array: comparison between tracer-gas and pressure-based methods BE 137: 246-256 https://doi.org/10.1016/j.buildenv.2018.03.055 
@@ -88,6 +105,13 @@
 
 ### Qi Li
 1. Li Q, E Bou-Zeid, W Anderson, S Grimmond, M Hultmark 2016: Quality and reliability of LES of convective scalar transfer at high Reynolds numbers IJHMT 102: 959-970 https://doi.org/10.1016/j.ijheatmasstransfer.2016.06.093
+
+### Lindberg
+1. Lindberg F, C Grimmond, A Gabey, B Huang, CW Kent, T Sun, N Theeuwes, L Järvi, H Ward, I Capel-Timms, Y Chang, P Jonsson, N Krave, D Liu, D Meyer, K Olofson, J Tan, D Wästberg, L Xue, Z Zhang 2018: Urban multiscale environmental predictor (UMEP) - An integrated tool for city-based climate services EMS 99: 70–87 https://doi.org/10.1016/j.envsoft.2017.09.020
+1. Lindberg F, S Onomura, CSB Grimmond 2016: Influence of ground surface characteristics on the mean radiant temperature in urban areas IJB 60(9) 1439–1452 https://doi.org/10.1007/s00484-016-1135-x
+1. Onomura S, C Grimmond, F Lindberg, B Holmer, S Thorsson 2015: Meteorological forcing data for urban outdoor thermal comfort models from a coupled convective boundary layer & surface energy balance scheme UC, 11, 1-23 https://doi.org/10.1016/j.uclim.2014.11.001
+Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-162, https://doi.org/10.5194/asr-12-157-2015
+1. Lindberg F, CSB Grimmond, A Martilli 2015: Sunlit fractions on urban facets – Impact of spatial resolution and approach, UC 12, 65-84. https://doi.org/10.1016/j.uclim.2014.11.006
 
 ### Yiqing Liu
 1. Liu Y,  S Grimmond, Z Luo, D Hertwig, M McGrory, S Lo Piano, ST Smith 2024: Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses Energy & Buildings https://doi.org/10.1016/j.enbuild.2024.114668
@@ -172,62 +196,20 @@
 1. Ward H, S Kotthaus, C Grimmond, A Bjorkegren, M Wilkinson, W Morrison, J Evans, J Morison, M Iamarino 2015: Effects of urban density on CO2 exchanges: observations of dense urban, suburban & woodland areas of southern England. EP, 198, 186-200 https://doi.org/10.1016/j.envpol.2014.12.031
 1. Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites UC 18: 1–32 https://doi.org/10.1016/j.uclim.2016.05.001
 
-### Beijing
-1. Shi Z, Vu T, Kotthaus S, Grimmond S, Harrison RM, Yue S, Zhu T, Lee J, Han Y, Demuzere M, Dunmore RE, Ren L, Liu D, Wang Y, Wild O, Allan, J, Barlow J, Beddows D, Bloss WJ, Carruthers D, Carslaw DC, Chatzidiakou L, Crilley L, Coe H, Dai T, Doherty R, Duan, F, Fu P, Ge B, Ge, M, Guan D, Hamilton JF, He K, Heal, M, Heard D, Hewitt CN, Hu M, Ji D, Jiang X, Jones R, Kalberer M, Kelly FJ, Kramer L, Langford B, Lin C, Lewis AC, Li J, Li W, Liu H, Loh M, Lu K, Mann G, McFiggans G, Miller M, Mills, G, Monk P, Nemitz E, O'Connor F, Ouyang B, Palmer PI, Percival C, Popoola O, Reeves, C, Rickard AR, Shao, L, Shi G, Spracklen D, Stevenson D, Sun Y, Sun Z, Tao, S, Tong, S, Wang Q, Wang W, Wang X, Wang Z, Whalley L, Wu X, Wu Z, Xie P, Yang F, Zhang Q, Zhang Y, Zhang Y, Zheng M 2019: Introduction to Special Issue In-depth study of air pollution sources and processes within Beijing and its surrounding region (APHH-Beijing) ACP 19: 7519–7546 https://doi.org/10.5194/acp-19-7519-2019
-1. Liu D, R Joshi, J Wang, C Yu, JD Allan, H Coe, MJ Flynn, C Xie, J Lee, F Squires, S Kotthaus, S Grimmond, X Ge, Y Sun, P Fu 2019: Contrasting physical properties of black carbon in urban Beijing between winter and summer ACP 19: 6749-6769 https://doi.org/10.5194/acp-19-6749-2019
-1. Liang X, S Miao, J Li, R Bornstein, X Zhang, Y Gao, F Chen, X Cao, Z Cheng, C Clements, W Dabberdt, A Ding, D Ding, Jj Dou, JX Dou, YJ Dou, S Grimmond, J Gonzalez-cruz, J He, M Huang, X Huang, S Ju, Q Li, D Niyogi, J Quan, J Sun, J Sun, M Yu, J Zhang, Y Zhang, X Zhao, Z Zheng, M Zhou 2018: SURF: understanding and predicting urban convection and haze BAMS 99: 1391–1413 https://doi.org/10.1175/BAMS-D-16-0178.1
-    
-### Dou
-1. Dou J, CSB Gimmond, Z Cheng, S Miao, M Liao, D Feng 2019: Summertime surface energy balance fluxes at two Beijing sites IJC 39(5): 2793-2810 https://doi.org/10.1002/joc.5989
-   
-### London
-1. Harrison RM, DCS Beddows, MS Alam, A Singh, J Brean, R Xu, S Kotthaus, S Grimmond 2019: Interpretation of particle number size distributions measured across an urban area during the FASTER Campaign ACP 19: 39–55 https://doi.org/10.5194/acp-19-39-2019
-1. Yunus AP, R Avtar, S Kraines, M Yamamuro, F Lindberg, CSB Grimmond 2016: Uncertainties in tidally adjusted estimates of sea level rise flooding (bathtub model) for the Greater London RS 8: 366 https://doi.org/10.3390/rs8050366
-1. Zazzeri G, D Lowry, RE Fisher, JL France, M Lanoisellé, CSB Grimmond, EG Nisbet 2017: Verifying methane inventories by isotopic analysis in the London region SR 7: 4854 https://doi.org/10.1038/s41598-017-04802-6
-1. Helfter C, Tremper AH, Halios CH, Kotthaus S, Bjorkegren A, Grimmond CSB, Barlow JF, Nemitz E 2016: Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK ACP 16: 10543–10557  https://doi.org/10.5194/acp-16-10543-2016
-1. Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project BAMS 96: 779–804 https://doi.org/10.1175/BAMS-D-12-00245.1
-1. Font A, Grimmond CSB, Kotthaus S, Morguí JA, Stockdale C, O’Connor E, Priestman M, Barratt B 2015: Daytime CO2 urban-regional scale surface fluxes from airborne measurements, eddy-covariance observations and emissions inventories in Greater London EP, 196, 98-106, https://doi.org/10.1016/j.envpol.2014.10.001 
 
-### Ao 
-1. Ao XY, CSB Grimmond, YY Chang, DW Liu, YQ Tang, P Hu, YD Wang, J Zou, JG Tan 2016: Challenges of observing heat, water and carbon exchanges in Shanghai, a dense, tall megacity IJC 36: 4608–4624 https://doi.org/10.1002/joc.4657
-1. Ao XY, CSB Grimmond, DW Liu, ZH Han, P Hu, YD Wang, XR Zhen, JG Tan 2016: Radiation fluxes in a business district of Shanghai JAMC 55: 2451-2468 https://doi.org/10.1175/JAMC-D-16-0082.1
-2. Ao X, CSB Grimmond, HC Ward, AM Gabey, J Tan, X Yang, D Liu, X Zhi, H Liu, N Zhang 2018: Evaluation of the surface urban energy and water balance scheme (SUEWS) at a dense urban site in Shanghai: Sensitivity to anthropogenic heat and irrigation JHM 19: 1983–2005 https://doi.org/10.1175/JHM-D-18-0057.1
 
-### Shanghai
-1. Liu D, C Grimmond, J Tan, X Ao, L Cui, B Ma, Y Hu 2018: A new model to downscale urban and rural surface and air temperatures evaluated in Shanghai, China JAMC 57: 2267-2283 https://doi.org/10.1175/JAMC-D-17-0255.1
-1. Tang YQ, JG Tan, CSB Grimmond, Chang YY, Ao XY 2016: Estimation and analysis of aerodynamic parameters for a typical large city. JTM 32(4): 503-514.	https://doi.org/10.16032/j.issn.1004-4965.2016.04.008
-1. Peng J, CSB Grimmond, XS Fu, YY Chang, G Zhang, Jibing Guo, CY Tang, J Gao, XD Xu, JG Tan 2017: Ceilometer based analysis of Shanghai's boundary layer height (under rain and fog free conditions) JAOT 34: 749–764 https://doi.org/10.1175/JTECH-D-16-0132.1
-1. Tan J, L Yang, CSB Grimmond, J Shi, W Gu, Y Chang, P Hu, J Sun, X Ao, Z Han 2015: Urban integrated meteorological observations: Practice and experience in Shanghai, China BAMS, 96, 85-102, https://doi.org/10.1175/BAMS-D-13-00216.1
 
-### Gabey
-1. Gabey A, S Grimmond, I Capel-Timms 2019: Anthropogenic heat flux: advisable spatial resolutions when input data are scarce TAC 135 (1-2): 791-807 https://doi.org/10.1007/s00704-018-2367-y
 
-### Lindberg
-1. Lindberg F, C Grimmond, A Gabey, B Huang, CW Kent, T Sun, N Theeuwes, L Järvi, H Ward, I Capel-Timms, Y Chang, P Jonsson, N Krave, D Liu, D Meyer, K Olofson, J Tan, D Wästberg, L Xue, Z Zhang 2018: Urban multiscale environmental predictor (UMEP) - An integrated tool for city-based climate services EMS 99: 70–87 https://doi.org/10.1016/j.envsoft.2017.09.020
-1. Lindberg F, S Onomura, CSB Grimmond 2016: Influence of ground surface characteristics on the mean radiant temperature in urban areas IJB 60(9) 1439–1452 https://doi.org/10.1007/s00484-016-1135-x
-1. Onomura S, C Grimmond, F Lindberg, B Holmer, S Thorsson 2015: Meteorological forcing data for urban outdoor thermal comfort models from a coupled convective boundary layer & surface energy balance scheme UC, 11, 1-23 https://doi.org/10.1016/j.uclim.2014.11.001
-Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-162, https://doi.org/10.5194/asr-12-157-2015
-1. Lindberg F, CSB Grimmond, A Martilli 2015: Sunlit fractions on urban facets – Impact of spatial resolution and approach, UC 12, 65-84. https://doi.org/10.1016/j.uclim.2014.11.006
 
-### Chrysoulakis
-1. Chrysoulakis N, S Grimmond, C Feigenwinter, F Lindberg, JP Gastellu-Etchegorry, M Marconcini, Z Mitraka, S Stagakis, B Crawford, F Olofson, L Landier, W Morrison, E Parlow 2018: Urban energy exchanges monitoring from space SR 8:11498   https://doi.org/10.1038/s41598-018-29873-x
-1. Chrysoulakis N, Marconcini M, Gastellu-Etchegorry J, Grimmond C, Feigenwinter C, Lindberg F, Del Frate F, Klostermann J, Mitraka Z, Esch T, Landier L, Gabey A, Parlow E, Olofson F 2017: Anthropogenic heat flux estimation from space: Results of the second phase of the URBANFLUXES Project. JURSE 2017, Dubai, UAE   https://doi.org/10.1109/10.1109/JURSE.2017.7924591
-1. Mitraka Z, Christian Feigenwinter, N Chrysoulakis, E Parlow, S Grimmond, F Lindberg, Andreas Wicki, Mattia Marconcini 2017: Towards discriminating between zones with different thermal behaviour in cities.  JURSE, Dubai, UAE.  https://doi.org/10.1109/JURSE.2017.7924593
+
+
+
 
 
 ### Topics
 ### Meso-scale Modelling
 1. Batchvarova E, SE Gryning, CSB Grimmond, M Kelly, A Rutgersson, T Vihma, A Baklanov, RS Sokhi 2018: Representation of surface processes in mesoscale models (eds) Sokhi, Baklanov, Schlünzen Mesoscale Modelling for Meteorological and Air Pollution Applications, Anthem Press. http://www.anthempress.com/mesoscale-modelling-for-meteorological-and-air-pollution-applications
 
-
-### Birmingham
-1. Chapman L, C Muller, D Young, E Warren, C Grimmond, XM Cai, E Ferranti 2015: The Birmingham urban climate laboratory: An open meteorological testbed and challenges of the smart city BAMS. 96, 1545-1560 https://doi.org/10.1175/BAMS-D-13-00193.1
-
-### Chicago
-1. Grimmond CSB, TS King, FD Cropley, D Nowak, C Souch 2002: Local-scale fluxes of carbon dioxide in urban environments: methodological challenges & results from Chicago. EP, 116, S243-S254. https://doi.org/10.1016/S0269-7491(01)00256-1
-2. McPherson EG, D Nowak, G Heisler, S Grimmond, C Souch, R Grant, R Rowntree 1997: Quantifying urban forest structure, function & value: The Chicago urban forest climate project. UE, 1: 49-61. https://doi.org/10.1023/A:1014350822458
-3. Heisler GM, CSB Grimmond, RH Grant, C Souch 1994: Studying the influence of Chicago's urban forest on wind & air temperature. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA For. Ser. Northeastern Forest Expt Station, General Technical Report NE-186, 19-40.
-4. Grimmond CSB, C Souch, RH Grant, G Heisler 1994: Local scale energy & water exchanges in a Chicago neighborhood. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA Forest Service Northeastern Forest Experiment Station, General Technical NE-186, 41-61. 
 
 ### CO2
 1. Ao XY, CSB Grimmond, YY Chang, DW Liu, YQ Tang, P Hu, YD Wang, J Zou, JG Tan 2016: Challenges of observing heat, water and carbon exchanges in Shanghai, a dense, tall megacity IJC 36: 4608–4624 https://doi.org/10.1002/joc.4657
@@ -259,3 +241,36 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 
 ### Form & Function
 1. Barlow J, Best M, Bohnenstengel SI, Clark P, Grimmond S, Lean H, Christen A, Emeis, S, Haeffelin M, Harman IN, Lemonsu A, Martilli A, Pardyjak E, Rotach MW, Ballard S, Boutle I, Brown A, Cai X, Carpentieri M, Coceal O, Crawford B, Di Sabatino S, Dou J, Drew D, Edwards JM, Fallmann J, Fortuniak K, Gornall J, Gronemeier T, Halios C, Hertwig D, Hirano K, Holtslag AAM, Luo Z, Mills G, Nakayoshi M, Pain K, Schlünzen KH, Smith S, Soulhac L, Steeneveld G-J Sun T, Theeuwes N, Thomson D, Voogt JA, Ward H, Xie Z-T, Zhong J 2017: The integration of urban atmospheric processes across scales. BAMS 98: ES261–ES264 https://doi.org/10.1175/BAMS-D-17-0106.11. 
+
+
+## Cities
+
+### Beijing
+1. Shi Z, Vu T, Kotthaus S, Grimmond S, Harrison RM, Yue S, Zhu T, Lee J, Han Y, Demuzere M, Dunmore RE, Ren L, Liu D, Wang Y, Wild O, Allan, J, Barlow J, Beddows D, Bloss WJ, Carruthers D, Carslaw DC, Chatzidiakou L, Crilley L, Coe H, Dai T, Doherty R, Duan, F, Fu P, Ge B, Ge, M, Guan D, Hamilton JF, He K, Heal, M, Heard D, Hewitt CN, Hu M, Ji D, Jiang X, Jones R, Kalberer M, Kelly FJ, Kramer L, Langford B, Lin C, Lewis AC, Li J, Li W, Liu H, Loh M, Lu K, Mann G, McFiggans G, Miller M, Mills, G, Monk P, Nemitz E, O'Connor F, Ouyang B, Palmer PI, Percival C, Popoola O, Reeves, C, Rickard AR, Shao, L, Shi G, Spracklen D, Stevenson D, Sun Y, Sun Z, Tao, S, Tong, S, Wang Q, Wang W, Wang X, Wang Z, Whalley L, Wu X, Wu Z, Xie P, Yang F, Zhang Q, Zhang Y, Zhang Y, Zheng M 2019: Introduction to Special Issue In-depth study of air pollution sources and processes within Beijing and its surrounding region (APHH-Beijing) ACP 19: 7519–7546 https://doi.org/10.5194/acp-19-7519-2019
+1. Liu D, R Joshi, J Wang, C Yu, JD Allan, H Coe, MJ Flynn, C Xie, J Lee, F Squires, S Kotthaus, S Grimmond, X Ge, Y Sun, P Fu 2019: Contrasting physical properties of black carbon in urban Beijing between winter and summer ACP 19: 6749-6769 https://doi.org/10.5194/acp-19-6749-2019
+1. Liang X, S Miao, J Li, R Bornstein, X Zhang, Y Gao, F Chen, X Cao, Z Cheng, C Clements, W Dabberdt, A Ding, D Ding, Jj Dou, JX Dou, YJ Dou, S Grimmond, J Gonzalez-cruz, J He, M Huang, X Huang, S Ju, Q Li, D Niyogi, J Quan, J Sun, J Sun, M Yu, J Zhang, Y Zhang, X Zhao, Z Zheng, M Zhou 2018: SURF: understanding and predicting urban convection and haze BAMS 99: 1391–1413 https://doi.org/10.1175/BAMS-D-16-0178.1
+
+### Birmingham
+1. Chapman L, C Muller, D Young, E Warren, C Grimmond, XM Cai, E Ferranti 2015: The Birmingham urban climate laboratory: An open meteorological testbed and challenges of the smart city BAMS. 96, 1545-1560 https://doi.org/10.1175/BAMS-D-13-00193.1
+
+### Chicago
+1. Grimmond CSB, TS King, FD Cropley, D Nowak, C Souch 2002: Local-scale fluxes of carbon dioxide in urban environments: methodological challenges & results from Chicago. EP, 116, S243-S254. https://doi.org/10.1016/S0269-7491(01)00256-1
+2. McPherson EG, D Nowak, G Heisler, S Grimmond, C Souch, R Grant, R Rowntree 1997: Quantifying urban forest structure, function & value: The Chicago urban forest climate project. UE, 1: 49-61. https://doi.org/10.1023/A:1014350822458
+3. Heisler GM, CSB Grimmond, RH Grant, C Souch 1994: Studying the influence of Chicago's urban forest on wind & air temperature. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA For. Ser. Northeastern Forest Expt Station, General Technical Report NE-186, 19-40.
+4. Grimmond CSB, C Souch, RH Grant, G Heisler 1994: Local scale energy & water exchanges in a Chicago neighborhood. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA Forest Service Northeastern Forest Experiment Station, General Technical NE-186, 41-61. 
+
+  
+### London
+1. Harrison RM, DCS Beddows, MS Alam, A Singh, J Brean, R Xu, S Kotthaus, S Grimmond 2019: Interpretation of particle number size distributions measured across an urban area during the FASTER Campaign ACP 19: 39–55 https://doi.org/10.5194/acp-19-39-2019
+1. Yunus AP, R Avtar, S Kraines, M Yamamuro, F Lindberg, CSB Grimmond 2016: Uncertainties in tidally adjusted estimates of sea level rise flooding (bathtub model) for the Greater London RS 8: 366 https://doi.org/10.3390/rs8050366
+1. Zazzeri G, D Lowry, RE Fisher, JL France, M Lanoisellé, CSB Grimmond, EG Nisbet 2017: Verifying methane inventories by isotopic analysis in the London region SR 7: 4854 https://doi.org/10.1038/s41598-017-04802-6
+1. Helfter C, Tremper AH, Halios CH, Kotthaus S, Bjorkegren A, Grimmond CSB, Barlow JF, Nemitz E 2016: Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK ACP 16: 10543–10557  https://doi.org/10.5194/acp-16-10543-2016
+1. Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project BAMS 96: 779–804 https://doi.org/10.1175/BAMS-D-12-00245.1
+1. Font A, Grimmond CSB, Kotthaus S, Morguí JA, Stockdale C, O’Connor E, Priestman M, Barratt B 2015: Daytime CO2 urban-regional scale surface fluxes from airborne measurements, eddy-covariance observations and emissions inventories in Greater London EP, 196, 98-106, https://doi.org/10.1016/j.envpol.2014.10.001 
+
+
+### Shanghai
+1. Liu D, C Grimmond, J Tan, X Ao, L Cui, B Ma, Y Hu 2018: A new model to downscale urban and rural surface and air temperatures evaluated in Shanghai, China JAMC 57: 2267-2283 https://doi.org/10.1175/JAMC-D-17-0255.1
+1. Tang YQ, JG Tan, CSB Grimmond, Chang YY, Ao XY 2016: Estimation and analysis of aerodynamic parameters for a typical large city. JTM 32(4): 503-514.	https://doi.org/10.16032/j.issn.1004-4965.2016.04.008
+1. Peng J, CSB Grimmond, XS Fu, YY Chang, G Zhang, Jibing Guo, CY Tang, J Gao, XD Xu, JG Tan 2017: Ceilometer based analysis of Shanghai's boundary layer height (under rain and fog free conditions) JAOT 34: 749–764 https://doi.org/10.1175/JTECH-D-16-0132.1
+1. Tan J, L Yang, CSB Grimmond, J Shi, W Gu, Y Chang, P Hu, J Sun, X Ao, Z Han 2015: Urban integrated meteorological observations: Practice and experience in Shanghai, China BAMS, 96, 85-102, https://doi.org/10.1175/BAMS-D-13-00216.1

@@ -15,7 +15,8 @@
 || DT
 ||GI
 
-[News](https://suegrimmond.github.io/News)
+- [Publications by group members](https://suegrimmond.github.io/Publications)
+- [News](https://suegrimmond.github.io/News)
 
 ## Past Group Members: Reading
 
