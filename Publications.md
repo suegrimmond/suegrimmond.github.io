@@ -1,16 +1,17 @@
-| 1 | 2 | 3 | 4| 5 | 6 |7 |8 |
+| People|  |  | |  |  | |  |
 |--|--|--|--|--|--|--|--|
-|[Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)|[G.sS.](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)|
+|[SG Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)|[G.S.](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)|
 [Ao](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ao) | [Best](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#best) | [Bjorkegren](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#bjorkegren)|[Crawford](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#crawford)| [Chrysoulakis](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#chrysoulakis)|[Dou](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#dou)|[Gabey](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#gabey) |[Gough](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#gough) |
 [Hertwig](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#hertwig)|[Honjo](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#honjo)|[Huang](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#huang)|[Järvi](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#j%C3%A4rvi) [-GS](https://scholar.google.com/citations?user=9m7df68AAAAJ)
 | [Kent](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kent) |[Kokkonen](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kokkonen)| [Kotthaus](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#kotthaus)| [Lindberg](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#lindberg)| [Li, Qi](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#qi-li)|[Liu, Yiqing](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#yiqing-liu)|[Morrison](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#morrison)|[Offerle](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#offerle)
 [Saunders](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#saunders)|[Sun](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#sun)|[Takane](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#takane)| [Theeuwes](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#theeuwes) |[Tsiringakis](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#tsiringakis) |[Ward](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ward) | [Warren](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#warren)| [Xiong](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#huang)|
 
-| 9| 10| 11 | 12 |
+
+| Cities | |  |  |
 |--|--|--|--|
 [Beijing](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#beijing) | [Birmingham](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#birmingham) |[Chicago](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#chicago) |[London](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#london)|[Shanghai](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#shanghai) |
 
-| 13 | 14 |15 | 16 | 17 |18 | 19|
+| Topics |  | | | | | |
 |--|--|--|--|--|--|--|
 [CO2](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#co2) | [Form & Function](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#form--function) |[IUS](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#ius)| [Meso-scale Modelling](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#meso-scale-modelling) | [WUDAPT](https://github.com/suegrimmond/suegrimmond.github.io/blob/main/Publications.md#wudapt)|
 
