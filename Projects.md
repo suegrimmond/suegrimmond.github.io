@@ -14,14 +14,14 @@
 | APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme |
 | AirPro: An integrated study of air pollution processes in Beijing  |
 | UK Research and Innovation’s Global Challenge Research Fund. GCRF Urban Disaster Risk Hub |
-! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss !
+! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss |
 | Hi-Temp:  High density temperature measurements within the urban environment |
 | ARSF ClearFlux – London cross sectional flights for flux measurements and vertical profiling of CO2, O3 and PM |
 | ClearfLo: (Clean Air for London): boundary layer pollution across London |
 | Field Spectroscopy Facility Investigating the Urban Energy Balance of London |
-| Airborne Remote Sensing Facility & Field Spectroscopy Facility, Overflights & Equipment loans Investigation of the Urban Energy Exchanges of London | 
+| Airborne Remote Sensing Facility & Field Spectroscopy Facility, Overflights & Equipment loans Investigation of the Urban Energy Exchanges of London |
 | NERC/Belmont Metropole: An Integrated Framework to Analyze Local Decision Making and Adaptive Capacity to Large-Scale Environmental Change: Community Case Studies in Brazil/UK/US |
-| NERC/Belmont TRUC  Transformation and Resilience on Urban Coasts | 
+| NERC/Belmont TRUC  Transformation and Resilience on Urban Coasts |
 
 
 | EPSRC |
