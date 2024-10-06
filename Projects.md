@@ -10,14 +10,16 @@
 
 | NERC | 
 |--| 
-|COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach|
+| COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach|
 | APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme|
-|AirPro |
+| AirPro: An integrated study of air pollution processes in Beijing  |
 | UK Research and Innovation’s Global Challenge Research Fund. GCRF Urban Disaster Risk Hub |
 ! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss !
-| Hi-Temp |
-| ARSF – flights across London
-| ClearfLo: (Clean Air for London): boundary layer pollution across London | 
+| Hi-Temp:  High density temperature measurements within the urban environment |
+| ARSF ClearFlux – London cross sectional flights for flux measurements and vertical profiling of CO2, O3 and PM |
+| ClearfLo: (Clean Air for London): boundary layer pollution across London |
+| Field Spectroscopy Facility Investigating the Urban Energy Balance of London |
+| Airborne Remote Sensing Facility & Field Spectroscopy Facility, Overflights & Equipment loans Investigation of the Urban Energy Exchanges of London | 
 | NERC/Belmont Metropole: An Integrated Framework to Analyze Local Decision Making and Adaptive Capacity to Large-Scale Environmental Change: Community Case Studies in Brazil/UK/US |
 | NERC/Belmont TRUC  Transformation and Resilience on Urban Coasts| 
 
@@ -25,7 +27,7 @@
 |EPSRC |
 |--|
 | DARE: Data Assimilation for the REsilient City  |
-| LoHCool | 
+| LoHCool: Low carbon climate-responsive Heating and Cooling of Cities  | 
 | Bridging the Gap Materials Innovation Hub: Connecting Materials Culture to Materials Science |
 
 | Newton Fund/Met Office | 
@@ -41,7 +43,7 @@ CSSP- China  2|
 
 - Royal Society
 - ECMWF URBAN SIS Volume V - Copernicus Services and Service
-
+- GLA: The Urban Heat Island in London
 
 
 | H2020 / EUf7 | 
@@ -55,6 +57,7 @@ CSSP- China  2|
 | --|
 | ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne 
 Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+| Human Settlements as ecosystems: Metropolitan Baltimore from 1797-2100: Phase II |
 | DEB 9714835. Human Settlements as ecosystems: Metropolitan Baltimore from 1797-2100 |
 | BCS-0095284 Research Experience for Undergraduate Undergraduate research for measurement & modeling of local scale energy & mass exchanges in urban environments |
 | 0221105: Doctoral Dissertation Research: Examination of local-scale spatial variability of heat fluxes across an urban area: Integration of measurements, remote sensing & modeling |
@@ -86,8 +89,8 @@ Grossman- Clarke (ASU), Thomas Loridan (KCL)|
 
 |DOE  NIGEC|
 |--|
-| 
-| 
+| Ecosystem-Atmosphere Exchange of Carbon, Water & Energy over a mixed deciduous forest in the Midwest |
+| Forest-Atmosphere Exchange of CO2 over a Mixed Hardwood Ecosystem in the Midwest
 | The effect of variability in microclimate & regional climate on the productivity of neo-tropical migrant land birds in Midwestern Forests: Application to climate change scenarios
 |Measurements of fluxes & concentrations of CO2 in & over a deciduous forest in the Midwest |
 |Climatic influences of land surface conditions in the Midwest United States
@@ -100,8 +103,8 @@ Grossman- Clarke (ASU), Thomas Loridan (KCL)|
 
 | Other |
 | --|
-|CFCAS, Canada
-
+|CFCAS EPIC: Environmental Prediction for Canadian Cities|
+| PNTS: Local-scale surface energy balance measurements in Marseille, France during the ESCOMPTE field campaign |
 
 
 ### International Urban Energy Balance Model Comparison
