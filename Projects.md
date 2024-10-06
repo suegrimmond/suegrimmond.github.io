@@ -10,8 +10,8 @@
 
 | NERC | 
 |--| 
-| COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach|
-| APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme|
+| COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach |
+| APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme |
 | AirPro: An integrated study of air pollution processes in Beijing  |
 | UK Research and Innovation’s Global Challenge Research Fund. GCRF Urban Disaster Risk Hub |
 ! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss !
@@ -21,10 +21,10 @@
 | Field Spectroscopy Facility Investigating the Urban Energy Balance of London |
 | Airborne Remote Sensing Facility & Field Spectroscopy Facility, Overflights & Equipment loans Investigation of the Urban Energy Exchanges of London | 
 | NERC/Belmont Metropole: An Integrated Framework to Analyze Local Decision Making and Adaptive Capacity to Large-Scale Environmental Change: Community Case Studies in Brazil/UK/US |
-| NERC/Belmont TRUC  Transformation and Resilience on Urban Coasts| 
+| NERC/Belmont TRUC  Transformation and Resilience on Urban Coasts | 
 
 
-|EPSRC |
+| EPSRC |
 |--|
 | DARE: Data Assimilation for the REsilient City  |
 | LoHCool: Low carbon climate-responsive Heating and Cooling of Cities  | 
@@ -32,14 +32,14 @@
 
 | Newton Fund/Met Office | 
 |--|
-| ViewPoint Providing methodologies and communications materials for sharing the outputs and knowledge |from CSSP China (ViewPoint )|
-|CSSP HighResCity| 
-|CSSP EUN |
-CSSP- China  2|
-|CSSP- China  2|
+| ViewPoint Providing methodologies and communications materials for sharing the outputs and knowledge |from CSSP China (ViewPoint) |
+| CSSP HighResCity | 
+| CSSP EUN |
+|  CSSP- China 2 |
+| CSSP- China  2 |
 | Met Office International Urban Land Surface Model Comparison|
 | |
-| LCCP (Met Office, Lloyd’s of London) Observing London: Weather data needed for London to thrive| 
+| LCCP (Met Office, Lloyd’s of London) Observing London: Weather data needed for London to thrive | 
 
 - Royal Society
 - ECMWF URBAN SIS Volume V - Copernicus Services and Service
@@ -51,20 +51,20 @@ CSSP- China  2|
 | [UrbanFluxes](https://urbanfluxes.eu/) | 
 | [emBRACE](https://sites.google.com/site/embracefp7) | 
 | MegaPoli: interactions among megacities, air quality and climate. MEGAPOLI will bridge the spatial |
-| Bridge: bridge the gap between bio-physical sciences and urban planners. Introducing innovative planning strategies for urban planning and design in Europe. and temporal scales that connect local emissions, air quality and weather with global atmospheric chemistry and climate.|
+| Bridge: bridge the gap between bio-physical sciences and urban planners. Introducing innovative planning strategies for urban planning and design in Europe. and temporal scales that connect local emissions, air quality and weather with global atmospheric chemistry and climate. |
 
 | US National Science Foundation  |
 | --|
 | ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne 
-Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+Grossman- Clarke (ASU), Thomas Loridan (KCL) |
 | Human Settlements as ecosystems: Metropolitan Baltimore from 1797-2100: Phase II |
 | DEB 9714835. Human Settlements as ecosystems: Metropolitan Baltimore from 1797-2100 |
 | BCS-0095284 Research Experience for Undergraduate Undergraduate research for measurement & modeling of local scale energy & mass exchanges in urban environments |
 | 0221105: Doctoral Dissertation Research: Examination of local-scale spatial variability of heat fluxes across an urban area: Integration of measurements, remote sensing & modeling |
-| BCS-0095284 Measurement & Modeling of Local Scale Energy & Mass Exchanges in Urban Environments 
-| SES-9144227 Research Experience for Undergraduate Students. Undergraduate research experience in development & evaluation of continuously weighing mini-lysimeters
-| SES-8921919 Development & evaluation of continuously weighing mini-lysimeters|
-|EAR-9050419 Instructional equipment for fieldwork in climatology & meteorology |
+| BCS-0095284 Measurement & Modeling of Local Scale Energy & Mass Exchanges in Urban Environments |
+| SES-9144227 Research Experience for Undergraduate Students. Undergraduate research experience in development & evaluation of continuously weighing mini-lysimeters |
+| SES-8921919 Development & evaluation of continuously weighing mini-lysimeters |
+| EAR-9050419 Instructional equipment for fieldwork in climatology & meteorology |
 
 
 | USDA Forest Service |
@@ -76,7 +76,7 @@ Grossman- Clarke (ASU), Thomas Loridan (KCL)|
 | - 4. Calibration of Chicago Urban Forest Climate Project meteorological instrumentation 
 | - 3: Urban hydroclimate flux measurements, Chicago, Illinois
 | - 2: Preliminary investigation of data resources for urban hydroclimate & vegetation studies for Chicago, Illinois  
-|- 1: Climatological observations for urban hydroclimate & vegetation studies |
+| - 1: Climatological observations for urban hydroclimate & vegetation studies |
 | CRA 23-526. The effect of vegetation on the hydroclimate of cities|
 
 | SCE |
@@ -84,16 +84,16 @@ Grossman- Clarke (ASU), Thomas Loridan (KCL)|
 | Local scale evaporation from residential areas of Los Angeles Metropolitan Area: 5: Coachella Valley fixed tower installation C4064902.
 | 4: San Gabriel & Coachella Valleys. C4044903
 | 3: San Gabriel Valley (LAMA) above canopy flux measurement C4043909
-| 2a,b: Above canopy meteorological instrumentation & fixed tower installation a)C403301 b)C4033001
-| 1: Initial C2052905| 
+| 2a,b: Above canopy meteorological instrumentation & fixed tower installation a)C403301 b)C4033001 
+| 1: Initial C2052905 | 
 
 |DOE  NIGEC|
 |--|
 | Ecosystem-Atmosphere Exchange of Carbon, Water & Energy over a mixed deciduous forest in the Midwest |
-| Forest-Atmosphere Exchange of CO2 over a Mixed Hardwood Ecosystem in the Midwest
-| The effect of variability in microclimate & regional climate on the productivity of neo-tropical migrant land birds in Midwestern Forests: Application to climate change scenarios
-|Measurements of fluxes & concentrations of CO2 in & over a deciduous forest in the Midwest |
-|Climatic influences of land surface conditions in the Midwest United States
+| Forest-Atmosphere Exchange of CO2 over a Mixed Hardwood Ecosystem in the Midwest |
+| The effect of variability in microclimate & regional climate on the productivity of neo-tropical migrant land birds in Midwestern Forests: Application to climate change scenarios |
+| Measurements of fluxes & concentrations of CO2 in & over a deciduous forest in the Midwest |
+| Climatic influences of land surface conditions in the Midwest United States |
 
 
 
