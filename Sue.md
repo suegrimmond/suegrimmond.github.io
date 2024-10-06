@@ -7,7 +7,19 @@
 
 #### Awards
 
-Her awards include: [2024 European Meteorological Society Silver Medal](https://www.emetsoc.org/awards/award/sue-grimmond/), [2023 S. Zilitinkevich Memorial Award](https://www.emetsoc.org/awards/award-category/collaborations-on-other-awards/zilitinkevich-award/), [2020 Royal Meteorological Society Symons's Gold Medal](https://www.rmets.org/awards-and-prizes-distinguished-work-and-careers-2020), [Doctor of Science Honoris Causa, Göteborg University 2006](https://www.gu.se/en/science/about-us/honorary-doctors), [Fellow of the American Meteorological Society (AMS) 2006](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-organization-and-administration/list-of-fellows/), Isaac Manasseh Meyer Fellowship (National University of Singapore 2019-20), Universitatis Lodziensis Amico Medal 2008 (University of Łódź), [Helmut E Landsberg Award (AMS)](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-awards-honors/awards/awards-for-outstanding-contributions/the-helmut-e-landsberg-award/),  [Luke Howard Award (IAUC)](http://www.urban-climate.org/); Ernest Frolich Fellowship 2012 (CSIRO, Australia), Japan Society for Promotion of Science Invitation Fellowship (University of Tokyo 2009), Eminent Professor Visit Award (Monash University 2007). 
+Her awards include:
+- [2024 European Meteorological Society Silver Medal](https://www.emetsoc.org/awards/award/sue-grimmond/)
+- [2023 S. Zilitinkevich Memorial Award](https://www.emetsoc.org/awards/award-category/collaborations-on-other-awards/zilitinkevich-award/)
+- [2020 Royal Meteorological Society Symons's Gold Medal](https://www.rmets.org/awards-and-prizes-distinguished-work-and-careers-2020)
+- Ernest Frolich Fellowship 2012 (CSIRO, Australia)
+- [Helmut E Landsberg Award (AMS) 2009](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-awards-honors/awards/awards-for-outstanding-contributions/the-helmut-e-landsberg-award/)
+- [Luke Howard Award (IAUC) 2009](https://urban-climate.org/awards/)
+- Japan Society for Promotion of Science Invitation Fellowship (University of Tokyo 2009)
+- [Doctor of Science Honoris Causa, Göteborg University 2006](https://www.gu.se/en/science/about-us/honorary-doctors)
+- [Fellow of the American Meteorological Society (AMS) 2006](https://www.ametsoc.org/index.cfm/ams/about-ams/ams-organization-and-administration/list-of-fellows/)
+- Isaac Manasseh Meyer Fellowship (National University of Singapore 2019-20)
+- Universitatis Lodziensis Amico Medal 2008 (University of Łódź)
+- Eminent Professor Visit Award (Monash University 2007)
 
 #### Visting Positions and International Scientific Advisory Committees
 

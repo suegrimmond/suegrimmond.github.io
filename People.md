@@ -2,15 +2,14 @@
 
 [Sue Grimmond](https://suegrimmond.github.io/Sue)
 
-| PDRA | PhD |
+| PDRA | PhD |Visitor
 |---|--|
-| Denise Hertwig | Yiqing Liu |
+| Denise Hertwig | Yiqing Liu | Tianhao
 | Russell Glazer | Vitor Lavor |
 | Silvia Rognone | Tiancheng Ma |
 | Megan McGrory | Matthew Paskin |
-| Matt Clements | |
-|  | MF
-|| CAS
+| Matt Clements | CAS|
+| | MF
 || DL
 || DT
 ||GI

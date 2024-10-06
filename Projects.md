@@ -2,28 +2,18 @@
 
 - ERC urbisphere
 - NERC ASSURE
-- EPSRC FUTURE
+- EPSRC FUTURE Fluid dynamics of Urban Tall-building clUsters for Resilient built Environments 
 - AFESP URBANE
 
 
-## Past
-
-
-- Royal Society
-- ECMWF
-
-
-
-
-
-
-
-### Past by Agency
+## Past by Agency
 
 | NERC | 
 |--| 
-|COSMA |
+|COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach|
+| APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme|
 |AirPro |
+| UK Research and Innovation’s Global Challenge Research Fund. GCRF Urban Disaster Risk Hub |
 ! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss !
 | Hi-Temp |
 | ARSF – flights across London
@@ -34,12 +24,13 @@
 
 |EPSRC |
 |--|
-| DARE |
+| DARE: Data Assimilation for the REsilient City  |
 | LoHCool | 
 | Bridging the Gap Materials Innovation Hub: Connecting Materials Culture to Materials Science |
 
 | Newton Fund/Met Office | 
 |--|
+| ViewPoint Providing methodologies and communications materials for sharing the outputs and knowledge |from CSSP China (ViewPoint )|
 |CSSP HighResCity| 
 |CSSP EUN |
 CSSP- China  2|
@@ -47,6 +38,11 @@ CSSP- China  2|
 | Met Office International Urban Land Surface Model Comparison|
 | |
 | LCCP (Met Office, Lloyd’s of London) Observing London: Weather data needed for London to thrive| 
+
+- Royal Society
+- ECMWF URBAN SIS Volume V - Copernicus Services and Service
+
+
 
 | H2020 / EUf7 | 
 |--|
@@ -57,7 +53,12 @@ CSSP- China  2|
 
 | US National Science Foundation  |
 | --|
-| ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+| ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne 
+Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+| DEB 9714835. Human Settlements as ecosystems: Metropolitan Baltimore from 1797-2100 |
+| BCS-0095284 Research Experience for Undergraduate Undergraduate research for measurement & modeling of local scale energy & mass exchanges in urban environments |
+| 0221105: Doctoral Dissertation Research: Examination of local-scale spatial variability of heat fluxes across an urban area: Integration of measurements, remote sensing & modeling |
+| BCS-0095284 Measurement & Modeling of Local Scale Energy & Mass Exchanges in Urban Environments 
 | SES-9144227 Research Experience for Undergraduate Students. Undergraduate research experience in development & evaluation of continuously weighing mini-lysimeters
 | SES-8921919 Development & evaluation of continuously weighing mini-lysimeters|
 |EAR-9050419 Instructional equipment for fieldwork in climatology & meteorology |
@@ -65,23 +66,41 @@ CSSP- China  2|
 
 | USDA Forest Service |
 |--|
- CRA 23-546   4. Calibration of Chicago Urban Forest Climate Project meteorological instrumentation   3: Urban hydroclimate flux measurements, Chicago, Illinois   2: Preliminary investigation of data resources for urban hydroclimate & vegetation studies for Chicago, Illinois   1: Climatological observations for urban hydroclimate & vegetation studies |
-|CRA 23-526. The effect of vegetation on the hydroclimate of cities|
+| CRA: 03-CA-11242343-082; 04-CA-11242343-124; 05-CA-11242343-115 Carbon, water & heat eddy-covariance measurements in suburban, Baltimore, MD |
+| Urban forestry exercises: the integration of field measurements & GIS/Remote sensing |
+| CRA00-CA-11242343-073; 01-CA-11242343-039; 02-CA-11232343-117 Northern Global Change Research Development of an eddy-covariance site at Cub Hill, Baltimore, MD |
+| CRA 23-546  |
+| - 4. Calibration of Chicago Urban Forest Climate Project meteorological instrumentation 
+| - 3: Urban hydroclimate flux measurements, Chicago, Illinois
+| - 2: Preliminary investigation of data resources for urban hydroclimate & vegetation studies for Chicago, Illinois  
+|- 1: Climatological observations for urban hydroclimate & vegetation studies |
+| CRA 23-526. The effect of vegetation on the hydroclimate of cities|
 
 | SCE |
 |--|
 | Local scale evaporation from residential areas of Los Angeles Metropolitan Area: 5: Coachella Valley fixed tower installation C4064902.
-! 4: San Gabriel & Coachella Valleys. C4044903
+| 4: San Gabriel & Coachella Valleys. C4044903
 | 3: San Gabriel Valley (LAMA) above canopy flux measurement C4043909
 | 2a,b: Above canopy meteorological instrumentation & fixed tower installation a)C403301 b)C4033001
 | 1: Initial C2052905| 
 
-| NIGEC-MMSF|
-| DTRA|
+|DOE  NIGEC|
+|--|
+| 
+| 
+| The effect of variability in microclimate & regional climate on the productivity of neo-tropical migrant land birds in Midwestern Forests: Application to climate change scenarios
+|Measurements of fluxes & concentrations of CO2 in & over a deciduous forest in the Midwest |
+|Climatic influences of land surface conditions in the Midwest United States
+
+
+
+| DTRA/Dept Army/DOE |
+|--|
+| Joint Urban 2003 Oklahoma City 
 
 | Other |
 | --|
-CFCAS , Canada
+|CFCAS, Canada
 
 
 
