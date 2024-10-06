@@ -8,8 +8,8 @@
 
 ## Past by Agency
 
-| NERC | 
-|--| 
+| NERC |
+|--|
 | COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach |
 | APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme |
 | AirPro: An integrated study of air pollution processes in Beijing  |
