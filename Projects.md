@@ -18,7 +18,7 @@
 
 
 
-### Past
+### Past by Agency
 
 | NERC | 
 |--| 
@@ -55,14 +55,33 @@ CSSP- China  2|
 | MegaPoli: interactions among megacities, air quality and climate. MEGAPOLI will bridge the spatial |
 | Bridge: bridge the gap between bio-physical sciences and urban planners. Introducing innovative planning strategies for urban planning and design in Europe. and temporal scales that connect local emissions, air quality and weather with global atmospheric chemistry and climate.|
 
-| USA  |
+| US National Science Foundation  |
 | --|
-| NSF US National Science Foundation ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+| ATM-0710631 Influence of urbanization on weather in the arid Phoenix metropolitan area  Susanne Grossman- Clarke (ASU), Thomas Loridan (KCL)|
+| SES-9144227 Research Experience for Undergraduate Students. Undergraduate research experience in development & evaluation of continuously weighing mini-lysimeters
+| SES-8921919 Development & evaluation of continuously weighing mini-lysimeters|
+|EAR-9050419 Instructional equipment for fieldwork in climatology & meteorology |
+
+
 | USDA Forest Service |
+|--|
+ CRA 23-546   4. Calibration of Chicago Urban Forest Climate Project meteorological instrumentation   3: Urban hydroclimate flux measurements, Chicago, Illinois   2: Preliminary investigation of data resources for urban hydroclimate & vegetation studies for Chicago, Illinois   1: Climatological observations for urban hydroclimate & vegetation studies |
+|CRA 23-526. The effect of vegetation on the hydroclimate of cities|
+
+| SCE |
+|--|
+| Local scale evaporation from residential areas of Los Angeles Metropolitan Area: 5: Coachella Valley fixed tower installation C4064902.
+! 4: San Gabriel & Coachella Valleys. C4044903
+| 3: San Gabriel Valley (LAMA) above canopy flux measurement C4043909
+| 2a,b: Above canopy meteorological instrumentation & fixed tower installation a)C403301 b)C4033001
+| 1: Initial C2052905| 
+
 | NIGEC-MMSF|
 | DTRA|
 
-
+| Other |
+| --|
+CFCAS , Canada
 
 
 

@@ -1,4 +1,4 @@
-## [Sue Grimmond](http://www.met.reading.ac.uk/userpages/xv904931.php) 
+## [Sue Grimmond](https://research.reading.ac.uk/meteorology/people/sue-grimmond/) 
 
  She is the past Met Office Joint Chair and Professor of Urban Meteorology at University of Reading. She joined the [Department of Meteorology](http://www.met.reading.ac.uk/), University of Reading in August 2013. Previously she was a Chair of Physical Geography and Professor at King’s College London, after being Assistant, Associate and Full Professor at Indiana University, Bloomington USA. She completed her undergraduate degree (BSc Hons) at the University of Otago, New Zealand, and graduate degrees (MSc and PhD) at The University of British Columbia. 
  
@@ -22,7 +22,7 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 - urban climatology
 - surface-atmosphere exchanges
 - heat, carbon and water
-- micrometeorology
+- micrometeorology (old page)
 - Boundary layer meteorology
 - Hydroclimatology
 
