@@ -35,7 +35,7 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 ### Projects
 
 - [Projects](https://suegrimmond.github.io/Projects)
-- [Group](https://suegrimmond.github.io/Group)
+- [Group](https://suegrimmond.github.io/People)
 
 ### Publications and Research Interests
 
