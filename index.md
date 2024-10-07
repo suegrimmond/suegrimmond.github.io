@@ -2,7 +2,8 @@
 ### Department of Meteorology, University of Reading
 
 - [People](https://suegrimmond.github.io/People)
-- [Publications](https://centaur.reading.ac.uk/view/creators/90005257.html)
+- [Publications](https://suegrimmond.github.io/Publications)
+     - [Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)
 - [Projects](https://suegrimmond.github.io/Projects)
 - [Software](https://urban-meteorology-reading.github.io/)
 - Data sets at Zenodo
