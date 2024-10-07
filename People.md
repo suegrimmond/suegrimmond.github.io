@@ -2,8 +2,8 @@
 
 [Sue Grimmond](https://suegrimmond.github.io/Sue)
 
-| PDRA | PhD |Visitor
-|---|--|
+| PDRA | PhD |Visitor |
+|---|--|--|
 | Denise Hertwig | Yiqing Liu | Tianhao
 | Russell Glazer | Vitor Lavor |
 | Silvia Rognone | Tiancheng Ma |
@@ -13,6 +13,9 @@
 || DL
 || DT
 ||GI
+
+
+
 
 - [Publications by group members](https://suegrimmond.github.io/Publications)
 - [News](https://suegrimmond.github.io/News)

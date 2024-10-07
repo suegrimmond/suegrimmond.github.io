@@ -25,7 +25,7 @@ Her awards include:
 
 #### Visting Positions and International Scientific Advisory Committees
 
-She has been a Visiting Professor of National Centre for International Research of Low-carbon and Green Buildings (MOST)/ Joint International Research Laboratory of Green Buildings and the Built Environments (MoE) Chongqing University, Visiting Distinguished Professor at Tsinghua University, and a Visiting Special Expert at the Shanghai Meteorological Bureau.
+She has been a Visiting Professor of National Centre for International Research of Low-carbon and Green Buildings (MOST)/ Joint International Research Laboratory of Green Buildings and the Built Environments (MoE) Chongqing University, Visiting Distinguished Professor at Tsinghua University, and a Visiting Special Expert at the Shanghai Meteorological Bureau. 
 
 Current international Scientific Committee memberships includes ISPL France, CCRS MSS Singapore, HERITAGE: High Tech for a Sustainable Future: HEat Robustness In relation To AGEing cities, 4TU Federation of Netherlands, and US DOE Argonne National Lab CROCUS: Community Research on Climate and Urban Science. Past international Scientific Committee memberships includes for Hamburg/MPI CLICCS, KIT Earth and Environment (International Scientific Advisory Board), Scientific Committee of the Institute of Urban Meteorology (CMA), ARUP Project Review Board Climate Services in China, ICUC-11 (IAUC) and WMO GURME Scientific Advisory Group.
 
@@ -36,6 +36,7 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 
 - [Projects](https://suegrimmond.github.io/Projects)
 - [Group](https://suegrimmond.github.io/People)
+- [Old micromet page](https://micromet.reading.ac.uk/%20sue-grimmond/)
 
 ### Publications and Research Interests
 
