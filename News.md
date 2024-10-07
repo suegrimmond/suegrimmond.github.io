@@ -1,9 +1,10 @@
 - 2024
   - Tianhao 
   - Silvia Rognone joins group
+  - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
   - Beth Saunders starts PDRA at Innsbruck
-  - Keisuke Nakao retuns to Japan
-  - ASSURE/urbisphere Bristl field campaign begins
+  - Keisuke Nakao returns to Japan
+  - ASSURE/urbisphere Bristol field campaign begins
 - 2023
   -   Tianhao Zhong starts visit from Nanjing Univ. October
   - Mathew Paskin starts PhD Sept 2023
