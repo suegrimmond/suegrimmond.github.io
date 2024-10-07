@@ -13,7 +13,7 @@
 | COSMA Climate service for resilience to overheating risk in Colombo, Sri Lanka: a multi-scale mapping approach |
 | APEx: An Air Pollution Exposure model to integrate protection of vulnerable groups into the UK Clean Air Programme |
 | AirPro: An integrated study of air pollution processes in Beijing  |
-| UK Research and Innovation’s Global Challenge Research Fund. GCRF Urban Disaster Risk Hub |
+
 ! Industrial Case Studentship/RMS:  Urban gust estimates for insurance portfolio loss |
 | Hi-Temp:  High density temperature measurements within the urban environment |
 | ARSF ClearFlux – London cross sectional flights for flux measurements and vertical profiling of CO2, O3 and PM |
@@ -30,28 +30,34 @@
 | LoHCool: Low carbon climate-responsive Heating and Cooling of Cities  | 
 | Bridging the Gap Materials Innovation Hub: Connecting Materials Culture to Materials Science |
 
+ | UKRI |
+ |--|
+| {Tomorrow's Cities}(https://tomorrowscities.org/) GCRF Urban Disaster Risk Hub, Global Challenge Research Fund |
+
+
 | Newton Fund/Met Office | 
 |--|
+| CSSP China: Next Generation Cities
 | ViewPoint Providing methodologies and communications materials for sharing the outputs and knowledge |from CSSP China (ViewPoint) |
 | CSSP HighResCity | 
 | CSSP EUN |
-|  CSSP- China 2 |
-| CSSP- China  2 |
+|  CSSP- China 2  Urban Climate Services|
+
 | Met Office International Urban Land Surface Model Comparison|
 | |
-| LCCP (Met Office, Lloyd’s of London) Observing London: Weather data needed for London to thrive | 
+| LCCP (Met Office, Lloyd’s of London)[Observing London: Weather data needed for London to thrive](https://climatelondon.org.uk/publications/observing-london/) | 
 
-- Royal Society
+- Royal Society / Newton Mobility
 - ECMWF URBAN SIS Volume V - Copernicus Services and Service
 - GLA: The Urban Heat Island in London
-
 
 | H2020 / EUf7 | 
 |--|
 | [UrbanFluxes](https://urbanfluxes.eu/) | 
 | [emBRACE](https://sites.google.com/site/embracefp7) | 
-| MegaPoli: interactions among megacities, air quality and climate. MEGAPOLI will bridge the spatial |
-| Bridge: bridge the gap between bio-physical sciences and urban planners. Introducing innovative planning strategies for urban planning and design in Europe. and temporal scales that connect local emissions, air quality and weather with global atmospheric chemistry and climate. |
+| BRIDGE: Bridge SustainaBle uRban plannIng Decision support accountinG for urban mEtabolism|
+| MegaPoli: Megacities: Emissions, urban, regional and Global Atmospheric POLlution and climate effects, and Integrated tools for assessment and mitigation |
+
 
 | US National Science Foundation  |
 | --|
