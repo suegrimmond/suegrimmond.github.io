@@ -43,7 +43,8 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 - urban climatology
 - surface-atmosphere exchanges
 - heat, carbon and water
-- micrometeorology (old page)
+- [integrated urban services](https://library.wmo.int/records/item/56760-guidance-on-integrated-urban-hydrometeorological-climate-and-environmental-services-volume-i#.X4RMA-aSmMp%3C)
+- micrometeorology 
 - Boundary layer meteorology
 - Hydroclimatology
 

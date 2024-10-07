@@ -2,6 +2,7 @@
   - Tianhao 
   - Silvia Rognone joins group
   - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
+    - [ceremony](images/EMS_Barcelona2024-240s.jpg)
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan
   - ASSURE/urbisphere Bristol field campaign begins
@@ -105,3 +106,6 @@
 - 2006
   - Faridian J (2006) The impact of high-reflectance roofing materials on ambient air temperatures at various neighbourhood scales in Philadelphia, USA, MSc Thesis, MSc Environmental Monitoring, Modelling and Management, King’s College London.
   - Prieto-Lopez T (2006) An implementation of the Local-scale urban meteorological parameterizations scheme (LUMPS) at a suburban site, MSc Thesis, MSc Environmental Monitoring, Modelling and Management, King’s College London.
+
+
+[def]: images/EMS_Barcelona2024-219s.jpg
