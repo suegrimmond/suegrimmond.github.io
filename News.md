@@ -1,7 +1,10 @@
 - 2024
-  - Tianhao 
+  - Tianhao returns to Nanjing October 10
+  - Russell Glazer gives talk at EWGLAM, Prague
+  - Yiqing Liu gives talk at Clean Air Conference at Birmingham
   - Silvia Rognone joins group
-  - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
+  - Russell presents (online) at BoM 
+    - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
     - [ceremony](images/EMS_Barcelona2024-240s.jpg)
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan
@@ -12,6 +15,7 @@
   - HL joins group
   -  urbisphere-Paris campaign begins
 - 2022
+  - Matthew returns to group as Technican
   - urbisphere-Berlin campaign ends
   - Megan McGrory joins group January 2022
 - 2021
