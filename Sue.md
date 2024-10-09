@@ -37,7 +37,7 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 - [Projects](https://suegrimmond.github.io/Projects)
 - [Group](https://suegrimmond.github.io/People)
 - [Old micromet page](https://micromet.reading.ac.uk/%20sue-grimmond/)
- -[Old](https://suegrimmond.github.io/Old/ombined.md)
+ -[Old](https://suegrimmond.github.io/Old/Combined.md)
 
 ### Publications and Research Interests
 
