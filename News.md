@@ -1,10 +1,11 @@
-- 2024
-  - Tianhao returns to Nanjing October 10
+## 2024
+  -  Beth Saunders LAS and NWP paper [published online](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4837) and announced on [LinkedIn](https://www.linkedin.com/posts/sue-grimmond-1854a52_new-paper-using-large-aperture-scintillometry-activity-7250071481143980033-uqpQ?utm_source=share&utm_medium=member_desktop)
+  - Tianhao Zhong returns to Nanjing October 10
   - Russell Glazer gives talk at EWGLAM, Prague
   - Yiqing Liu gives talk at Clean Air Conference at Birmingham
   - Silvia Rognone joins group
   - Russell presents (online) at BoM 
-    - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
+  - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
     - [ceremony](images/EMS_Barcelona2024-240s.jpg)
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan

@@ -4,8 +4,7 @@
 - [People](https://suegrimmond.github.io/People)
 - [Publications](https://suegrimmond.github.io/Publications)
      - [Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)
-- [News](https://suegrimmond.github.io/News)
-
+- [News](https://suegrimmond.github.io/News) [2024](https://suegrimmond.github.io/News.md2024)
 - [Projects](https://suegrimmond.github.io/Projects)
 - [Software](https://urban-meteorology-reading.github.io/)
 - Data sets at Zenodo
