@@ -1,6 +1,7 @@
-<h2>2024</h2>
+## 2024
 
   -  Beth Saunders LAS and NWP paper [published online](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4837) and announced on [LinkedIn](https://www.linkedin.com/posts/sue-grimmond-1854a52_new-paper-using-large-aperture-scintillometry-activity-7250071481143980033-uqpQ?utm_source=share&utm_medium=member_desktop)
+  - new paper The water balance representation in Urban-PLUMBER land surface models https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231
   - Tianhao Zhong returns to Nanjing October 10
   - Russell Glazer gives talk at EWGLAM, Prague
   - Yiqing Liu gives talk at Clean Air Conference at Birmingham
@@ -29,9 +30,13 @@
 ## 2020
   -   ERC urbisphere project begins
   -   Mat Lispon returns to UNSW
+
 ## 2019
+ - Hamid Omidvar (Princeton) joins group 
+ - Junxia Dou (IUM) comes to visit
 
 ## 2018
+- Marine Jeoffrion - joins group for 6 months (MSc)  
   - Christoph Kent:	Successful PhD Viva	April 2018
   - Marine Jeoffrion:	visit from Meteo France	Feb 2018
   - Matthias Demuzere (Ghent University)	Collaboration within APHH China – NERC Airpro	February 2018
@@ -71,6 +76,7 @@
 ## 2014
   - SLUM	Spectral Library of Urban Materials released	March 2014
   - SUEWS v2014a.1 released	feb 2014
+
 ## 2013
 - Group moves to University of Reading
   - Simone Kotthaus	successfully defended her PhD	(Decemeber 2013)
@@ -82,7 +88,7 @@
   - Simone Kotthaus	wins best Student presentation award IAUC	Dublin	2012
 
 ## 2011
-  - Thomas Loridan	successfully defended his PhD	Nov 8	2011
+  - Thomas Loridan successfully defended his PhD	Nov 8	2011
   - Thomas Loridan	starts job at Risk Management Solutions (RMS)	November 2011
   - Simone Kotthaus	wins Best Student Poster at AMS 9th Urban Symposium Keystone Colorado
 
