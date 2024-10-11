@@ -46,10 +46,9 @@
  - Junxia Dou (IUM) comes to visit
 
 ## 2018
-- Marine Jeoffrion - joins group for 6 months (MSc)  
-  - Christoph Kent:	Successful PhD Viva	April 2018
-  - Marine Jeoffrion:	visit from Meteo France	Feb 2018
-  - Matthias Demuzere (Ghent University)	Collaboration within APHH China – NERC Airpro	February 2018
+- Christoph Kent:	Successful PhD Viva	April 2018
+- Marine Jeoffrion joins group for 6 months (MSc) from  Meteo France	Feb 2018
+- Matthias Demuzere (Ghent Univ.)	Collaboration within APHH China – NERC Airpro	Feb 2018
 
 ## 2017
   - Jess Brown	joins group	August 2017
