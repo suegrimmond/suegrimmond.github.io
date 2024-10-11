@@ -1,4 +1,5 @@
-## 2024
+<h2>2024</h2>
+
   -  Beth Saunders LAS and NWP paper [published online](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4837) and announced on [LinkedIn](https://www.linkedin.com/posts/sue-grimmond-1854a52_new-paper-using-large-aperture-scintillometry-activity-7250071481143980033-uqpQ?utm_source=share&utm_medium=member_desktop)
   - Tianhao Zhong returns to Nanjing October 10
   - Russell Glazer gives talk at EWGLAM, Prague
@@ -10,16 +11,22 @@
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan
   - ASSURE/urbisphere Bristol field campaign begins
-## 2023
-  -   Tianhao Zhong starts visit from Nanjing Univ. October
+
+<h2>2023</h2>
+
+  - Tianhao Zhong starts visit from Nanjing Univ. October
   - Mathew Paskin starts PhD Sept 2023
   - HL joins group
   -  urbisphere-Paris campaign begins
-- 2022
+
+
+## 2022
+
   - Matthew returns to group as Technican
   - urbisphere-Berlin campaign ends
   - Megan McGrory joins group January 2022
-- 2021
+
+## 2021
   -   urbisphere-Berlin campaign begins
 - 2020
   -   ERC urbisphere project begins
