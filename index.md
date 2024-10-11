@@ -1,8 +1,10 @@
-# [Sue Grimmond](https://research.reading.ac.uk/meteorology/people/sue-grimmond/)
+## Urban Micrometeology and Boundary Layer group 
 ### Department of Meteorology, University of Reading
 
-#### Urban Micrometeology and Boundary Layer Meteorology group
+
 - [People](https://suegrimmond.github.io/People)
+  - [Current](https://suegrimmond.github.io/People#current-group-members)
+  - [Past](https://suegrimmond.github.io/People#past-group-members-reading)
 - [Publications](https://suegrimmond.github.io/Publications)
      - [Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)
 - [News](https://suegrimmond.github.io/News)
