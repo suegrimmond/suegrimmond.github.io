@@ -17,5 +17,5 @@
      - [data](https://suegrimmond.github.io/urban-climate/data.html)
 - [Weather](https://suegrimmond.github.io/Weather)
 
-LAS:
+London Large Aperture Scintillometer:
 ![alt text](https://suegrimmond.github.io/images/banner1.jpg "London LAS")
