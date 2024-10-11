@@ -7,7 +7,8 @@
   - Silvia Rognone joins group
   - Russell presents (online) at BoM 
   - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/)
-    - [ceremony](images/EMS_Barcelona2024-240s.jpg)
+Award Ceremony:
+ ![alt text](images/EMS_Barcelona2024-240s.jpg "Prof. Dr. Heinke Schlünzen (Universität Hamburg) SG  Liz Bentley (EMS President)")
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan
   - ASSURE/urbisphere Bristol field campaign begins

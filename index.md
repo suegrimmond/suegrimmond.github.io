@@ -18,4 +18,4 @@
 - [Weather](https://suegrimmond.github.io/Weather)
 
 LAS:
-![alt text](https://suegrimmond.github.io/images/banner1.jpg "London")
+![alt text](https://suegrimmond.github.io/images/banner1.jpg "London LAS")
