@@ -1,23 +1,33 @@
 ## 2024
 
   -  Beth Saunders LAS and NWP paper [published online](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4837) and announced on [LinkedIn](https://www.linkedin.com/posts/sue-grimmond-1854a52_new-paper-using-large-aperture-scintillometry-activity-7250071481143980033-uqpQ?utm_source=share&utm_medium=member_desktop)
-  - new paper The water balance representation in Urban-PLUMBER land surface models https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231
-  - Tianhao Zhong returns to Nanjing October 10
+  - new paper [The water balance representation in Urban-PLUMBER land surface models](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231)
+  - Tianhao Zhong returns to Nanjing University October 10
   - Russell Glazer gives talk at EWGLAM, Prague
   - Yiqing Liu gives talk at Clean Air Conference at Birmingham
   - Silvia Rognone joins group
+  - new paper led by Xiaxiong Xie [Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios?](https://doi.org/10.1016/j.scs.2024.105811)
   - Russell presents (online) at BoM 
   - Sue gets [EMS Silver Medal in Barcelona](https://www.emetsoc.org/impressions-from-the-ems2024-in-barcelona/) at the [Award Ceremony](images/EMS_Barcelona2024-240s.jpg "Prof. Dr. Heinke Schlünzen (Universität Hamburg) SG  Liz Bentley (EMS President)")
+  - Yiqing Liu 3rd paper [Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses](https://doi.org/10.1016/j.enbuild.2024.114668)
   - Beth Saunders starts PDRA at Innsbruck
   - Keisuke Nakao returns to Japan
+ - new paper [Satellite observations reveal a decreasing albedo trend of global cities over the past 35 years](https://doi.org/10.1016/j.rse.2024.114003)
   - ASSURE/urbisphere Bristol field campaign begins
+ - new paper [WRF (v4.0)-SUEWS (v2018c) Coupled System: Development, Evaluation and Application](https://doi.org/10.5194/gmd-17-91-2024) led by Ting Sune
+ - new paper [Evaluation of 30 urban land surface models in the Urban-PLUMBER project: Phase 1 results](https://doi.org/10.1002/qj.4589) led by Mat Lipson
+-new paper [Utility of thermal remote sensing for evaluation of a high-resolution weather model in a city](https://doi.org/10.1002/qj.4669)
+- first urbisphere paper [urbisphere-Berlin campaign: Investigating multi-scale urban impacts on the atmospheric boundary layer](https://doi.org/10.1175/BAMS-D-23-0030.1) led by Daniel Fenner
+- new paper [Spatial and temporal variation of anthropogenic heat emissions in Colombo, Sri Lanka](https://doi.org/10.1016/j.uclim.2024.101828) led by Lewis Blunn (COSMA project)
+
+
 
 ## 2023
 
   - Tianhao Zhong starts visit from Nanjing Univ. October
   - Mathew Paskin starts PhD Sept 2023
   - HL joins group
-  -  urbisphere-Paris campaign begins
+  - urbisphere-Paris campaign begins
 
 ## 2022
   - Matthew returns to group as Technican
