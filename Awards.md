@@ -3,30 +3,30 @@
 
 - 2020	Will Morrison 	15th Urban Oral Best  Student Presentation Award AMS Annual Meeting 
 - 2018	Will Morrison 	Oral Best Presentation Award- ICUC10 
-- 2018	Izzy Capel-Timms 	Poster Best Presentation Award ICUC10 - 2018 
+- Izzy Capel-Timms 	Poster Best Presentation Award ICUC10 - 2018 
 - 2018	Will Morrison 	University of Reading PhD Travel Scholarship (ICUC10) 
 - 2018	Christoph Kent 	University of Reading Researcher of the Year award 
 - 2018	Christoph Kent 	Environment Theme PhD Researcher of the Year award 
-- 2017	Christoph Kent 	Best presentation award – Wind engineering society: Biennial research day - 2017, Institution of Civil Engineers, London 
-- 2017	Christoph Kent 	Best presentation award – Quo Vadis - 2017, University of Reading Meteorology Department 
-- 2017	Christoph Kent 	Data grant award from German Aerospace Center (DLR) (commercial value 1 million euros) - 2017 
+- Christoph Kent 	Best presentation award – Wind engineering society: Biennial research day - 2017, Institution of Civil Engineers, London 
+- Christoph Kent 	Best presentation award – Quo Vadis - 2017, University of Reading Meteorology Department 
+- Christoph Kent 	Data grant award from German Aerospace Center (DLR) (commercial value 1 million euros) - 2017 
 - 2016	Christoph Kent 	Highly commended presentation award – Wind engineering society 12th Biennial Conference, Univ. Nottingham
 - 2015	Will Morrison 	Best Student Presentation Award ACEEES, Hawaii December
  - Christoph Kent	WES Student Presenation Award	October - 2015
-- 2015	Christoph Kent 	Best presentation award – Wind engineering society: Biennial research day - 2015, University of Reading 
-- 2015	Veronica Bellucco	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award (visitor)
-- 2015	Alex Bjorkegren	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award
-- 2015	Tom Kokkonnen	ICUC9 Toulouse, France, - 20-24 July - 2015 Poster Award
+- Christoph Kent 	Best presentation award – Wind engineering society: Biennial research day - 2015, University of Reading 
+- Veronica Bellucco	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award (visitor)
+- Alex Bjorkegren	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award
+- Tom Kokkonnen	ICUC9 Toulouse, France, - 20-24 July - 2015 Poster Award
 - 2015	Christoph Kent 	Best entrepreneurial business proposal – with the “green card” environmental sustainability loyalty card, NERC ideation  workshop – Environmental risk and Management infrastructure 
-- 2012	Simone Kotthaus	EPSRC Bridging the Gap - 2012 Summer Studentship award (KCL/UCL) 
-- 2012	Simone Kotthaus	ICUC8, ICUC/AMS Student conference presentation award, Dublin August 2-8, - 2012 
+- Simone Kotthaus	EPSRC Bridging the Gap - 2012 Summer Studentship award (KCL/UCL) 
+- Simone Kotthaus	ICUC8, ICUC/AMS Student conference presentation award, Dublin August 2-8, - 2012 
 - Simone Kotthaus	9th Symp. Urban Environment, August - 2010, Keystone, Colorado Best Poster Award
-- 2010	Thomas Loridan 	High Performance Computing (HPC)-Europa2 Transnational Access Award to Barcelona Super Computer Centre (6 weeks - 2010) 
-- 2006-7	Vasilis Pappas 	Monash University: KCL/Monash Travel Award - 2006/07 
-- 2006	Valerie Anderson 	AMS, 6th Urban Environment Symposium February - 2006 Best Poster Award 
-- 2004	Ben Crawford 	UCGIS Summer Assembly Scholarship to attend the GIScience - 2004 conference based on submitted paper 
-- 2004	Ben Crawford 	Ben Crawford UCGIS Best Poster Runner-up, GIScience - 2004 conference 
-- 2003	Ben Crawford 	Ben Crawford Poster award, 5th International Conference on Urban Climate Łódź, Poland - 2003 
-- 2003	Brian Offerle 	Oral award, 5th International Conference on Urban Climate Łódź, Poland. - 2003 
-- 2003	Brian Offerle 	Poster award, 5th International Conference on Urban Climate Łódź, Poland. - 2003 
-- 2000?	Brian Offerle 	NSF Award 
+- Thomas Loridan 	High Performance Computing (HPC)-Europa2 Transnational Access Award to Barcelona Super Computer Centre (6 weeks - 2010) 
+- Vasilis Pappas 	Monash University: KCL/Monash Travel Award - 2006/07 
+- Valerie Anderson 	AMS, 6th Urban Environment Symposium February - 2006 Best Poster Award 
+- Ben Crawford 	UCGIS Summer Assembly Scholarship to attend the GIScience - 2004 conference based on submitted paper 
+- Ben Crawford 	UCGIS Best Poster Runner-up, GIScience - 2004 conference 
+- 2003	Ben Crawford 	Poster award, 5th International Conference on Urban Climate Łódź, Poland
+- 2003	Brian Offerle 	Oral award, 5th International Conference on Urban Climate Łódź, Poland
+- 2003	Brian Offerle 	Poster award, 5th International Conference on Urban Climate Łódź, Poland
+- 2002-4	Brian Offerle NSF Doctoral Award 
