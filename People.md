@@ -18,7 +18,6 @@
 - [Publications by group members](https://suegrimmond.github.io/Publications)
 - [News](https://suegrimmond.github.io/News)
 - [Awards](https://suegrimmond.github.io/Awards)
-- 
 
 ## Past Group Members: Reading
 
