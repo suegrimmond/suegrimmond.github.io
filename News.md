@@ -67,6 +67,7 @@
   - Makoto NAKAYOSHI (Tokyo University of Science) starts visit from Japan September 2016
  - Bei Huang	arrives from Tsinghua University, China	September 2016
   - Kohin Hirano	visits from NIED, Japan	August 2016
+
   - Tiangang Yi	visit from NUS/CESBIO	June 2016
   - Alex Bjorkegren	Successfully defended PhD (no revisions!)	June 2016
   - Alex Bjorkegren	Start jobs Dept of Health	Feb 2016
@@ -74,13 +75,13 @@
   - Ting Sun	re-joins group	January 2016
 
 ## 2015 
-  - Will Morrison	 ACEEES Student Presentation Award	Hawaii December 2015
+  - Will Morrison	 ACEEES Student Presentation Award Hawaii December 2015
   - Martin Best	Successfully defended PhD	November 2015
   - Christoph Kent	WES Student Presenation Award	October 2015
   - Will Morrison	Starts PhD	October 2015
   - Elliott Warren	Starts PhD	October  2015
   - Ben Crawford	Joins group	September 2015
-  - Alex Bjorkegren	ICUC9 Student Presentation Award	Toulouse July 2016
+  - Alex Bjorkegren	ICUC9 Student Presentation Award Toulouse July 2015
   - Christoph Kent	Starts PhD	February 2015
 
 ## 2014
@@ -99,10 +100,11 @@
 
 ## 2011
   - Thomas Loridan successfully defended his PhD	Nov 8	2011
-  - Thomas Loridan	starts job at Risk Management Solutions (RMS)	November 2011
-  - Simone Kotthaus	wins Best Student Poster at AMS 9th Urban Symposium Keystone Colorado
+  - Thomas Loridanstarts job at Risk Management Solutions (RMS)	November 2011
+
 
 ## 2010
+  - Simone Kotthaus	wins Best Student Poster at AMS 9th Urban Symposium Keystone Colorado
   - 21 Dec 2010: Baltimore CO2 paper: Crawford B, CSB Grimmond and A Christen (2011) Five years of carbon dioxide fluxes measurements in a highly vegetated suburban area Atmospheric Environment, 45, 896-905  doi:10.1016/j.atmosenv.2010.11.017
   - 4 Aug 2010 :  Pilps-urban: International Urban Energy Balance comparison paper 1 Grimmond CSB, M Blackett, M Best, J Barlow, JJ Baik, S Belcher, SI Bohnenstengel, I Calmet, F Chen, A Dandou, K Fortuniak, ML Gouvea, R Hamdi, M Hendry, T Kawai, Y Kawamoto, H Kondo, ES Krayenhoff, SH Lee, T Loridan, A Martilli, V Masson, S Miao, K Oleson, G Pigeon, A Porson, YH Ryu, F Salamanca, GJ Steeneveld, M Tombrou, J Voogt, D Young, N Zhang (2010) The International Urban Energy Balance Models Comparison Project: First results from Phase 1 Journal of Applied Meteorology & Climatology, 49, 1268-92, doi: 10.1175/2010JAMC2354.1 pdf
   - 4 Aug 2010: Trade-offs in urban canopy parameterizations paper published: Loridan T, CSB Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martilli, H Kusaka,M Best (2010) Trade-offs & responsiveness of the single-layer urban canopy parameterization in WRF: an offline evaluation using the MOSCEM optimization algorithm & field observations. Quarterly Journal of the Royal Meteorological Society, 136: 997-1019. DOI:10.1002/qj.614 pdf
