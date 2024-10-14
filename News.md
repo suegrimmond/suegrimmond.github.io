@@ -23,7 +23,6 @@
 
 
 ## 2023
-
   - Tianhao Zhong starts visit from Nanjing Univ. October
   - Mathew Paskin starts PhD Sept 2023
   - HL joins group
@@ -56,8 +55,7 @@
   - Denise Hertwig	joins group	August 2017
   - Beth Saunders	joins group	August 2017
   - Ting Sun	NERC Fellowship	July 2017  
-  - Bei Huang	arrives from Tsinghua University, China	September 2016
-  - Kohin Hirano	returns to Jap- July 2017
+  - Kohin Hirano	returns to Japan July 2017
  - Jie Peng	visit from SIMS-Shanghai-CMA	February -April 2017
   - Wen GU	visit from SIMS-Shanghai-CMA	February -April 2017
   - Yuya Takane	arrives from National Institute of Advanced Industrial Science and Technology (AIST)- Japan	February 2017
@@ -67,6 +65,7 @@
   - Natalie Theeuwes	arrives in Reading	December 2016
   - Junxia DOU	visit from IUM, China	June – December 2016
   - Makoto NAKAYOSHI (Tokyo University of Science) starts visit from Japan September 2016
+ - Bei Huang	arrives from Tsinghua University, China	September 2016
   - Kohin Hirano	visits from NIED, Japan	August 2016
   - Tiangang Yi	visit from NUS/CESBIO	June 2016
   - Alex Bjorkegren	Successfully defended PhD (no revisions!)	June 2016
