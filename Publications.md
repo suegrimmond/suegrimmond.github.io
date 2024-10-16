@@ -1,7 +1,7 @@
 | People|  |  | |  |  | |  |
 |--|--|--|--|--|--|--|--|
 |[SG Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)|[G.S.](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)| | [Ao](https://suegrimmond.github.io/Publications#ao) | [Best](https://suegrimmond.github.io/Publications#best) | [Blunn] | [Bjorkegren](https://suegrimmond.github.io/Publications#bjorkegren)
-|[Crawford](https://suegrimmond.github.io/Publications#crawford)| [Chrysoulakis](https://suegrimmond.github.io/Publications#chrysoulakis)| [Dou](https://suegrimmond.github.io/Publications#dou)|[Gabey](https://suegrimmond.github.io/Publications#gabey) |[Gough](https://suegrimmond.github.io/Publications#gough) | Jongen
+|[Crawford](https://suegrimmond.github.io/Publications#crawford)| [Chrysoulakis](https://suegrimmond.github.io/Publications#chrysoulakis)| [Dou](https://suegrimmond.github.io/Publications#dou)|[Fnner](https:/suegrimmond.github.io/Publications#berlin) | [Gabey](https://suegrimmond.github.io/Publications#gabey) |[Gough](https://suegrimmond.github.io/Publications#gough) | Jongen
 [Hall] |[Hertwig](https://suegrimmond.github.io/Publications#hertwig)|[Honjo](https://suegrimmond.github.io/Publications#honjo)|[Huang](https://suegrimmond.github.io/Publications#huang)|[Järvi](https://suegrimmond.github.io/Publications#j%C3%A4rvi) [(GS)](https://scholar.google.com/citations?user=9m7df68AAAAJ) | [Kent](https://suegrimmond.github.io/Publications#kent) |[Kokkonen](https://suegrimmond.github.io/Publications#kokkonen)| [Kotthaus](https://suegrimmond.github.io/Publications#kotthaus)
 | [Lindberg](https://suegrimmond.github.io/Publications#lindberg)| [Li, Qi](https://suegrimmond.github.io/Publications#qi-li)|[Liu, Yiqing](https://suegrimmond.github.io/Publications#yiqing-liu) |[Morrison](https://suegrimmond.github.io/Publications#morrison)|[Offerle](https://suegrimmond.github.io/Publications#offerle)
 [Saunders](https://suegrimmond.github.io/Publications#saunders)|[Sun](https://suegrimmond.github.io/Publications#sun) |[Takane](https://suegrimmond.github.io/Publications#takane)| [Theeuwes](https://suegrimmond.github.io/Publications#theeuwes) |[Tsiringakis](https://suegrimmond.github.io/Publications#tsiringakis) 
@@ -10,7 +10,8 @@
 
 | Cities | |  |  |
 |--|--|--|--|
-[Beijing](https:/suegrimmond.github.io/Publications#beijing) | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) |[Chicago](https://suegrimmond.github.io/Publications#chicago) |[London](https://suegrimmond.github.io/Publications#london)|[Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
+[Beijing](https:/suegrimmond.github.io/Publications#beijing) | [Berlin](https:/suegrimmond.github.io/Publications#berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) 
+|[Chicago](https://suegrimmond.github.io/Publications#chicago) |[London](https://suegrimmond.github.io/Publications#london)|[Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
 
 | Topics |  | | | | | |
 |--|--|--|--|--|--|--|
@@ -275,6 +276,10 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 1. Shi Z, Vu T, Kotthaus S, Grimmond S, Harrison RM, Yue S, Zhu T, Lee J, Han Y, Demuzere M, Dunmore RE, Ren L, Liu D, Wang Y, Wild O, Allan, J, Barlow J, Beddows D, Bloss WJ, Carruthers D, Carslaw DC, Chatzidiakou L, Crilley L, Coe H, Dai T, Doherty R, Duan, F, Fu P, Ge B, Ge, M, Guan D, Hamilton JF, He K, Heal, M, Heard D, Hewitt CN, Hu M, Ji D, Jiang X, Jones R, Kalberer M, Kelly FJ, Kramer L, Langford B, Lin C, Lewis AC, Li J, Li W, Liu H, Loh M, Lu K, Mann G, McFiggans G, Miller M, Mills, G, Monk P, Nemitz E, O'Connor F, Ouyang B, Palmer PI, Percival C, Popoola O, Reeves, C, Rickard AR, Shao, L, Shi G, Spracklen D, Stevenson D, Sun Y, Sun Z, Tao, S, Tong, S, Wang Q, Wang W, Wang X, Wang Z, Whalley L, Wu X, Wu Z, Xie P, Yang F, Zhang Q, Zhang Y, Zhang Y, Zheng M 2019: Introduction to Special Issue In-depth study of air pollution sources and processes within Beijing and its surrounding region (APHH-Beijing) ACP 19: 7519–7546 https://doi.org/10.5194/acp-19-7519-2019
 1. Liu D, R Joshi, J Wang, C Yu, JD Allan, H Coe, MJ Flynn, C Xie, J Lee, F Squires, S Kotthaus, S Grimmond, X Ge, Y Sun, P Fu 2019: Contrasting physical properties of black carbon in urban Beijing between winter and summer ACP 19: 6749-6769 https://doi.org/10.5194/acp-19-6749-2019
 1. Liang X, S Miao, J Li, R Bornstein, X Zhang, Y Gao, F Chen, X Cao, Z Cheng, C Clements, W Dabberdt, A Ding, D Ding, Jj Dou, JX Dou, YJ Dou, S Grimmond, J Gonzalez-cruz, J He, M Huang, X Huang, S Ju, Q Li, D Niyogi, J Quan, J Sun, J Sun, M Yu, J Zhang, Y Zhang, X Zhao, Z Zheng, M Zhou 2018: SURF: understanding and predicting urban convection and haze BAMS 99: 1391–1413 https://doi.org/10.1175/BAMS-D-16-0178.1
+
+#### Berlin
+ 4. Fenner D, A Christen, S Grimmond, F Meier, W Morrison, M Zeeman J Barlow J Birkmann, L Blunn, N Chrysoulakis, M Clements, R Glazer, D Hertwig, S Kotthaus, K König, D Looschelders, Z Mitraka, D Poursanidis, D Tsirantonakis, B Bechtel, K Benjamin, F Beyrich, F Briegel, G Feigel, C Gertsen, N Iqbal, J Kittner, H Lean, Y Liu, Z Luo, M McGrory, S Metzger, M Paskin, M Ravan, T Ruhtz, B Saunders, D Scherer, ST Smith, M Stretton, K Trachte, M Van Hove 2024: urbisphere-Berlin campaign: Investigating multi-scale urban impacts on the atmospheric boundary layer, BAMS https://doi.org/10.1175/BAMS-D-23-0030.1
+
 
 ### Birmingham
 1. Chapman L, C Muller, D Young, E Warren, C Grimmond, XM Cai, E Ferranti 2015: The Birmingham urban climate laboratory: An open meteorological testbed and challenges of the smart city BAMS. 96, 1545-1560 https://doi.org/10.1175/BAMS-D-13-00193.1
