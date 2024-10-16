@@ -132,7 +132,7 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 4. Offerle B, P Jonsson, I Eliasson, CSB Grimmond 2005: Urban modification of the surface energy balance in the west African Sahel: Ouagadougou, Burkina Faso. JC, 18, 3983-3995 https://doi.org/10.1175/JCLI3520.1
 5. Offerle B, CSB Grimmond, K Fortuniak 2005: Heat storage & anthropogenic heat flux in relation to the energy balance of a central European city center. IJC 25: 1405–1419 https://doi.org/10.1002/joc.1198
 6. Offerle B, C Grimmond, T Oke 2003: Parameterization of net all-wave radiation for urban areas. JAM, 42, 1157-1173 [https://doi.org/10.1175/1520-0450(2003)042<1157:PONARF>2.0.CO;2](https://doi.org/10.1175/1520-0450(2003)042<1157:PONARF>2.0.CO;2)
-#### With others
+#### Co-author
 1.  Loridan T, CSB Grimmond, BD Offerle, DT Young, T Smith, L Järvi, F Lindberg 2011: Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments JAMC 50: 185-202 https://doi.org/10.1175/2010äMC2474.1
 2. Pawlak W, K Fortuniak, BD Offerle, CSB Grimmond 2007: Zastosowanie metody korelacyjnej do pomiarów strumieni CO2 I H2O z powierzchni trawiastej (Application of the correlation method to measurements of CO2 & H2O fluxes from the grass surface. Przegląd Geofizyczny PL ISSN 0033-2135 https://ptgeof.pl/wp-content/uploads/2024/01/PG_2007_2.pdf
 3. Mestayer P, P Durand, P Augustin, S Bastin, JM Bonnefond, B Bénech, B Campistron, A Coppalle, H Delbarre, B Dousset, P Drobinsk, A Druilhet, E Fréjafon, CSB Grimmond, D Groleau, M Irvine, C Kergomard, S Kermadi, JP. Lagouarde, A Lemonsu, F Lohou, N. Long, V Masson, C Moppert, J Noilhan, B Offerle, T Oke, G Pigeon, V Puygrenier, S Roberts, JM Rosant, F Saïd, J Salmond, M Talbaut, J Voogt 2005: The urban boundary layer field experiment over Marseille UBL/CLU-ESCOMPTE: Experimental Set-up & First Results. BLM, 114 (2): 315-365, https://doi.org/10.1007/s10546-004-9241-4
@@ -173,7 +173,7 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 5. Sun T, Kotthaus S, Li D, Ward H, Gao Z, Ni, Guangheng, Grimmond S 2017: Attribution and mitigation of heat wave-induced urban heat storage change ERL 12: 11, 114007 https://doi.org/10.1088/1748-9326/aa922a
 6. Sun T, CSB Grimmond, G-H Ni 2016: How do green roofs mitigate urban thermal stress under heat waves? JGR-A 121: 5320–5335 https://doi.org/10.1002/2016JD024873 
 #### Co-author
-1. Tang Y, T Sun, H Omidvar, Z Luo, H Omidvar, N Theeuwes, Xiaoxiong Xie, J Xiong, R Yao, S Grimmond 2021: Urban meteorological forcing data for building energy simulation  BEnv 204: 108088  https://doi.org/10.1016/j.buildenv.2021.108088
+   1. Tang Y, T Sun, H Omidvar, Z Luo, H Omidvar, N Theeuwes, Xiaoxiong Xie, J Xiong, R Yao, S Grimmond 2021: Urban meteorological forcing data for building energy simulation  BEnv 204: 108088  https://doi.org/10.1016/j.buildenv.2021.108088
    2. Duan Z, CSB Grimmond, Z Gao, T Sun, C Liu, Y Li 2021: Seasonal and interannual variations in the surface energy fluxes of a rice–wheat rotation in  Eastern China. JAMC 60(7):877-891 https://doi.org/10.1175/JAMC-D-20-0233.1
    3. Lindberg F, FG Olofson, T Sun, S Grimmond, C Feigenwinter 2020: Urban storage heat flux variability explored using satellite, meteorological and geodata TAC 141: 271–284  https://doi.org/10.1007/s00704-020-03189-1
    4. Capel-Timms I, ST Smith, T Sun, S Grimmond 2020: Dynamic Anthropogenic activitieS impacting Heat emissions (DASH v1.0): Development and evaluation GMD 13: 4891–4924 https://doi.org/10.5194/gmd-13-4891-2020
@@ -196,10 +196,10 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 1. Tsiringakis A, GJ Steeneveld AAM Holtslag, S Kotthaus, S Grimmond 2019: On- and off-line evaluation of the single-layer urban canopy model in London summertime conditions. QJRMS 145(721): 1474-1489 https://doi.org/10.1002/qj.3505
 
 ### Xie
-1. Xie X, Luo Z, S Grimmond, Y Liu, CE Ugalde-Loo, MT Bailey, X  Wang 2024: Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios? Sustainable Cities and Society https://doi.org/10.1016/j.scs.2024.105811
-1. Xie X, Z Luo, S Grimmond, T Sun 2023: Impact of urban density on natural ventilation potential and cooling energy saving across Chinese climate zones Building and Environment, 244:110621 https://doi.org/10.1016/j.buildenv.2023.110621
-1. Xie X, Luo Z, Grimmond S, Blunn L 2023: Wind pressure coefficients for isolated and surrounded building energy simulation Building and Environment, 230:109951 https://doi.org/10.1016/j.buildenv.2022.109951
-1. Xie X, Z Luo, S Grimmond, T Sun, W Morrison 2022: Impact of inter-building longwave radiative exchanges on building energy performance and indoor overheating Building and Environment 209:108628 https://doi.org/10.1016/j.buildenv.2021.108628  
+1. Xie X, Luo Z, S Grimmond, Y Liu, CE Ugalde-Loo, MT Bailey, X  Wang 2024: Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios? Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2024.105811]9ttps://doi.org/10.1016/j.scs.2024.105811) 
+1. Xie X, Z Luo, S Grimmond, T Sun 2023: Impact of urban density on natural ventilation potential and cooling energy saving across Chinese climate zones Building and Environment, 244:110621 [https://doi.org/10.1016/j.buildenv.2023.110621](https://doi.org/10.1016/j.buildenv.2023.110621)
+1. Xie X, Luo Z, Grimmond S, Blunn L 2023: Wind pressure coefficients for isolated and surrounded building energy simulation Building and Environment, 230:109951 [https://doi.org/10.1016/j.buildenv.2022.109951](https://doi.org/10.1016/j.buildenv.2022.109951)
+1. Xie X, Z Luo, S Grimmond, T Sun, W Morrison 2022: Impact of inter-building longwave radiative exchanges on building energy performance and indoor overheating Building and Environment 209:108628 [https://doi.org/10.1016/j.buildenv.2021.108628](https://doi.org/10.1016/j.buildenv.2021.108628)  
 #### Co-author
    1. Blunn L, X Xie, S Grimmond, Z Luo, T Sun, N Perera, R Ratnayake, R Emmanuel 2024: Spatial and temporal variation of anthropogenic heat emissions in Colombo, Sri Lanka Urban Climate 54:101828, https://doi.org/10.1016/j.uclim.2024.101828
    1. Tang Y, T Sun, H Omidvar, Z Luo, H Omidvar, N Theeuwes, Xiaoxiong Xie, J Xiong, R Yao, S Grimmond 2021: Urban meteorological forcing data for building energy simulation Building and Environment 204:108088  https://doi.org/10.1016/j.buildenv.2021.108088
