@@ -14,7 +14,7 @@
 
 | Topics |  | | | | | |
 |--|--|--|--|--|--|--|
-[CO2](https://github.com/suegrimmond.github.io/Publications.md#co2) | [Form & Function](https://github.com/suegrimmond.github.io/Publications.md#form--function) |[IUS](https://github.com/suegrimmond.github.io/Publications.md#ius)| [Meso-scale Modelling](https://github.com/suegrimmond.github.io/Publications.md#meso-scale-modelling) | [WUDAPT](https://github.com/suegrimmond.github.io/Publications.md#wudapt)|
+[CO2](https://github.com/suegrimmond.github.io/Publications.md#co2) | [Form & Function](https://github.com/suegrimmond.github.io/Publications.md#form--function) |[IUS](https://github.com/suegrimmond.github.io/Publications.md#ius)|[Longwave](https://github.com/suegrimmond.github.io/Publications.md#longwave) | [Meso-scale Modelling](https://github.com/suegrimmond.github.io/Publications.md#meso-scale-modelling) | [WUDAPT](https://github.com/suegrimmond.github.io/Publications.md#wudapt)|
 
 ### Ao 
 1. Ao XY, CSB Grimmond, YY Chang, DW Liu, YQ Tang, P Hu, YD Wang, J Zou, JG Tan 2016: Challenges of observing heat, water and carbon exchanges in Shanghai, a dense, tall megacity IJC 36: 4608–4624 https://doi.org/10.1002/joc.4657
@@ -208,16 +208,19 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 1. Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites UC 18: 1–32 https://doi.org/10.1016/j.uclim.2016.05.001
 
 
-
-
-
-
-
-
-
-
-
 ### Topics
+###  Longwave
+1. Stretton MA, W Morrison,  RJ Hogan, S Grimmond 2023: Evaluation of vertically resolved longwave radiation in SPARTACUS-Urban and the sensitivity to urban surface temperatures  Geoscientific Model Development 16:5931-47 https://doi.org/10.5194/gmd-16-5931-2023
+1. Xie X, Z Luo, S Grimmond, T Sun, W Morrison 2022: Impact of inter-building longwave radiative exchanges on building energy performance and indoor overheating Building and Environment 209:108628 https://doi.org/10.1016/j.buildenv.2021.108628  
+1. Loridan T, CSB Grimmond, BD Offerle, DT Young, T Smith, L Järvi, F Lindberg 2011: Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology and Climatology 50:185-202 https://doi.org/10.1175/2010äMC2474.1
+1. Jonsson P, I Eliasson, B Holmer, CSB Grimmond 2006: Longwave incoming radiation in the Tropics: results from field work in three African cities Theoretical and Applied Climatology 85:185-201 https://doi.org/10.1007/s00704-005-0178-4
+1. Morrison W, Grimmond S, Kotthaus S 2023: Simulating satellite urban land surface temperatures: sensitivity to sensor view angle and assumed landscape complexity Remote Sensing of the Environment 293:113579-
+1. Morrison W, S Kotthaus S Grimmond  2021: Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability Urban Climate  35:100748 https://doi.org/10.1016/j.uclim.2020.100748
+1. Morrison W, S Kotthaus; S Grimmond, A Inagaki, T Yin, J-P Gastellu-Etchegorry, M Kanda, C Merchant 2018: A novel method to obtain three-dimensional urban surface temperature from ground-based thermography Remote Sensing of the Environment 215:268-283 https://doi.org/10.1016/j.rse.2018.05.004 
+1. Crawford B, CSB Grimmond, A Gabey, M Marconcini, HC Ward, CW Kent 2018: Variability of urban surface temperatures and implications for aerodynamic energy exchange in unstable conditions Quarterly Journal of the Royal Meteorological Society 144: 1719-1741 https://doi.org/10.1002/qj.3325
+
+
+
 ### Meso-scale Modelling
 1. Batchvarova E, SE Gryning, CSB Grimmond, M Kelly, A Rutgersson, T Vihma, A Baklanov, RS Sokhi 2018: Representation of surface processes in mesoscale models (eds) Sokhi, Baklanov, Schlünzen Mesoscale Modelling for Meteorological and Air Pollution Applications, Anthem Press. http://www.anthempress.com/mesoscale-modelling-for-meteorological-and-air-pollution-applications
 
