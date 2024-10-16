@@ -14,19 +14,19 @@
 - 2015	Will Morrison 	Best Student Presentation Award ACEEES, Hawaii December
  - Christoph Kent	WES Student Presenation Award	October - 2015
 - Christoph Kent 	Best presentation award – Wind engineering society: Biennial research day - 2015, University of Reading 
-- Veronica Bellucco	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award (visitor)
+- VB	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award (visitor)
 - Alex Bjorkegren	ICUC9 Toulouse, France, - 20-24 July - 2015 Presentation Award
-- Tom Kokkonnen	ICUC9 Toulouse, France, - 20-24 July - 2015 Poster Award
+- TK	ICUC9 Toulouse, France, - 20-24 July - 2015 Poster Award
 - 2015	Christoph Kent 	Best entrepreneurial business proposal – with the “green card” environmental sustainability loyalty card, NERC ideation  workshop – Environmental risk and Management infrastructure 
 - Simone Kotthaus	EPSRC Bridging the Gap - 2012 Summer Studentship award (KCL/UCL) 
 - Simone Kotthaus	ICUC8, ICUC/AMS Student conference presentation award, Dublin August 2-8, - 2012 
 - Simone Kotthaus	9th Symp. Urban Environment, August - 2010, Keystone, Colorado Best Poster Award
 - Thomas Loridan 	High Performance Computing (HPC)-Europa2 Transnational Access Award to Barcelona Super Computer Centre (6 weeks - 2010) 
-- Vasilis Pappas 	Monash University: KCL/Monash Travel Award - 2006/07 
-- Valerie Anderson 	AMS, 6th Urban Environment Symposium February - 2006 Best Poster Award 
+- VP 	Monash University: KCL/Monash Travel Award - 2006/07 
+- VA 	AMS, 6th Urban Environment Symposium February - 2006 Best Poster Award 
 - Ben Crawford 	UCGIS Summer Assembly Scholarship to attend the GIScience - 2004 conference based on submitted paper 
 - Ben Crawford 	UCGIS Best Poster Runner-up, GIScience - 2004 conference 
 - 2003	Ben Crawford 	Poster award, 5th International Conference on Urban Climate Łódź, Poland
-- 2003	Brian Offerle 	Oral award, 5th International Conference on Urban Climate Łódź, Poland
-- 2003	Brian Offerle 	Poster award, 5th International Conference on Urban Climate Łódź, Poland
-- 2002-4	Brian Offerle NSF Doctoral Award 
+- 2003	BDO 	Oral award, 5th International Conference on Urban Climate Łódź, Poland
+- 2003	BDO 	Poster award, 5th International Conference on Urban Climate Łódź, Poland
+- 2002-4	BDO NSF Doctoral Award 

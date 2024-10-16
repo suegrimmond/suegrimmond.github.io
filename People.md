@@ -31,9 +31,10 @@
 | [Ben Crawford](https://orcid.org/0000-0003-3820-7982) | [Christoph Kent](https://orcid.org/0000-0002-6323-3691) |  [Kohin Hirano](https://orcid.org/0000-0002-5722-414X) 
 | [Hamid Omidvar](https://orcid.org/0000-0001-8124-7264) | [Elliott Warren](https://orcid.org/0000-0003-2757-7937) | [Qi Li](https://orcid.org/0000-0003-4435-6220)
 | [Andrew Gabey](https://orcid.org/0000-0002-3104-2989) | [Will Morrison](https://orcid.org/0000-0003-1568-8226)| [X Ao](https://orcid.org/0000-0003-4954-8416) |[Kjell zum Berge (t)](https://orcid.org/0000-0002-7410-7121)|
-| [Simone Kotthaus](https://orcid.org/0000-0002-4051-0705) | | Bei Huang 
-| [Helen Ward](https://orcid.org/0000-0001-8881-185X) |  | | [Will Morrison (t)](https://orcid.org/0000-0003-1568-8226)|
-| | | 
+| [Simone Kotthaus](https://orcid.org/0000-0002-4051-0705) | | BH 
+| [Helen Ward](https://orcid.org/0000-0001-8881-185X) |  |[Wn Gu](https://orcid.org/0000-0003-3070-962X0) | [Will Morrison (t)](https://orcid.org/0000-0003-1568-8226)|
+| | | JP | 
+| | | MN |
 
 
 ## Past KCL
@@ -47,3 +48,14 @@
 | | [Thomas Loridan](https://www.linkedin.com/in/thomasloridan/) | JM (t) |
 
 ## Past Indiana University
+
+
+| Name (role)| 
+|---|
+| HBS (PDRA) | 
+| BDO (PhD) | 
+| AO (PDRA) |
+ SS (t)|  
+ VA (MSc)| 
+ BC (MSc) |
+  BDO (t) |

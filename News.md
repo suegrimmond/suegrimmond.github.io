@@ -50,13 +50,13 @@
 - Matthias Demuzere (Ghent Univ.)	Collaboration within APHH China – NERC Airpro	Feb 2018
 
 ## 2017
-  - Makoto NAKAYOSHI returns to Japan August 2017
-  - Jess Brown	joins group	August 2017
+  - MN returns to Japan August 2017
+  - JN (t)	joins group	August 2017
   - Denise Hertwig	joins group	August 2017
   - Beth Saunders	joins group	August 2017
   - Ting Sun	NERC Fellowship	July 2017  
   - Kohin Hirano	returns to Japan July 2017
- - Jie Peng	visit from SIMS-Shanghai-CMA	February -April 2017
+ - JP	visit from SIMS-Shanghai-CMA	February -April 2017
   - Wen GU	visit from SIMS-Shanghai-CMA	February -April 2017
   - Yuya Takane	arrives from National Institute of Advanced Industrial Science and Technology (AIST)- Japan	February 2017
   - X Ao	Arrives from SIMS-Shanghai-CMA	January 2017- July 2017
@@ -64,11 +64,10 @@
 ## 2016
   - Natalie Theeuwes	arrives in Reading	December 2016
   - Junxia DOU	visit from IUM, China	June – December 2016
-  - Makoto NAKAYOSHI (Tokyo University of Science) starts visit from Japan September 2016
+  - MN (Tokyo University of Science) starts visit from Japan September 2016
  - Bei Huang	arrives from Tsinghua University, China	September 2016
   - Kohin Hirano	visits from NIED, Japan	August 2016
-
-  - Tiangang Yi	visit from NUS/CESBIO	June 2016
+  - TY	visit from NUS/CESBIO	June 2016
   - Alex Bjorkegren	Successfully defended PhD (no revisions!)	June 2016
   - Alex Bjorkegren	Start jobs Dept of Health	Feb 2016
   - Izzy Capel-Timms	Starts PhD	January 2016
