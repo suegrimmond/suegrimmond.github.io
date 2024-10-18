@@ -1,11 +1,10 @@
-<h2>KCL Grimmond Urban Micromet – Video Guides</h2>
+## KCL Grimmond Urban Micromet – Video Guides
 Many people from the KCL Urban Micrometeorology Group contributing to making these videos. They provide an introduction to instrument and computer locations, wiring, and safety issues.
  
 The videos are archived at:
- 
- <ul>Grimmond, S. (2024). KCL Urban Micromet – Video Guides. Zenodo. https://doi.org/10.5281/zenodo.13952162 </ul>
+  - Grimmond, S. (2024). KCL Urban Micromet – Video Guides. Zenodo. https://doi.org/10.5281/zenodo.13952162
 
-<H3>New Video Guides</H3>
+### Newer Video Guides
  
 | Video | What | Size
 |-- |-- | --|
@@ -18,14 +17,14 @@ The videos are archived at:
 | 1-Safety.mp4 |Safety |  24 MB |   
  | | |
 
-<h4>Old Micromet Video Guides</h4>
+#### Older Micromet Video Guides<
 
 | Content | Size
 |-- | --|
 | MicrometVideoGuide.mp4  | 243 MB
 | The Hut.mp4  | 31 MB
 | The Tower.mp4 |   33 MB
-| Ceilometer.mp | 
+| Ceilometer.mp4 | 
 |LAS.mp4|  13 MB
 | Gas Analysers  Gas.mp4 |  18 MB
 | Infrared Thermometers 7-IRTs.mp4 |  34 MB
