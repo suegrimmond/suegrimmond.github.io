@@ -11,6 +11,8 @@
      - [2024](https://suegrimmond.github.io/News#2024)
      - [2023](https://suegrimmond.github.io/News#2023)
 - [Projects](https://suegrimmond.github.io/Projects)
+     - [urbisphere](https://urbisphere.eu/)
+     - [Urban Plumber](https://urban-plumber.github.io/)
      - [Micromet](https://suegrimmond.github.io/Micromet)
 - [Software](https://urban-meteorology-reading.github.io/)
 - Data sets at Zenodo
