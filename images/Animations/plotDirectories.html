@@ -1,0 +1,115 @@
+<!-- Table generated in R 3.3.2 by googleVis 0.6.2 package -->
+<!-- Mon Dec  4 14:20:21 2017 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+
+
+// jsData 
+function gvisDataTableID8213bc22084 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+"IMU",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12080103_L17050030/IMU_C03_dailyreport_main.html' > C12080103_L17050030 </a>"
+],
+[
+"IMU",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12080017_L17050013/IMU_C17_dailyreport_main.html' > C12080017_L17050013 </a>"
+],
+[
+"IMU",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12080016_L16060004/IMU_C16_dailyreport_main.html' > C12080016_L16060004 </a>"
+],
+[
+"WCT",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12070069_L17050015/WCT_C69_dailyreport_main.html' > C12070069_L17050015 </a>"
+],
+[
+"WCT",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12060057_L16080014/WCT_C57_dailyreport_main.html' > C12060057_L16080014 </a>"
+],
+[
+"IMU",
+"<a href =  'http://www.met.reading.ac.uk/micromet/scripts/plots///Animations/OptrisPI/C12080019_L17050029_NORMALDISTORTIONCORRECTION/IMU_C19_dailyreport_main.html' > C12080019_L17050029_NORMALDISTORTIONCORRECTION </a>"
+] 
+];
+data.addColumn('string','site');
+data.addColumn('string','url');
+data.addRows(datajson);
+return(data);
+}
+
+
+// jsDrawChart
+function drawChartTableID8213bc22084() {
+var data = gvisDataTableID8213bc22084();
+var options = {};
+options["allowHtml"] = true;
+options["allowHTML"] = true;
+
+
+    var chart = new google.visualization.Table(
+    document.getElementById('TableID8213bc22084')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+
+
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "table";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartTableID8213bc22084);
+})();
+function displayChartTableID8213bc22084() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+
+
+// jsFooter
+</script>
+
+
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID8213bc22084"></script>
+
+
+<!-- divChart -->
+  
+<div id="TableID8213bc22084" 
+  style="width: 500; height: automatic;">
+</div>
