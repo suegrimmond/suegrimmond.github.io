@@ -7,7 +7,7 @@
 | OperationalInstructions/pdf/BTTmeta.pdf |    |
 | OperationalInstructions/pdf/Ceilometer_setup_guide_v2_2.pdf |Ceilometer   |
 | OperationalInstructions/pdf/CL31_sn_B20201.pdf | Ceilometer: Calibration CL31 Ceilometer (B20201) 29/May/2006 |
-| OperationalInstructions/pdf/CL31_sn_B20202.pdf | Ceilometer Calibration: CL31 Ceilometer (B20202)</a> 29/May/2006   |
+| OperationalInstructions/pdf/CL31_sn_B20202.pdf | Ceilometer Calibration: CL31 Ceilometer (B20202) 29/May/2006   |
 | OperationalInstructions/pdf/CNR1_sn_ 000220.pdf> 
 | OperationalInstructions/pdf/Computer_setup_instructions.pdf |  How to set up a computer for data collection   |
 | OperationalInstructions/pdf/CSAT_flow.pdf | Eddy Covariance    |
