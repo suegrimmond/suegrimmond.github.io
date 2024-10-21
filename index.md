@@ -14,6 +14,7 @@
      - [urbisphere](https://urbisphere.eu/)
      - [Urban Plumber](https://urban-plumber.github.io/)
      - [Micromet](https://suegrimmond.github.io/Micromet)
+     - [Bridge](https://rslab.gr/projects/bridge/) [posters](https://suegrimmond.github.io/documents/BRIDGE-posterszip)
 - [Software](https://urban-meteorology-reading.github.io/)
 - [Zenodo Archives](https://suegrimmond.github.io/Zenodo)
 - [urban-climate.net](https://www.urban-climate.net/content/)
