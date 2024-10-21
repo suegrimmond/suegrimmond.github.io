@@ -1,17 +1,29 @@
 # Zenodo Datasets
 
-| DOI | Contents | Comments e.g.:ead Person
-|--| ---| --|
-| https://doi.org/10.5281/zenodo.13952162 |  [KCL Urban Micromet – Video Guides](https://suegrimmond.github.io/Video) | 
-| https://doi.org/10.5281/zenodo.13954285 |  01-IRT-Animations.zip [Animations](https://suegrimmond.github.io/images/Animations/plotDirectories.html) |  [Will Morrison](https://orcid.org/0000-0003-1568-8226) Relative links in html will need to be fixed once downloaded|
-|   | Phenology
-| |
 
+| DOI Contents |Comments |
+|--| --| 
+| https://doi.org/10.5281/zenodo.13954285 | ** not loaded
+|01-IRT-Animations.zip [Animations](https://suegrimmond.github.io/images/Animations/plotDirectories.html) |  [Will Morrison](https://orcid.org/0000-0003-1568-8226) Relative links in html will need to be fixed once downloaded|
+|||
+| https://doi.org/10.5281/zenodo.13952162 |  
+|[KCL Urban Micromet – Video Guides](https://suegrimmond.github.io/Video) | 
+|||
+| [https://doi.org/10.5281/zenodo.13956859](https://doi.org/10.5281/zenodo.13956859) | |
+| 02-FileFormats-ODS.zip | 
+| 03-Flights-ODS.zip | London
+| 04-excel-CSV.zip | 
+| 05-OperationalInstructions-pdf.zip | 
+| 06-OperationalInstructions-pptx.zip | 
+| 07-Phenology.zip |[Phenology](https://suegrimmond.github.io/Phenology) 
+|||
 
+<details> <summary>
 
-## 02-FileFormats-ODS.zip
+## 02-FileFormats-ODS.zip  
+</summary>
 
-|Files in-02-FileFormats-ODS.zip |
+|Files in-02-FileFormats-ODS.zip | 
 |--|
 | https://doi.org/10.5281/zenodo.13956859 |
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/oldfileformats.ods |
@@ -22,9 +34,13 @@
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/METABTT.ods |
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/METAKCL.ods |
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/METALHR.ods |
-|  |
 
-## 03-Flights-ODS.zip
+</details>
+
+<details> <summary>
+
+## 03-Flights-ODS.zip 
+</summary>
 
 | **Files in-03-Flights-ODS.zip** |
 |-- |
@@ -41,9 +57,12 @@
 |../mm.private/documents/OperationalInstructions/ODS/Flights/Radiosondenight.ods |
 |../mm.private/documents/OperationalInstructions/ODS/Flights/SpectralRadiometer.ods |
 |../mm.private/documents/OperationalInstructions/ODS/Flights/sunphotometer.ods|
+</details>
 
+<details> <summary>
 
-## 04-excel-CSV
+## 04-excel-CSV  
+</summary>
 
 | **Files in-04-excel-CSV.zip** |
 |-- |
@@ -55,10 +74,12 @@
 ../mm.private/documents/OperationalInstructions/excel/LUMA_REQUEST.csv 
 ../mm.private/documents/OperationalInstructions/excel/LUMA_SLUM_IR.csv 
 ../mm.private/documents/OperationalInstructions/excel/LUMA_SLUM_SW.csv
+</details>
 
-
+<details> <summary>
 
 ## 05-OperationalInstructions-pdf.zip
+</summary>
 
 | Files in 05-OperationalInstructions-pdf.zip |
 |-- |
@@ -89,9 +110,13 @@
 ../mm.private/documents/OperationalInstructions/pdf/Scintillometer_instructions_v2.pdf 
 ../mm.private/documents/OperationalInstructions/pdf/LUMASummary.pdf
 
-## 06-OperationalInstructions-pptx.zip
+</details>
 
-| Files in 05-OperationalInstructions-pptx.zip |
+<details> <summary>
+
+## 06-OperationalInstructions-pptx.zip
+</summary>
+| Files in 06-OperationalInstructions-pptx.zip|
 |-- |
 | https://doi.org/10.5281/zenodo.13956859 |
 ../mm.private/documents/OperationalInstructions/pptx/WXT_RAD_RAIN_v2.pptx 
@@ -105,11 +130,16 @@
 <../mm.private/documents/OperationalInstructions/pptx/Soil Moisture and Temperature diagram.pptx> 
 ../mm.private/documents/OperationalInstructions/pptx/SPATAIL.pptx 
 ../mm.private/documents/OperationalInstructions/pptx/SplitGrab.pptx ../mm.private/documents/OperationalInstructions/pptx/Watertemperature.pptx
+</details>
 
+<details> <summary>
 
 ## 07-Phenology.zip
+</summary>
 
-| Files in 05-OperationalInstructions-pptx.zip |
+| Files in 07-Phenology.zip |
 |-- |
 | https://doi.org/10.5281/zenodo.13956859 |
 | https://suegrimmond.github.io/Phenology |
+</details>
+
