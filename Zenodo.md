@@ -13,20 +13,20 @@
 |||
 | https://doi.org/10.5281/zenodo.13952162 |  
 |[KCL Urban Micromet – Video Guides](https://suegrimmond.github.io/Video) | 
-|||
+| Details||
 | [https://doi.org/10.5281/zenodo.13956859](https://doi.org/10.5281/zenodo.13956859) | |
-| 02-FileFormats-ODS.zip | 
-| 03-Flights-ODS.zip | London
-| 04-excel-CSV.zip | 
-| 05-OperationalInstructions-pdf.zip | 
-| 06-OperationalInstructions-pptx.zip | 
+| [02-FileFormats-ODS.zip](https://suegrimmond.github.io/Zenodo#02-FileFormats-ODS.zip) | 
+| [03-Flights-ODS.zip](https://suegrimmond.github.io/Zenodo#02-FileFormats-ODS.zip) | London
+| [04-excel-CSV.zip](https://suegrimmond.github.io/Zenodo#03-Flights-ODS.zip)| 
+| [05-OperationalInstructions-pdf.zip](https://suegrimmond.github.io/Zenodo#[05-OperationalInstructions-pdf.zip) | 
+| [06-OperationalInstructions-pptx.zip](https://suegrimmond.github.io/Zenodo#06-OperationalInstructions-pptx.zip)| 
 | 07-Phenology.zip |[Phenology](https://suegrimmond.github.io/Phenology) 
-|||
 
-<details> <summary>
+
+
 
 ## 02-FileFormats-ODS.zip  
-</summary>
+
 
 |Files in-02-FileFormats-ODS.zip | 
 |--|
@@ -40,12 +40,9 @@
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/METAKCL.ods |
 |../mm.private/documents/OperationalInstructions/ODS/FileFormats/METALHR.ods |
 
-</details>
 
-<details> <summary>
 
 ## 03-Flights-ODS.zip 
-</summary>
 
 | **Files in-03-Flights-ODS.zip** |
 |-- |
@@ -62,12 +59,9 @@
 |../mm.private/documents/OperationalInstructions/ODS/Flights/Radiosondenight.ods |
 |../mm.private/documents/OperationalInstructions/ODS/Flights/SpectralRadiometer.ods |
 |../mm.private/documents/OperationalInstructions/ODS/Flights/sunphotometer.ods|
-</details>
-
-<details> <summary>
 
 ## 04-excel-CSV  
-</summary>
+
 
 | **Files in-04-excel-CSV.zip** |
 |-- |
@@ -79,12 +73,9 @@
 ../mm.private/documents/OperationalInstructions/excel/LUMA_REQUEST.csv 
 ../mm.private/documents/OperationalInstructions/excel/LUMA_SLUM_IR.csv 
 ../mm.private/documents/OperationalInstructions/excel/LUMA_SLUM_SW.csv
-</details>
-
-<details> <summary>
 
 ## 05-OperationalInstructions-pdf.zip
-</summary>
+
 
 | Files in 05-OperationalInstructions-pdf.zip |
 |-- |
@@ -115,12 +106,10 @@
 ../mm.private/documents/OperationalInstructions/pdf/Scintillometer_instructions_v2.pdf 
 ../mm.private/documents/OperationalInstructions/pdf/LUMASummary.pdf
 
-</details>
 
-<details> <summary>
 
 ## 06-OperationalInstructions-pptx.zip
-</summary>
+
 | Files in 06-OperationalInstructions-pptx.zip|
 |-- |
 | https://doi.org/10.5281/zenodo.13956859 |
@@ -135,16 +124,13 @@
 <../mm.private/documents/OperationalInstructions/pptx/Soil Moisture and Temperature diagram.pptx> 
 ../mm.private/documents/OperationalInstructions/pptx/SPATAIL.pptx 
 ../mm.private/documents/OperationalInstructions/pptx/SplitGrab.pptx ../mm.private/documents/OperationalInstructions/pptx/Watertemperature.pptx
-</details>
 
-<details> <summary>
 
 ## 07-Phenology.zip
-</summary>
 
 | Files in 07-Phenology.zip |
 |-- |
 | https://doi.org/10.5281/zenodo.13956859 |
 | https://suegrimmond.github.io/Phenology |
-</details>
+
 
