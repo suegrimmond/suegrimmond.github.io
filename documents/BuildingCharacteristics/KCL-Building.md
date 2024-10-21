@@ -2,7 +2,7 @@
 
 - [Temperature Profile Heights](Temp-profile.pdf)
 - [British National Grid N](BNG_north.pdf)
- -[Building Dimensions](Building-dimensions2.pdf)
+- [Building Dimensions](Building-dimensions2.pdf)
 - [KSS heights](KSS_heights.pdf)
 
 
