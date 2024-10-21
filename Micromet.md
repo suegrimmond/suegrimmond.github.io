@@ -11,7 +11,7 @@
 - [Reports](https://suegrimmond.github.io/Reports)
 - [Flights](https://suegrimmond.github.io/Flights)
 - [Past Plots weekly example](https://suegrimmond.github.io/Past-Plot.html)
-
+- [LUMA- Weekly plot](https://suegrimmond.github.io/images/LUMA/WeeklyPlot.md)
 
 ### 2013
 
