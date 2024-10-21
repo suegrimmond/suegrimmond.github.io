@@ -1,8 +1,24 @@
+
+# Publications
+
+1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
+1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
+
+1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
+
+
 ## Journal Papers
 
-## 2024
+### 2024
 
-<details>
 
 Jongen HJ, M Lipson, AJ Teuling, S Grimmond, JJ Baik, M Best, M Demuzere, K Fortuniak, Y Huang, MG De Kauwe, R Li, J McNorton, N Meili, K Oleson, SB Park, T Sun, A Tsiringakis, M Varentsov, C Wang, ZH Wang, GJ Steeneveld 2024: The water balance representation in Urban-PLUMBER land surface models JAMES 16., 10 https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231
 
@@ -88,12 +104,12 @@ Duan Z, CSB Grimmond, Z Gao, T Sun, C Liu, Y Li 2021: Seasonal and interannual v
 
 Biggart M, J Stocker, RM Doherty, O Wild, D Carruthers, S Grimmond, Y Han, P Fu, S Kotthaus 2021: Modelling spatiotemporal variations of the canopy layer urban heat island in Beijing at the neighbourhood-scale Atmospheric Chemistry and Physics 21:13687–13711 https://doi.org/10.5194/acp-21-13687-2021
 
-</details>
+
 
 
 ### 2020
 
-<details>
+
 
 Warren E, C Charlton-Perez, S Kotthaus, F Marenco, C Ryder, B Johnson, D Green, H Lean, S Ballard, S Grimmond 2020: Observed aerosol characteristics to improve forward-modelled attenuated backscatter Atmospheric Environment 224:117177  https://doi.org/10.1016/j.atmosenv.2019.117177
 
@@ -357,11 +373,10 @@ Best M, M Pryor, D Clark, G Rooney, R Essery, C Ménard, J Edwards, M Hend
 Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux International Journal of Climatology 31:1990-2005 https://doi.org/10.1002/joc.2210
 Wood C, Lacser A, Barlow J, Padhra A, Belcher S, Nemitz E, Helfter C, Famulari D, Grimmond C 2010: Turbulent flow at 190 m above London during 2006-2008: a climatology & the applicability of similarity theory Boundary-Layer Meteorology 137:77-96 https://doi.org/10.1007/s10546-010-9516-x
 
-</details>
+
 
 ### 2010
 
-<details>
 
 Loridan T, C Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martilli, H Kusaka, M Best 2010: Trade-offs & responsiveness of the single-layer urban canopy parameterization in WRF: an offline evaluation using the MOSCEM optimization algorithm & field observations Quarterly Journal of the Royal Meteorological Society 136: 997-1019  https://doi.org/10.1002/qj.614
 
@@ -461,11 +476,10 @@ Fortuniak K, B Offerle, CSB Grimmond, TR Oke, K Kłysik, J Wibig 2001: A system 
 
 Cleugh HA, CSB Grimmond 2001: Modeling regional scale surface energy exchanges & CBL growth in a heterogeneous, urban-rural landscape Boundary-Layer Meteorology 98:1-31 https://doi.org/10.1023/A:1018798928158
 
-</details>
+
 
 ### 2000
 
-<details>
 
 Voogt JA, CSB Grimmond 2000: Modeling surface sensible heat flux using surface radiative temperatures in a simple urban area J Applied Meteorology 39:1679-99 https://doi.org/10.1175/1520-0450-39.10.1679 
 
@@ -516,11 +530,11 @@ Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. WR
 
 Grimmond CSB, HA Cleugh, TR Oke 1991: An objective urban heat storage model & its comparison with other schemes Atmospheric Environment 25B:311-26 https://doi.org/10.1016/0957-1272(91)90003-W
 
-</details>
+
 
 ### 1990
 
-<details>
+
 
 Oke TR, HA Cleugh, CSB Grimmond, HP Schmid, M Roth 1989: Evaluation of spatially-averaged fluxes of heat, mass & momentum in the urban boundary layer Weather & Climate 9: 14-21 https://doi.org/10.2307/44279767; https://www.jstor.org/stable/44279767
 
@@ -530,11 +544,11 @@ Grimmond CSB, TR Oke 1986: Urban water balance II: Results from a suburb of Vanc
 
 Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand mountain environment. Hydrological Aspects of Alpine & High Mountain Areas, International Association of Hydrological Sciences Publication 138:161-68 https://iahs.info/uploads/dms/iahs_138_0161.pdf
 
-</details>
+
 
 ## Book Chapters
 
-<details>
+
 
 WMO 2023: Guidance to measuring, modelling and monitoring the canopy layer urban heat island (CL-UHI). Schlünzen KH, Grimmond S, Baklanov A (eds). WMO-No. 1292. Geneva,  https://library.wmo.int/idurl/4/58410
 
@@ -610,17 +624,15 @@ Grimmond CSB 1996: Dynamically determined parameters for urban energy & water ex
 
 Hubble MD, CSB Grimmond 1995: Urban heat storage. McGraw-Hill Yearbook of Science & Technology 1996. McGraw-Hill, New York, 361-363
 
-</details>
 
 ## Unrefereed /Partially Refereed
 
-<details>
 
 Lantzanakis G, D Tsirantonakis, N Chrysoulakis, S Grimmond, A Christen J Birkmann 2023: Initial development of the urbisphere urban hyperspectral library: Berlin, Germany  2023 JURSE https://doi.org/10.1109/jurse57346.2023.10144154
 
 Shi ZB, 徐婧莎, R Harrison, W Bloss, J Allan, B Barratt, H Coe, R Doherty, 傅平青, S Grimmond, 关大博, 郭新彪, J Hamilton, 贺克斌, D Heard, N Hewitt, R Jones, M Kalberer, F Kelly, J Lee, A Lewis, 李杰, M Loh, M Miller, P Monks, E Nemitz, P Palmer, C Reeves, 邵龙义, 孙志伟, 陶澍, 佟胜睿, L Whalley, 王新明, 王学军, O Wild, 吴志军, 谢品华, 张强, 郑玫, 朱彤, 2021: 中国超大城市空气 污染和人体健康 APHH-Beijing) 中英联合研究计划: 最终报告. https://doi.org/10.25500/epapers.bham.00003381
 
-</details>
+
 
 ### 2020
 
@@ -672,11 +684,11 @@ Grimmond S 2011: London’s urban climate: historical and contemporary perspecti
 
 Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Global to city scale urban anthropogenic heat flux: Model & variability. Deliverable 1.4, MEGAPOLI Scientific Report 10-01, MEGAPOLI-04-REP-2010-03, 87p, ISBN: 978-87-992924-4-8; http://megapoli.dmi.dk/publ/MEGAPOLI_sr10-01.pdf
 
-</details>
+
 
 ### 2010
 
-<details>
+
 
 Erell E, Eliassion I, S Grimmond, B Offerle, T Williamson  2010 The effect of stability on estimated variations of advected moisture in the Canyon Air Temperature (CAT) model  AMS 9th Symposium on the Urban Environment,  J4C.4
 
