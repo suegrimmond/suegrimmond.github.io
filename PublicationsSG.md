@@ -676,6 +676,8 @@ Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Glo
 
 ### 2010
 
+<details>
+
 Erell E, Eliassion I, S Grimmond, B Offerle, T Williamson  2010 The effect of stability on estimated variations of advected moisture in the Canyon Air Temperature (CAT) model  AMS 9th Symposium on the Urban Environment,  J4C.4
 
 Brazel A, P Gober, S Grossman Clarke, S Myint, R Quay, AQ Miller, S Rossi S Grimmond 2009: Mitigating urban heat island effects with water- & energy-sensitive urban designs, (J7.3) http://ams.confex.com/ams/pdfpapers/145231.pdf AMS 89th Annual Meeting/ 8th Symp. on the Urban Environment, Phoenix
