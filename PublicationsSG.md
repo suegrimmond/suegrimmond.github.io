@@ -19,7 +19,6 @@
 
 ### 2024
 
-
 Jongen HJ, M Lipson, AJ Teuling, S Grimmond, JJ Baik, M Best, M Demuzere, K Fortuniak, Y Huang, MG De Kauwe, R Li, J McNorton, N Meili, K Oleson, SB Park, T Sun, A Tsiringakis, M Varentsov, C Wang, ZH Wang, GJ Steeneveld 2024: The water balance representation in Urban-PLUMBER land surface models JAMES 16., 10 https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231
 
 Xie X, Luo Z, S Grimmond, Y Liu, CE Ugalde-Loo, MT Bailey, X  Wang 2024: Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios? Sustainable Cities and Society https://doi.org/10.1016/j.scs.2024.105811
@@ -104,12 +103,7 @@ Duan Z, CSB Grimmond, Z Gao, T Sun, C Liu, Y Li 2021: Seasonal and interannual v
 
 Biggart M, J Stocker, RM Doherty, O Wild, D Carruthers, S Grimmond, Y Han, P Fu, S Kotthaus 2021: Modelling spatiotemporal variations of the canopy layer urban heat island in Beijing at the neighbourhood-scale Atmospheric Chemistry and Physics 21:13687–13711 https://doi.org/10.5194/acp-21-13687-2021
 
-
-
-
 ### 2020
-
-
 
 Warren E, C Charlton-Perez, S Kotthaus, F Marenco, C Ryder, B Johnson, D Green, H Lean, S Ballard, S Grimmond 2020: Observed aerosol characteristics to improve forward-modelled attenuated backscatter Atmospheric Environment 224:117177  https://doi.org/10.1016/j.atmosenv.2019.117177
 
@@ -373,10 +367,7 @@ Best M, M Pryor, D Clark, G Rooney, R Essery, C Ménard, J Edwards, M Hend
 Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux International Journal of Climatology 31:1990-2005 https://doi.org/10.1002/joc.2210
 Wood C, Lacser A, Barlow J, Padhra A, Belcher S, Nemitz E, Helfter C, Famulari D, Grimmond C 2010: Turbulent flow at 190 m above London during 2006-2008: a climatology & the applicability of similarity theory Boundary-Layer Meteorology 137:77-96 https://doi.org/10.1007/s10546-010-9516-x
 
-
-
 ### 2010
-
 
 Loridan T, C Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martilli, H Kusaka, M Best 2010: Trade-offs & responsiveness of the single-layer urban canopy parameterization in WRF: an offline evaluation using the MOSCEM optimization algorithm & field observations Quarterly Journal of the Royal Meteorological Society 136: 997-1019  https://doi.org/10.1002/qj.614
 
@@ -476,10 +467,7 @@ Fortuniak K, B Offerle, CSB Grimmond, TR Oke, K Kłysik, J Wibig 2001: A system 
 
 Cleugh HA, CSB Grimmond 2001: Modeling regional scale surface energy exchanges & CBL growth in a heterogeneous, urban-rural landscape Boundary-Layer Meteorology 98:1-31 https://doi.org/10.1023/A:1018798928158
 
-
-
 ### 2000
-
 
 Voogt JA, CSB Grimmond 2000: Modeling surface sensible heat flux using surface radiative temperatures in a simple urban area J Applied Meteorology 39:1679-99 https://doi.org/10.1175/1520-0450-39.10.1679 
 
@@ -530,11 +518,7 @@ Grimmond CSB, TR Oke 1991: An evaporation-interception model for urban areas. WR
 
 Grimmond CSB, HA Cleugh, TR Oke 1991: An objective urban heat storage model & its comparison with other schemes Atmospheric Environment 25B:311-26 https://doi.org/10.1016/0957-1272(91)90003-W
 
-
-
 ### 1990
-
-
 
 Oke TR, HA Cleugh, CSB Grimmond, HP Schmid, M Roth 1989: Evaluation of spatially-averaged fluxes of heat, mass & momentum in the urban boundary layer Weather & Climate 9: 14-21 https://doi.org/10.2307/44279767; https://www.jstor.org/stable/44279767
 
@@ -547,8 +531,6 @@ Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand
 
 
 ## Book Chapters
-
-
 
 WMO 2023: Guidance to measuring, modelling and monitoring the canopy layer urban heat island (CL-UHI). Schlünzen KH, Grimmond S, Baklanov A (eds). WMO-No. 1292. Geneva,  https://library.wmo.int/idurl/4/58410
 
@@ -627,11 +609,9 @@ Hubble MD, CSB Grimmond 1995: Urban heat storage. McGraw-Hill Yearbook of Scienc
 
 ## Unrefereed /Partially Refereed
 
-
 Lantzanakis G, D Tsirantonakis, N Chrysoulakis, S Grimmond, A Christen J Birkmann 2023: Initial development of the urbisphere urban hyperspectral library: Berlin, Germany  2023 JURSE https://doi.org/10.1109/jurse57346.2023.10144154
 
 Shi ZB, 徐婧莎, R Harrison, W Bloss, J Allan, B Barratt, H Coe, R Doherty, 傅平青, S Grimmond, 关大博, 郭新彪, J Hamilton, 贺克斌, D Heard, N Hewitt, R Jones, M Kalberer, F Kelly, J Lee, A Lewis, 李杰, M Loh, M Miller, P Monks, E Nemitz, P Palmer, C Reeves, 邵龙义, 孙志伟, 陶澍, 佟胜睿, L Whalley, 王新明, 王学军, O Wild, 吴志军, 谢品华, 张强, 郑玫, 朱彤, 2021: 中国超大城市空气 污染和人体健康 APHH-Beijing) 中英联合研究计划: 最终报告. https://doi.org/10.25500/epapers.bham.00003381
-
 
 
 ### 2020
@@ -687,8 +667,6 @@ Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Glo
 
 
 ### 2010
-
-
 
 Erell E, Eliassion I, S Grimmond, B Offerle, T Williamson  2010 The effect of stability on estimated variations of advected moisture in the Canyon Air Temperature (CAT) model  AMS 9th Symposium on the Urban Environment,  J4C.4
 
@@ -832,11 +810,7 @@ Wieringa J, Davenport A, CSB Grimmond, TR Oke 2001: New revision of Davenport ro
 
 Grimmond C, C Souch 2001: Geography 109: Weather & Climate. Manual for Continuing Studies, Indiana University (distance learning course).
 
-</details>
-
 ### 2000
-
-<details>
 
 Cropley FD, HP Schmid, CSB Grimmond 2000: Spectral dependence of the correction for path-smoothing by 3-D anemometers. Preprints 14th Symp. Boundary Layers & Turbulence, AMS, 157-158.
 
@@ -972,11 +946,9 @@ Grimmond S, C Souch 1991: Weather & Climate Laboratory Manual G109. CMP IUB, Col
 
 Grimmond S, C Souch 1991: Weather & Climate Laboratory Manual G109. CMP IUB, Collegiate Copies. Spring 
 
-</details>
+
 
 ### 1990
-
-<details>
 
 Grimmond CSB 1990: Urban climates & global warming. InterCon, 1 2:2-3.
 
@@ -993,4 +965,3 @@ Grimmond CSB 1985: Urban water balance: an integrating framework. WMO Conf. on U
 Grimmond C 1981: An evaluation of the contents of some New Zealand environmental impact reports. U Otago Geography Discussion Paper #27
 
 Grimmond CSB 1979: Kakanui catchment water resources. Report to the Otago Catchment Board, New Zealand.
-</details>
