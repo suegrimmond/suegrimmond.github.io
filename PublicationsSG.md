@@ -21,7 +21,7 @@
 Jongen HJ, M Lipson, AJ Teuling, S Grimmond, JJ Baik, M Best, M Demuzere, K Fortuniak, Y Huang, MG De Kauwe, R Li, J McNorton, N Meili, K Oleson, SB Park, T Sun, A Tsiringakis, M Varentsov, C Wang, ZH Wang, GJ Steeneveld 2024: The water balance representation in Urban-PLUMBER land surface models JAMES 16., 10 <https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231>
 
 Xie X, Luo Z, S Grimmond, Y Liu, CE Ugalde-Loo, MT Bailey, X  Wang 2024: Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios? Sustainable Cities and Society <https://doi.org/10.1016/j.scs.2024.105811>
-<<
+<
 Liu Y,  S Grimmond, Z Luo, D Hertwig, M McGrory, S Lo Piano, ST Smith 2024: Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses Energy & Buildings <https://doi.org/10.1016/j.enbuild.2024.114668>
 
 Saunders B, S Grimmond, D Hertwig, S Bohnenstengel, H Lean 2024: Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London. Quarterly Journal of the Royal Meteorological Society  <https://doi.org/10.1002/qj.4837>
@@ -44,11 +44,11 @@ Morrison W, Grimmond S, Kotthaus S 2023: Simulating satellite urban land surface
 
 Xie X, Z Luo, S Grimmond, T Sun 2023: Impact of urban density on natural ventilation potential and cooling energy saving across Chinese climate zones Building and Environment, 244:110621 <https://doi.org/10.1016/j.buildenv.2023.110621>
 
-Xie X, Luo Z, Grimmond S, Blunn L 2023: Wind pressure coefficients for isolated and surrounded building energy simulation Building and Environment, 230:109951 <<https://doi.org/10.1016/j.buildenv.2022.109951>
+Xie X, Luo Z, Grimmond S, Blunn L 2023: Wind pressure coefficients for isolated and surrounded building energy simulation Building and Environment, 230:109951 <https://doi.org/10.1016/j.buildenv.2022.109951>
 
-Stretton MA, RJ Hogan, CSB Grimmond, W Morrison 2023: Characterising the vertical structure of buildings in cities for use in atmospheric models Urban Climate 50:101560 <<https://doi.org/10.1016/j.uclim.2023.101560>
+Stretton MA, RJ Hogan, CSB Grimmond, W Morrison 2023: Characterising the vertical structure of buildings in cities for use in atmospheric models Urban Climate 50:101560 <https://doi.org/10.1016/j.uclim.2023.101560>
 
-Liu Y, Z Luo, S Grimmond 2023: Impact of building envelope design parameters on diurnal building anthropogenic heat emission Building and Environment 234:110134: <<https://doi.org/10.1016/j.buildenv.2023.110134>
+Liu Y, Z Luo, S Grimmond 2023: Impact of building envelope design parameters on diurnal building anthropogenic heat emission Building and Environment 234:110134: <https://doi.org/10.1016/j.buildenv.2023.110134>
 
 Lavor V, O Coceal, S Grimmond, J Hang, Z Luo 2023: Possible high COVID-19 airborne infection risk in deep and poorly ventilated 2D street canyons Buidling Simulation 16:1617-1628 <https://doi.org/10.1007/s12273-023-1037-x>
 
@@ -120,13 +120,13 @@ Morrison W, T Yin, N Lauret, J Guilleux, S Kotthaus, JP Gastellu-Etchegorry, L N
 Meyer D, R Schoetter, V Masson, S Grimmond 2020: Enhanced software and platform for the Town Energy Balance (TEB) model Journal of Open Source Software 5(50): 2008 <https://doi.org/10.21105/joss.02008
 
 Meyer D,  R Schoetter, Maik Riechert, Antoine Verrell, M Tewari, J Dudhia, V Masson, M van Reeuwijk, S Grimmond 2020: WRF-TEB: implementation and evaluation of the coupled Weather Research and Forecasting (WRF) and Town Energy Balance (TEB) model Journal of Advances in Modeling Earth Systems 12:e2019MS001961 <https://doi.org/10.1029/2019MS001961
-Lindberg F, FG Olofson, T Sun, S Grimmond, C Feigenwinter 2020: Urban storage heat flux variability explored using satellite, meteorological and geodata Theoretical and Applied Climatology 141:271–284  <https://doi.org/10.1007/s00704-020-03189-1
+Lindberg F, FG Olofson, T Sun, S Grimmond, C Feigenwinter 2020: Urban storage heat flux variability explored using satellite, meteorological and geodata Theoretical and Applied Climatology 141:271–284  <https://doi.org/10.1007/s00704-020-03189-1>
 
 Li Qi, E Bou‐Zeid,  S Grimmond, S Zilitinkevich, Gl Katul 2020: Revisiting the relation between the momentum and scalar roughness lengths of urban surface Quarterly Journal of the Royal Meteorological Society 146: 3144-3164  <https://doi.org/10.1002/qj.3839
 
 Kotthaus S, Haeffelin M, Drouin M-A, Dupont J-C, Grimmond S, Haefele A, Hervo M, Poltera Y, Wiegner M. Tailored 2020: Algorithms for the detection of the atmospheric boundary layer height from common automatic lidars and ceilometers (ALC) Remote Sensing 12(19):3259 <https://doi.org/10.3390/rs12193259
 
-Hertwig D, S Grimmond, MA Hendry, B Saunders, Z Wang, M Jeoffrion, PL Vidale, PC McGuire, SI Bohnenstengel, HC Ward, S Kotthaus 2020: Urban signals in high-resolution weather and climate simulations: role of urban land-surface characterisation Theoretical and Applied Climatology 142:701–728 <https://doi.org/10.1007/s00704-020-03294-1
+Hertwig D, S Grimmond, MA Hendry, B Saunders, Z Wang, M Jeoffrion, PL Vidale, PC McGuire, SI Bohnenstengel, HC Ward, S Kotthaus 2020: Urban signals in high-resolution weather and climate simulations: role of urban land-surface characterisation Theoretical and Applied Climatology 142:701–728 <https://doi.org/10.1007/s00704-020-03294-1>
 
 Han Z, JG Tan, CSB Grimmond, B Ma, T Yang, C Weng 2020 An integrated wind risk warning model for urban rail transport in Shanghai, China Atmosphere 11: 53 <https://doi.org/10.3390/atmos11010053
 
@@ -146,9 +146,9 @@ Xiong Jie, R Yao, S Grimmond, Q Zhang, B Li 2019: A hierarchical climatic zoning
 
 Tsiringakis A, GJ Steeneveld AAM Holtslag, S Kotthaus, S Grimmond 2019: On- and off-line evaluation of the single-layer urban canopy model in London summertime conditions. Quarterly Journal of the Royal Meteorological Society 145: 1474-1489 <https://doi.org/10.1002/qj.3505
 
-Theeuwes NE, RJ Ronda, IN Harman, A Christen, CSB Grimmond 2019: Parameterising horizontally averaged wind and temperature proﬁles in the urban roughness sublayer Boundary-Layer Meteorology 173:321–348 <https://doi.org/10.1007/s10546-019-00472-1
+Theeuwes NE, RJ Ronda, IN Harman, A Christen, CSB Grimmond 2019: Parameterising horizontally averaged wind and temperature proﬁles in the urban roughness sublayer Boundary-Layer Meteorology 173:321–348 <https://doi.org/10.1007/s10546-019-00472-1>
 
-Theeuwes NE, JF Barlow, Adriaan J Teuling, CSB Grimmond, S Kotthaus 2019: Persistent cloud cover over mega-cities linked to surface heat release npj Climate and Atmospheric Science  2:15 <https://doi.org/10.1038/s41612-019-0072-x 
+Theeuwes NE, JF Barlow, Adriaan J Teuling, CSB Grimmond, S Kotthaus 2019: Persistent cloud cover over mega-cities linked to surface heat release npj Climate and Atmospheric Science  2:15 <https://doi.org/10.1038/s41612-019-0072-X> 
 
 Takane Y, Y Kikegawa, M Hara, S Grimmond 2019: Urban warming and air-conditioning use in a future climate: Evidence and importance of a positive feedback process npjCAS 2: 39 <https://doi.org/10.1038/s41612-019-0096-2
 
@@ -200,7 +200,7 @@ Kokkonen T, CSB Grimmond, O Räty, HC Ward, A Christen, T Oke, S Kotthaus, L Jä
 
 Kent CW, S Grimmond, D Gatey, J Barlow 2018: Assessing methods to extrapolate the vertical wind-speed profile from surface observations in a city centre during strong winds Journal of Wind Engineering and Industrial Aerodynamics 173:100-111 <https://doi.org/10.1016/j.jweia.2017.09.007
 
-Kent CW, K Lee, HC Ward, JW Hong, J Hong, D Gatey, S Grimmond 2018: Aerodynamic roughness variation with vegetation: analysis in a suburban neighbourhood and a city park Urban Ecosystems 21:227–243 <https://doi.org/10.1007/s11252-017-0710-1
+Kent CW, K Lee, HC Ward, JW Hong, J Hong, D Gatey, S Grimmond 2018: Aerodynamic roughness variation with vegetation: analysis in a suburban neighbourhood and a city park Urban Ecosystems 21:227–243 <https://doi.org/10.1007/s11252-017-0710-1>
 
 Gough H, Z Luo, C Halios, M-F King, CJ Noakes, CSB Grimmond, JF Barlow, R Hoxey, AD Quinn 2018: Field measurements of natural ventilation in an idealised full-scale building in a staggered array: comparison between tracer-gas and pressure-based methods Building and Environment 137:246-256 <https://doi.org/10.1016/j.buildenv.2018.03.055 
 
@@ -208,7 +208,7 @@ Gough H, Sato T, Halios C, Grimmond CSB, Luo V, Barlow JF, A Robertson, R Hoxey,
 
 Crawford B, CSB Grimmond, A Gabey, M Marconcini, HC Ward, CW Kent 2018: Variability of urban surface temperatures and implications for aerodynamic energy exchange in unstable conditions Quarterly Journal of the Royal Meteorological Society 144: 1719-1741 <https://doi.org/10.1002/qj.3325
 
-Chrysoulakis N, S Grimmond, C Feigenwinter, F Lindberg, JP Gastellu-Etchegorry, M Marconcini, Z Mitraka, S Stagakis, B Crawford, F Olofson, L Landier, W Morrison, E Parlow 2018: Urban energy exchanges monitoring from space Scientific Reports 8:11498  <https://doi.org/10.1038/s41598-018-29873-x
+Chrysoulakis N, S Grimmond, C Feigenwinter, F Lindberg, JP Gastellu-Etchegorry, M Marconcini, Z Mitraka, S Stagakis, B Crawford, F Olofson, L Landier, W Morrison, E Parlow 2018: Urban energy exchanges monitoring from space Scientific Reports 8:11498  <https://doi.org/10.1038/s41598-018-29873-X>
 
 Bjorkegren A, CSB Grimmond 2018: Net carbon dioxide emissions from central London Urban Climate 23:131-158 <https://doi.org/10.1016/j.uclim.2016.10.002
 
@@ -240,27 +240,27 @@ Bellucco V, S Marras, CSB Grimmond, L Järvi, C Sirca D Spano 2017: Modelling th
 
 Barlow J, Best M, Bohnenstengel SI, Clark P, Grimmond S, Lean H, Christen A, Emeis, S, Haeffelin M, Harman IN, Lemonsu A, Martilli A, Pardyjak E, Rotach MW, Ballard S, Boutle I, Brown A, Cai X, Carpentieri M, Coceal O, Crawford B, Di Sabatino S, Dou J, Drew D, Edwards JM, Fallmann J, Fortuniak K, Gornall J, Gronemeier T, Halios C, Hertwig D, Hirano K, Holtslag AAM, Luo Z, Mills G, Nakayoshi M, Pain K, Schlünzen KH, Smith S, Soulhac L, Steeneveld G-J Sun T, Theeuwes N, Thomson D, Voogt JA, Ward H, Xie Z-T, Zhong J 2017: The integration of urban atmospheric processes across scales Bulletin of the American Meteorological Society 98: ES261–ES264 <https://doi.org/10.1175/BAMS-D-17-0106.1
 
-Yunus AP, R Avtar, S Kraines, M Yamamuro, F Lindberg, CSB Grimmond 2016: Uncertainties in tidally adjusted estimates of sea level rise flooding (bathtub model) for the Greater London Remote Sensing 8:366 <https://doi.org/10.3390/rs8050366
+Yunus AP, R Avtar, S Kraines, M Yamamuro, F Lindberg, CSB Grimmond 2016: Uncertainties in tidally adjusted estimates of sea level rise flooding (bathtub model) for the Greater London Remote Sensing 8:366 <https://doi.org/10.3390/rs8050366>
 
-Warren EL, DT Young, L Chapman, C Muller, CSB Grimmond, XM Cai 2016: The Birmingham Urban Climate Laboratory—A high density, urban meteorological dataset, from 2012–2014 Scientific Data 3:160038 ​https://doi.org/10.1038/sdata.2016.38 
+Warren EL, DT Young, L Chapman, C Muller, CSB Grimmond, XM Cai 2016: The Birmingham Urban Climate Laboratory—A high density, urban meteorological dataset, from 2012–2014 Scientific Data 3:160038 ​https://doi.org/10.1038/sdata.2016.38>
 
-Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18:1–32 <https://doi.org/10.1016/j.uclim.2016.05.001
+Ward HC. S Kotthaus, L Järvi, CSB Grimmond 2016: Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites Urban Climate 18:1–32 <https://doi.org/10.1016/j.uclim.2016.05.001>
 
-Tang YQ, JG Tan, CSB Grimmond, Chang YY, Ao XY 2016: Est
+Tang YQ, JG Tan, CSB Grimmond, Chang YY, Ao XY 2016: Estimation and analysis of aerodynamic parameters for a typical large city J Tropical Meteorology (in Chinese) 32(4): 503-514 <https://doi.org/10.16032/j.issn.1004-4965.2016.04.008>
 
-Sun T, CSB Grimmond, G-H Ni 2016: How do green roofs mitigate urban thermal stress under heat waves? J Geophysical Research Atmospheres 121:5320–5335 <https://doi.org/10.1002/2016JD024873 
+Sun T, CSB Grimmond, G-H Ni 2016: How do green roofs mitigate urban thermal stress under heat waves? J Geophysical Research Atmospheres 121:5320–5335 <https://doi.org/10.1002/2016JD024873> 
 
-Lindberg F, S Onomura, CSB Grimmond 2016: Influence of ground surface characteristics on the mean radiant temperature in urban areas International J Biometeorology 60:1439–1452 <https://doi.org/10.1007/s00484-016-1135-x
+Lindberg F, S Onomura, CSB Grimmond 2016: Influence of ground surface characteristics on the mean radiant temperature in urban areas International J Biometeorology 60:1439–1452 <https://doi.org/10.1007/s00484-016-1135-x>
 
-Li Q, E Bou-Zeid, W Anderson, S Grimmond, M Hultmark 2016: Quality and reliability of LES of convective scalar transfer at high Reynolds numbers International Journal of Heat and Mass Transfer 102:959-970 <https://doi.org/10.1016/j.ijheatmasstransfer.2016.06.093
+Li Q, E Bou-Zeid, W Anderson, S Grimmond, M Hultmark 2016: Quality and reliability of LES of convective scalar transfer at high Reynolds numbers International Journal of Heat and Mass Transfer 102:959-970 <https://doi.org/10.1016/j.ijheatmasstransfer.2016.06.093>
 
-Kotthaus S, E O’Connor, C Münkel, C Charlton-Perez, CSB Grimmond 2016: Recommendations for processing atmospheric backscatter profiles from Vaisala CL31 ceilometers Atmospheric Measurement Techniques 9: 3769-3791 <https://doi.org/10.5194/amt-9-3769-2016
+Kotthaus S, E O’Connor, C Münkel, C Charlton-Perez, CSB Grimmond 2016: Recommendations for processing atmospheric backscatter profiles from Vaisala CL31 ceilometers Atmospheric Measurement Techniques 9: 3769-3791 <https://doi.org/10.5194/amt-9-3769-2016>
 
-Helfter C, Tremper AH, Halios CH, Kotthaus S, Bjorkegren A, Grimmond CSB, Barlow JF, Nemitz E 2016: Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK Atmospheric Chemistry and Physics 16:10543–10557  <https://doi.org/10.5194/acp-16-10543-2016
+Helfter C, Tremper AH, Halios CH, Kotthaus S, Bjorkegren A, Grimmond CSB, Barlow JF, Nemitz E 2016: Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK Atmospheric Chemistry and Physics 16:10543–10557  <https://doi.org/10.5194/acp-16-10543-2016>
 
-Best MJ, CSB Grimmond 2016: Modelling the Bowen ratio at a number of urban sites over a range of vegetation cover J Hydrometeorology 17:2537–2553, <https://doi.org/10.1175/JHM-D-15-0126.1
+Best MJ, CSB Grimmond 2016: Modelling the Bowen ratio at a number of urban sites over a range of vegetation cover J Hydrometeorology 17:2537–2553, <https://doi.org/10.1175/JHM-D-15-0126.1>
 
-Best MJ, CSB Grimmond 2016: Investigation of the impact of anthropogenic heat flux within an urban land surface model and PILPS-urban Theoretical and Applied Climatology 126:51–60 <https://doi.org/10.1007/s00704-015-1554-3
+Best MJ, CSB Grimmond 2016: Investigation of the impact of anthropogenic heat flux within an urban land surface model and PILPS-urban Theoretical and Applied Climatology 126:51–60 <https://doi.org/10.1007/s00704-015-1554-3>
 
 Ao XY, CSB Grimmond, YY Chang, DW Liu, YQ Tang, P Hu, YD Wang, J Zou, JG Tan 2016: Challenges of observing heat, water and carbon exchanges in Shanghai, a dense, tall megacity International Journal of Climatology  36:4608–4624 <https://doi.org/10.1002/joc.4657
 
@@ -270,9 +270,9 @@ Ward HC, JG Evans, CSB Grimmond, J Bradford 2015: Infrared and millimetre-wave s
 
 Ward HC, JG Evans, CSB Grimmond 2015: Infrared and millimetre-wave scintillometry in the suburban environment – Part 2: large-area sensible and latent heat fluxes Atmospheric Measurement Techniques 8:1407-1424 <https://doi.org/10.5194/amt-8-1407-2015
 
-Ward H, S Kotthaus, C Grimmond, A Bjorkegren, M Wilkinson, W Morrison, J Evans, J Morison, M Iamarino 2015: Effects of urban density on CO2 exchanges: observations of dense urban, suburban & woodland areas of southern England Environmental Pollution 198:186-200 <https://doi.org/10.1016/j.envpol.2014.12.031
+Ward H, S Kotthaus, C Grimmond, A Bjorkegren, M Wilkinson, W Morrison, J Evans, J Morison, M Iamarino 2015: Effects of urban density on CO2 exchanges: observations of dense urban, suburban & woodland areas of southern England Environmental Pollution 198:186-200 <https://doi.org/10.1016/j.envpol.2014.12.031>
 
-Tan J, L Yang, CSB Grimmond, J Shi, W Gu, Y Chang, P Hu, J Sun, X Ao, Z Han 2015: Urban integrated meteorological observations: Practice and experience in Shanghai, China Bulletin of the American Meteorological Society, 96: 85-102 https://doi.org/10.1175/BAMS-D-13-00216.1
+Tan J, L Yang, CSB Grimmond, J Shi, W Gu, Y Chang, P Hu, J Sun, X Ao, Z Han 2015: Urban integrated meteorological observations: Practice and experience in Shanghai, China Bulletin of the American Meteorological Society, 96: 85-102 https://doi.org/10.1175/BAMS-D-13-00216.1>
 
 Onomura S, C Grimmond, F Lindberg, B Holmer, S Thorsson 2015: Meteorological forcing data for urban outdoor thermal comfort models from a coupled convective boundary layer & surface energy balance scheme Urban Climate 11:1-23 <https://doi.org/10.1016/j.uclim.2014.11.001
 
@@ -286,15 +286,15 @@ Honjo T, H Yamato, T Mikami, CSB Grimmond 2015: Network optimization for enhance
 
 Font A, Grimmond CSB, Kotthaus S, Morguí JA, Stockdale C, O’Connor E, Priestman M, Barratt B 2015: Daytime CO2 urban-regional scale surface fluxes from airborne measurements, eddy-covariance observations and emissions inventories in Greater London Environmental Pollution 196:98-106 <https://doi.org/10.1016/j.envpol.2014.10.001
 
-Chapman L, C Muller, D Young, E Warren, C Grimmond, XM Cai, E Ferranti 2015: The Birmingham urban climate laboratory: An open meteorological testbed and challenges of the smart city Bulletin of the American Meteorological Society 96:1545-1560 <https://doi.org/10.1175/BAMS-D-13-00193.1
+Chapman L, C Muller, D Young, E Warren, C Grimmond, XM Cai, E Ferranti 2015: The Birmingham urban climate laboratory: An open meteorological testbed and challenges of the smart city Bulletin of the American Meteorological Society 96:1545-1560 <https://doi.org/10.1175/BAMS-D-13-00193.1>
 
-Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project Bulletin of the American Meteorological Society 96: 779–804 <https://doi.org/10.1175/BAMS-D-12-00245.1
+Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project Bulletin of the American Meteorological Society 96: 779–804 <https://doi.org/10.1175/BAMS-D-12-00245.1>
 
 Bjorkegren A, CSB Grimmond, S Kotthaus, BD Maamud 2015: CO2 emission estimation in the urban environment: measurement of the CO2 storage term Atmospheric Environment 122:775-790 <https://doi.org/10.1016/j.atmosenv.2015.10.012
 
-Best MJ, CSB Grimmond 2015: Key conclusions of the first international urban land surface model comparison project Bulletin of the American Meteorological Society 96:805–19 <https://doi.org/10.1175/BAMS-D-14-00122.1
+Best MJ, CSB Grimmond 2015: Key conclusions of the first international urban land surface model comparison project Bulletin of the American Meteorological Society 96:805–19 <https://doi.org/10.1175/BAMS-D-14-00122.1>
 
-Young DT, L Chapman, CL Muller, XM Cai, CSB Grimmond 2014: A low-cost wireless temperature sensor: evaluation for use in environmental applications Journal of Atmospheric and Oceanic Technology 31:938–44 <https://doi.org/10.1175/JTECH-D-13-00217.1
+Young DT, L Chapman, CL Muller, XM Cai, CSB Grimmond 2014: A low-cost wireless temperature sensor: evaluation for use in environmental applications Journal of Atmospheric and Oceanic Technology 31:938–44 <https://doi.org/10.1175/JTECH-D-13-00217.1>
 
 Ward HC, JG Evans, CSB Grimmond 2014: Multi-scale sensible heat fluxes in the urban environment from large aperture scintillometry and eddy covariance Boundary-Layer Meteorology 152:65-89 <https://doi.org/10.1007/s10546-014-9916-4
 
@@ -324,19 +324,19 @@ Lindberg F, CSB Grimmond, N Yogeswaran, S Kotthaus, L Allen 2013: Impact of city
 
 Chrysoulakis N, M Lopes, R San José, C Grimmond, M Jones, V Magliulo, J Klostermann, A Synnefa, Z Mitraka, E Castro, A González, R Vogt, T Vesala, D Spano, G Pigeon, P Freer-Smith, T Staszewski, N Hodges, G Mills, C Cartalis 2013: Sustainable urban metabolism as a link between bio-physical sciences and urban planning: The BRIDGE project. Landscape and Urban Planning 112:100– 117 <https://doi.org/10.1016/j.landurbplan.2012.12.005
 
-Choi Y-J, S-L Kang, J Hong, S Grimmond, K Davis 2013: A next-generation weather information system engine (WISE) customized for urban area and surrounding rural areas Bulletin of the American Meteorological Society, 94: ES114–ES117. <https://doi.org/10.1175/BAMS-D-12-00217.1
+Choi Y-J, S-L Kang, J Hong, S Grimmond, K Davis 2013: A next-generation weather information system engine (WISE) customized for urban area and surrounding rural areas Bulletin of the American Meteorological Society, 94: ES114–ES117. <https://doi.org/10.1175/BAMS-D-12-00217.1>
 
 Best M, CSB Grimmond 2013: Analysis of the seasonal cycle within the first international urban land surface model comparison Boundary-Layer Meteorology 146:421-46 <https://doi.org/10.1007/s10546-012-9769-7
 
-Loridan T, CSB Grimmond 2012: Multi-site evaluation of an urban land-surface model: intra-urban heterogeneity, seasonality and parameter complexity requirements. Quarterly Journal of the Royal Meteorological Society 138:1094–1113, http://doi.org/10.1002/qj.963
+Loridan T, CSB Grimmond 2012: Multi-site evaluation of an urban land-surface model: intra-urban heterogeneity, seasonality and parameter complexity requirements. Quarterly Journal of the Royal Meteorological Society 138:1094–1113, <http://doi.org/10.1002/qj.963
 
-Loridan T, CSB Grimmond 2012: Characterization of energy flux partitioning in urban environments: links with surface seasonal properties Journal of Applied Meteorology and Climatology 51:219-241 http://doi.org/10.1175/JAMC-D-11-038.1
+Loridan T, CSB Grimmond 2012: Characterization of energy flux partitioning in urban environments: links with surface seasonal properties Journal of Applied Meteorology and Climatology 51:219-241 <http://doi.org/10.1175/JAMC-D-11-038.1>
 
-Kotthaus S, CSB Grimmond 2012: Identification of micro-scale anthropogenic CO2, heat and moisture sources: Processing eddy covariance fluxes for a dense urban environment Atmospheric Environment 57:301-16 http://doi.org/10.1016/j.atmosenv.2012.04.024
+Kotthaus S, CSB Grimmond 2012: Identification of micro-scale anthropogenic CO2, heat and moisture sources: Processing eddy covariance fluxes for a dense urban environment Atmospheric Environment 57:301-16 <http://doi.org/10.1016/j.atmosenv.2012.04.024
 
-Iamarino M, Beevers S, CSB Grimmond 2012: High resolution (space, time) anthropogenic heat emissions: London 1970-2025 International Journal of Climatology 32:1754-1767 http://doi.org/10.1002/joc.2390
+Iamarino M, Beevers S, CSB Grimmond 2012: High resolution (space, time) anthropogenic heat emissions: London 1970-2025 International Journal of Climatology 32:1754-1767 <http://doi.org/10.1002/joc.2390
 
-Chen F, R Bornstein, S Grimmond, J Li, X Liang, A Martilli, S Miao, J Voogt, Y Wang 2012: Research priorities in observing and modeling urban weather and climate Bulletin of the American Meteorological Society 93:1725-28 http://doi.org/10.1175/BAMS-D-11-00217.1
+Chen F, R Bornstein, S Grimmond, J Li, X Liang, A Martilli, S Miao, J Voogt, Y Wang 2012: Research priorities in observing and modeling urban weather and climate Bulletin of the American Meteorological Society 93:1725-28 <http://doi.org/10.1175/BAMS-D-11-00217.1>
 
 Ward HC, JG Evans, CSB Grimmond 2011: Effects of non-uniform crosswind fields on scintillometry measurements Boundary-Layer Meteorology 141:143-63 <https://doi.org/10.1007/s10546-011-9626-0
 
@@ -344,7 +344,7 @@ Oliphant AJ, D Dragoni, B Deng, CSB Grimmond, HP Schmid, STL Scott 2011: The rol
 
 Malamud BD, DL Turcotte, CSB Grimmond 2011: Temperature trends at the Mauna Loa observatory, Hawaii Climate of the Past 7: 975–83 <https://doi.org/10.5194/cp-7-975-2011
 
-Loridan T, CSB Grimmond, BD Offerle, DT Young, T Smith, L Järvi, F Lindberg 2011: Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology and Climatology 50:185-202 <https://doi.org/10.1175/2010JAMC2474.1
+Loridan T, CSB Grimmond, BD Offerle, DT Young, T Smith, L Järvi, F Lindberg 2011: Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments Journal of Applied Meteorology and Climatology 50:185-202 <https://doi.org/10.1175/2010JAMC2474.1>
 
 Lindberg F, CSB Grimmond 2011: The influence of vegetation and building morphology on shadow patterns and mean radiant temperatures in urban areas: Model development and evaluation Theoretical and Applied Climatology 105:311-23 <https://doi.org/10.1007/s00704-010-0382-8
 
@@ -364,7 +364,7 @@ Chen F, H Kusaka, R Bornstein, J Ching, CSB Grimmond, S Grossman-Clarke, T Lorid
 
 Best M, M Pryor, D Clark, G Rooney, R Essery, C Ménard, J Edwards, M Hendry, A Porson, N Gedney, L Mercado, S Sitch, E Blyth, O Boucher, P Cox, C Grimmond, RJHarding 2011: The Joint UK Land Environment Simulator (JULES), Model description Part 1: Energy and water fluxes Geoscientific Model Development 4:677-99 <https://doi.org/10.5194/gmd-4-677-2011
 Allen L, F Lindberg, CSB Grimmond 2011: Global to city scale model for anthropogenic heat flux International Journal of Climatology 31:1990-2005 <https://doi.org/10.1002/joc.2210
-Wood C, Lacser A, Barlow J, Padhra A, Belcher S, Nemitz E, Helfter C, Famulari D, Grimmond C 2010: Turbulent flow at 190 m above London during 2006-2008: a climatology & the applicability of similarity theory Boundary-Layer Meteorology 137:77-96 <https://doi.org/10.1007/s10546-010-9516-x
+Wood C, Lacser A, Barlow J, Padhra A, Belcher S, Nemitz E, Helfter C, Famulari D, Grimmond C 2010: Turbulent flow at 190 m above London during 2006-2008: a climatology & the applicability of similarity theory Boundary-Layer Meteorology 137:77-96 <https://doi.org/10.1007/s10546-010-9516-X>
 
 ### 2010
 
@@ -372,7 +372,7 @@ Loridan T, C Grimmond, S Grossman-Clarke, F Chen, M Tewari, K Manning, A Martill
 
 Lindberg F, CSB Grimmond 2010: Continuous sky view factor from high resolution urban digital elevation models Climate Research 42:177-83  <https://doi.org/10.3354/cr00882
 
-Grossman-Clarke S, J Zehnder, T Loridan, C Grimmond 2010: Contribution of land use changes to near surface air temperatures during recent summer extreme heat events in the Phoenix metropolitan area Journal of Applied Meteorology and Climatology 49:1649-1664 <https://doi.org/10.1175/2010JAMC2362.1
+Grossman-Clarke S, J Zehnder, T Loridan, C Grimmond 2010: Contribution of land use changes to near surface air temperatures during recent summer extreme heat events in the Phoenix metropolitan area Journal of Applied Meteorology and Climatology 49:1649-1664 <https://doi.org/10.1175/2010JAMC2362.1>
 
 Grimmond C, M Roth, T Oke, Y Au, M Best, R Betts, G Carmichael, H Cleugh, W Dabberdt, R Emmanuel, E Freitas, K Fortuniak, S Hanna, P Klein, L Kalkstein, C Liu, A Nickson, D Pearlmutter, D Sailor, J Voogt 2010: Climate & more sustainable cities: Climate information for improved planning & management of cities (producers/capabilities perspective) World Climate Conference – 3: better climate information for a better future, WCC3, Procedia Environmental Sciences 1:247-74 <https://doi.org/10.1016/j.proenv.2010.09.016
 
@@ -388,13 +388,13 @@ Su H, H Schmid, C Grimmond, C Vogel, P Curtis 2008: An assessment of observed ve
 
 Pickett STA, ML Cadenasso, JM Grove, PM Groffman, LE Band, CG Boone, GS Brush, WR Burch Jr, CSB Grimmond, J Hom, JC Jenkins, NL Law, CH Nilon, RV Pouyat K Szlavecz, PS Warren, M.A. Wilson 2008: Beyond urban legends: new, unexpected, or complex results from the Baltimore Ecosystem Study BioSciences 58:139-50  <https://doi.org/10.1641/B580208
 
-Oleson KW, GB Bonan, J Feddema, M Vertenstein, CSB Grimmond 2008: An urban parameterization for a global climate model: 1. Formulation & evaluation Journal of Applied Meteorology and Climatology 47:1038-60  <https://doi.org/10.1175/2007JAMC1597.1
+Oleson KW, GB Bonan, J Feddema, M Vertenstein, CSB Grimmond 2008: An urban parameterization for a global climate model: 1. Formulation & evaluation Journal of Applied Meteorology and Climatology 47:1038-60  <https://doi.org/10.1175/2007JAMC1597.1>
 
 Mitchell VG, HA Cleugh, CSB Grimmond, J Xu 2008: Linking urban water balance & energy balance models to analyse urban design options Hydrological Processes 22:2891-900  <https://doi.org/10.1002/hyp.6868
 
 Pigeon G, A Lemonsu, CSB Grimmond, P Durand, V Masson 2007: Divergence of turbulent fluxes in the surface layer: case of a coastal city Boundary-Layer Meteorology 124:269-90 <https://doi.org/10.1007/s10546-007-9160-2
 
-Pawlak W, K Fortuniak, BD Offerle, CSB Grimmond 2007: Zastosowanie metody korelacyjnej do pomiarów strumieni CO2 I H2O z powierzchni trawiastej (Application of the correlation method to measurements of CO2 & H2O fluxes from the grass surface Przegląd Geofizyczny PL ISSN 0033-2135 <https://ptgeof.pl/wp-content/uploads/2024/01/PG_2007_2.pdf
+Pawlak W, K Fortuniak, BD Offerle, CSB Grimmond 2007: Zastosowanie metody korelacyjnej do pomiarów strumieni CO2 I H2O z powierzchni trawiastej (Application of the correlation method to measurements of CO2 & H2O fluxes from the grass surface Przegląd Geofizyczny PL ISSN 0033-2135 <https://ptgeof.pl/wp-content/uploads/2024/01/PG_2007_2.pdf>
 Offerle B, I Eliasson, CSB Grimmond, B Holmer 2007: Surface heating  in relation to air temperature, wind and turbulence in an urban street canyon Boundary-Layer Meteorology 122:273–92 <https://doi.org/10.1007/s10546-006-9099-8
 
 Newton T, TR Oke, CSB Grimmond, M Roth 2007: The suburban energy balance in Miami, Florida Geografiska Annaler 89A:331-47 <https://doi.org/10.1111/j.1468-0459.2007.00329.x
@@ -407,13 +407,13 @@ Wayson CA, JC Randolph, P Hanson CSB Grimmond, HP Schmid 2006: Comparison of soi
 
 Souch C, CSB Grimmond 2006: Applied climatology: Urban climatology Progress in Physical Geography 30:270-79 <https://doi.org/10.1191/0309133306pp484pr
 
-Roberts SM, TR Oke, CSB Grimmond, J Voogt 2006: Tests of four methods to estimate urban heat storage in central Marseille Journal of Applied Meteorology and Climatology 45:1766-81 <https://doi.org/10.1175/JAM2432.1
+Roberts SM, TR Oke, CSB Grimmond, J Voogt 2006: Tests of four methods to estimate urban heat storage in central Marseille Journal of Applied Meteorology and Climatology 45:1766-81 <https://doi.org/10.1175/JAM2432.1>
 
 Oliphant AJ, CSB Grimmond, HP Schmid, CA Wayson 2006: Local-scale spatial variability of photosynthetically active radiation (PAR), absorbed PAR & net radiation as a function of topography, sky conditions & leaf area index Remote Sensing of the Environment 103: 324-37 <https://doi.org/10.1016/j.rse.2005.09.021
 
-Offerle B, CSB Grimmond, K Fortuniak, W. Pawlak 2006: Intra-urban differences of surface energy fluxes in a central European city Journal of Applied Meteorology and Climatology 45:125–36 <https://doi.org/10.1175/JAM2319.1
+Offerle B, CSB Grimmond, K Fortuniak, W. Pawlak 2006: Intra-urban differences of surface energy fluxes in a central European city Journal of Applied Meteorology and Climatology 45:125–36 <https://doi.org/10.1175/JAM2319.1>
 
-Offerle B, CSB Grimmond, K Fortuniak, K Kłysik, TR Oke 2006: Temporal variations in heat fluxes over a central European city centre Theoretical and Applied Climatology 84:103-16 <https://doi.org/10.1007/s00704-005-0148-x
+Offerle B, CSB Grimmond, K Fortuniak, K Kłysik, TR Oke 2006: Temporal variations in heat fluxes over a central European city centre Theoretical and Applied Climatology 84:103-16 <https://doi.org/10.1007/s00704-005-0148-X>
 
 Lagouarde JP, M Irvine, JM Bonnefond, CSB Grimmond, N Long, T Oke, J Salmond, B Offerle 2006: Monitoring the sensible heat flux over urban areas using large aperture scintillometry: case study of Marseille city during the ESCOMPTE experiment Boundary-Layer Meteorology 118: 449-76 <https://doi.org/10.1007/s10546-005-9001-0
 
@@ -424,11 +424,11 @@ Eliasson I, B Offerle, CSB Grimmond, S Lindqvist 2006: Wind fields & turbulence 
 
 Dabberdt WF, MA Carroll, W Appleby, D Baumgardner, G Carmichael, P Davidson, JC Doran, TG Dye, S Grimmond, P Middleton, W Neff, Y Zhang 2006: Report of the USWRP workshop on air quality forecasting Bulletin of the American Meteorological Society 87:215-21 <https://www.jstor.org/stable/26217145 <https://doi.org/10.1175/BAMS-87-2-215
 Best M, CSB Grimmond, MG Villani 2006: Evaluation of the urban tile in MOSES with flux data Boundary-Layer Meteorology 118:503-25 <https://doi.org/10.1007/s10546-005-9025-5
-Salmond JA, TR Oke, CSB Grimmond, S Roberts, B Offerle 2005: Venting of heat & carbon dioxide from urban canyons at night J Applied Meteorology 44:1180–94 <https://doi.org/10.1175/JAM2260.1
+Salmond JA, TR Oke, CSB Grimmond, S Roberts, B Offerle 2005: Venting of heat & carbon dioxide from urban canyons at night J Applied Meteorology 44:1180–94 <https://doi.org/10.1175/JAM2260.1>
 
 Pawlak W, K Fortuniak, K Kłysik, J Wibig, M Siedlecki, BD Offerle, S Grimmond 2005: Pomiary składników bilansu energetycznego w Łodzi w latach 2000-2004 (Energy balance components measurements in Łódź in the period 2000-2004) Acta Geographica Lodziensia 89:179-94
 
-Offerle B, P Jonsson, I Eliasson, CSB Grimmond 2005: Urban modification of the surface energy balance in the west African Sahel: Ouagadougou, Burkina Faso J Climate 18:3983-95 <https://doi.org/10.1175/JCLI3520.1
+Offerle B, P Jonsson, I Eliasson, CSB Grimmond 2005: Urban modification of the surface energy balance in the west African Sahel: Ouagadougou, Burkina Faso J Climate 18:3983-95 <https://doi.org/10.1175/JCLI3520.1>
 
 Offerle B, CSB Grimmond, K Fortuniak 2005: Heat storage & anthropogenic heat flux in relation to the energy balance of a central European city center International Journal of Climatology 25:1405–19 <https://doi.org/10.1002/joc.1198
 
@@ -442,21 +442,21 @@ Souch C, C Grimmond 2004: Applied climatology: Heat waves Progress in Physical G
 
 Oliphant AJ, CSB Grimmond, HN Zutter, HP Schmid, HB Su, SL Scott, B Offerle, JC Randolph, J Ehman 2004: Heat storage & energy balance fluxes for a temperate deciduous forest Agricultural & Forest Meteorology 126:185-201 <https://doi.org/10.1016/j.agrformet.2004.07.003
 
-Lemonsu A, CSB Grimmond, V Masson 2004: Modelling the surface energy balance of an old Mediterranean city core J Applied Meteorology 43:312-27 <https://doi.org/10.1175/1520-0450(2004)043<0312:MTSEBO>2.0.CO;2
+Lemonsu A, CSB Grimmond, V Masson 2004: Modelling the surface energy balance of an old Mediterranean city core J Applied Meteorology 43:312-27 <https://doi.org/10.1175/1520-0450(2004)043<0312:MTSEBO>2.0.CO;2>
 
 Grimmond CSB, JA Salmond, TR Oke, B Offerle, A Lemonsu 2004: Flux & turbulence measurements at a dense urban site in Marseille: heat, mass (water, carbon dioxide) & momentum J Geophysical Research Atmospheres 109:D24101 <https://doi.org/10.1029/2004JD004936
 
 Dabberdt W, M Carroll, D Baumgardner, G Carmichael, R Cohen, T Dye, J Ellis, G Grell, S Grimmond, S Hanna, J Irwin, B Lamb, S Madronich, J McQueen, J Meagher, T Odman, J Pleim, H Schmid, D Westphal 2004: Meteorological research needs for improved air quality forecasting: Report of the 11th Prospectus Development Team of the U.S. Weather Research Program Bulletin of the American Meteorological Society 85:563-86 <https://doi.org/10.1175/BAMS-85-4-563
 
-Offerle B, C Grimmond, T Oke 2003: Parameterization of net all-wave radiation for urban areas J Applied Meteorology 42:1157-73 <https://doi.org/10.1175/1520-0450(2003)042<1157:PONARF>2.0.CO;2
+Offerle B, C Grimmond, T Oke 2003: Parameterization of net all-wave radiation for urban areas J Applied Meteorology 42:1157-73 <https://doi.org/10.1175/1520-0450(2003)042<1157:PONARF>2.0.CO;2>
 
 Piringer M, CSB Grimmond, S M Joffre, P Mestayer, D R Middleton, M W. Rotach, A Baklanov, K De Ridder, J Ferreira, E Guilloteau, A Karppinen, A Martilli, V Masson, M Tombrou 2002: Investigating the surface energy balance in urban areas – recent advances & future needs. Water, Air & Soil Pollution: Focus 2:1-16 <https://doi.org/10.1023/A:1021302824331
 
-Masson V, CSB Grimmond, TR Oke 2002: Evaluation of the Town Energy Balance (TEB) scheme with direct measurements from dry districts in two cities J Applied Meteorology 41:1011-26 <https://doi.org/10.1175/1520-0450(2002)041<1011:EOTTEB>2.0.CO;2
+Masson V, CSB Grimmond, TR Oke 2002: Evaluation of the Town Energy Balance (TEB) scheme with direct measurements from dry districts in two cities J Applied Meteorology 41:1011-26 <https://doi.org/10.1175/1520-0450(2002)041<1011:EOTTEB>2.0.CO;2>
 
-Grimmond CSB, TS King, FD Cropley, D Nowak, C Souch 2002: Local-scale fluxes of carbon dioxide in urban environments: methodological challenges & results from Chicago Environmental Pollution 116:S243-S254 <https://doi.org/10.1016/S0269-7491(01)00256-1
+Grimmond CSB, TS King, FD Cropley, D Nowak, C Souch 2002: Local-scale fluxes of carbon dioxide in urban environments: methodological challenges & results from Chicago Environmental Pollution 116:S243-S254 <https://doi.org/10.1016/S0269-7491(01)00256-1>
 
-Grimmond CSB, TR Oke 2002: Turbulent heat fluxes in urban areas: Observations & local-scale urban meteorological parameterization scheme (LUMPS) J Applied Meteorology 41:792-810 <https://doi.org/10.1175/1520-0450(2002)041<0792:THFIUA>2.0.CO;2
+Grimmond CSB, TR Oke 2002: Turbulent heat fluxes in urban areas: Observations & local-scale urban meteorological parameterization scheme (LUMPS) J Applied Meteorology 41:792-810 <https://doi.org/10.1175/1520-0450(2002)041<0792:THFIUA>2.0.CO;2>
 
 Ehman J, H Schmid, C Grimmond, J Randolph, P Hanson, C Wayson, F Cropley 2002: An initial intercomparison of micrometeorological & ecological inventory estimates of carbon sequestration in a mid-latitude deciduous forest Global Change Biology 8:575-89  <https://doi.org/10.1046/j.1365-2486.2002.00492.x
 
@@ -474,38 +474,38 @@ Schmid HP, CSB Grimmond, FD Cropley, B Offerle, HB Su 2000: Measurements of CO2 
 
 Grimmond CSB, SM Robeson, JT Schoof 2000: Spatial variability of below-canopy climatic conditions in a ridge-ravine landscape of a Midwestern deciduous forest Climate Research 15:137-49  <https://doi.org/10.3354/cr015137
 
-Oke TR, R Spronken-Smith, E Jauregui, CSB Grimmond 1999: The energy balance of central Mexico City during the dry season Atmospheric Environment  33:3919-30 <https://doi.org/10.1016/S1352-2310(99)00134-X
+Oke TR, R Spronken-Smith, E Jauregui, CSB Grimmond 1999: The energy balance of central Mexico City during the dry season Atmospheric Environment  33:3919-30 <https://doi.org/10.1016/S1352-2310(99)00134-X>
 
-Grimmond C, T Oke 1999: Rates of evaporation in urban areas. Impacts of Urban Growth on Surface & Ground Waters International Association of Hydrological Sciences Publication 259:235-43  <https://iahs.info/uploads/dms/iahs_138_0161.pdf
+Grimmond C, T Oke 1999: Rates of evaporation in urban areas. Impacts of Urban Growth on Surface & Ground Waters International Association of Hydrological Sciences Publication 259:235-43  <https://iahs.info/uploads/dms/iahs_138_0161.pdf>
 
-Grimmond C, T Oke 1999: Heat storage in urban areas: observations & evaluation of a simple model J Applied Meteorology 38:922-40 <https://doi.org/10.1175/1520-0450(1999)038<0922:HSIUAL>2.0.CO;2
+Grimmond C, T Oke 1999: Heat storage in urban areas: observations & evaluation of a simple model J Applied Meteorology 38:922-40 <https://doi.org/10.1175/1520-0450(1999)038<0922:HSIUAL>2.0.CO;2>
 
-Grimmond C, T Oke 1999: Aerodynamic properties of urban areas derived from analysis of surface form J Applied Meteorology 38:1262–92 <https://doi.org/10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2
+Grimmond C, T Oke 1999: Aerodynamic properties of urban areas derived from analysis of surface form J Applied Meteorology 38:1262–92 <https://doi.org/10.1175/1520-0450(1999)038<1262:APOUAD>2.0.CO;2>
 
 Souch C, CSB Grimmond, C Wolfe 1998: Evaporation rates for wetlands with different disturbance histories: Indiana Dunes National Lakeshore Wetlands 18:216-29 <https://doi.org/10.1007/BF03161657
 
 Grimmond CSB, TS King, M Roth, TR Oke 1998: Aerodynamic roughness of urban areas derived from wind observations Boundary-Layer Meteorology 89:1-24 <https://doi.org/10.1023/A:1001525622213
 
-Arnfield AJ, CSB Grimmond 1998: An urban canyon energy budget model & its application to urban storage heat flux modelling. EB 27: 61-68 <https://doi.org/10.1016/S0378-7788(97)00026-1
+Arnfield AJ, CSB Grimmond 1998: An urban canyon energy budget model & its application to urban storage heat flux modelling. EB 27: 61-68 <https://doi.org/10.1016/S0378-7788(97)00026-1>
 McPherson EG, D Nowak, G Heisler, S Grimmond, C Souch, R Grant, R Rowntree 1997: Quantifying urban forest structure, function & value: The Chicago urban forest climate project Urban Ecosystems 1:49-61 <https://doi.org/10.1023/A:1014350822458
 
-Souch C, C Wolfe, C Grimmond 1996: Wetland evaporation & energy partitioning: Indiana Dunes National Lakeshore J Hydrology 184:189-08 <https://doi.org/10.1016/0022-1694(95)02989-3
+Souch C, C Wolfe, C Grimmond 1996: Wetland evaporation & energy partitioning: Indiana Dunes National Lakeshore J Hydrology 184:189-08 <https://doi.org/10.1016/0022-1694(95)02989-3>
 
-Grimmond CSB, C Souch, M Hubble 1996: Influence of tree cover on summertime energy balance fluxes, San Gabriel Valley, Los Angeles Climate Research 6:45-57 <https://doi.org/10.3354/cr006045
+Grimmond CSB, C Souch, M Hubble 1996: Influence of tree cover on summertime energy balance fluxes, San Gabriel Valley, Los Angeles Climate Research 6:45-57 <https://doi.org/10.3354/cr006045>
 
-Grimmond CSB, TR Oke 1995: Comparison of heat fluxes from summertime observations in the suburbs of four North American cities J Applied Meteorology 34:873-89  <https://doi.org/10.1175/1520-0450(1995)034<0873:COHFFS>2.0.CO;2
+Grimmond CSB, TR Oke 1995: Comparison of heat fluxes from summertime observations in the suburbs of four North American cities J Applied Meteorology 34:873-89  <https://doi.org/10.1175/1520-0450(1995)034<0873:COHFFS>2.0.CO;2>
 
 Heisler GM, CSB Grimmond, RH Grant, C Souch 1994: Studying the influence of Chicago's urban forest on wind & air temperature. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA For. Ser. Northeastern Forest Expt Station, General Technical Report NE-186 19-40 
 
-Grimmond CSB, HA Cleugh 1994: A simple method to determine Obukhov lengths for suburban areas J Applied Meteorology 33:435-40 <https://doi.org/10.1175/1520-0450(1994)033<0435:ASMTDO>2.0.CO;2
+Grimmond CSB, HA Cleugh 1994: A simple method to determine Obukhov lengths for suburban areas J Applied Meteorology 33:435-40 <https://doi.org/10.1175/1520-0450(1994)033<0435:ASMTDO>2.0.CO;2>
 
 Grimmond CSB, C Souch, RH Grant, G Heisler 1994: Local scale energy & water exchanges in a Chicago neighborhood. Chicago's Urban Forest Ecosystem: Results of the Chicago Urban Forest Climate Project. EG McPherson, DJ Nowak, RA Rowntree (ed.). USDA Forest Service Northeastern Forest Experiment Station, General Technical NE-186, 41-61. 
 
 Grimmond CSB, C Souch 1994: Surface description for urban climate studies: a GIS based methodology Geocarto International 9: 47-59 <https://doi.org/10.1080/10106049409354439
 
-Grimmond CSB, TR Oke, HA Cleugh 1993: The role of "rural" in comparisons of observed suburban - rural flux differences. Exchange processes at the land surface for a range of space & time scales International Association of Hydrological Sciences Publication 212:165-74 <https://iahs.info/uploads/dms/9279.165-174-212-Grimmond.pdf
+Grimmond CSB, TR Oke, HA Cleugh 1993: The role of "rural" in comparisons of observed suburban - rural flux differences. Exchange processes at the land surface for a range of space & time scales International Association of Hydrological Sciences Publication 212:165-74 <https://iahs.info/uploads/dms/9279.165-174-212-Grimmond.pdf>
 
-Cleugh HA, CSB Grimmond 1993: A comparison between measurements of local-scale 'suburban' & areally-averaged 'urban' heat & water vapour fluxes. Exchange processes at the land surface for a range of space & time scales International Association of Hydrological Sciences Publication 212:155-63 <https://iahs.info/uploads/dms/9278.155-163-212-Cleugh.pdf
+Cleugh HA, CSB Grimmond 1993: A comparison between measurements of local-scale 'suburban' & areally-averaged 'urban' heat & water vapour fluxes. Exchange processes at the land surface for a range of space & time scales International Association of Hydrological Sciences Publication 212:155-63 <https://iahs.info/uploads/dms/9278.155-163-212-Cleugh.pdf>
 
 Grimmond CSB, SA Isard, MJ Belding 1992: Development & evaluation of continuously weighing mini-lysimeters. Agricultural & Forest Meteorology, 62: 205-218. <https://doi.org/10.1016/0168-1923(92)90015-V
 
@@ -525,7 +525,7 @@ Grimmond CSB, TR Oke, DG Steyn 1986: Urban water balance I: A model for daily to
 
 Grimmond CSB, TR Oke 1986: Urban water balance II: Results from a suburb of Vancouver, BC WRR: 22, 1404-1412. <https://doi.org/10.1029/WR022i010p01404
 
-Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand mountain environment. Hydrological Aspects of Alpine & High Mountain Areas, International Association of Hydrological Sciences Publication 138:161-68 <https://iahs.info/uploads/dms/iahs_138_0161.pdf
+Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand mountain environment. Hydrological Aspects of Alpine & High Mountain Areas, International Association of Hydrological Sciences Publication 138:161-68 <https://iahs.info/uploads/dms/iahs_138_0161.pdf>
 
 
 1. [Journal Papers](<https://suegrimmond.github.io/PublicationsSG#journal-papers)
@@ -546,67 +546,67 @@ Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand
 
 WMO 2023: Guidance to measuring, modelling and monitoring the canopy layer urban heat island (CL-UHI). Schlünzen KH, Grimmond S, Baklanov A (eds). WMO-No. 1292. Geneva,  <https://library.wmo.int/idurl/4/58410
 
-Joe P, A Baklanov, S Grimmond, V Bouchet, L Molina, H Schluenzen, G Mills, J Tan, B Golding, V Masson, C Ren, J Voogt, S Miao, H Lean, A Hovespyan, G Terrugi, P Parrish Jens H. Christensen, J Fallmann, R Sokhi, R Spengler, J Yoshitani 2022: Guidance on integrated urban hydro-meteorological, climate and environmental services: challenges and the way forward (ed) C Ren, G McGregor, Urban climate science for planning healthy cities <https://doi.org/10.1007/978-3-030-87598-5, Springer Nature  Ch 14, 311-338. <https://doi.org/10.1007/978-3-030-87598-5_14
+Joe P, A Baklanov, S Grimmond, V Bouchet, L Molina, H Schluenzen, G Mills, J Tan, B Golding, V Masson, C Ren, J Voogt, S Miao, H Lean, A Hovespyan, G Terrugi, P Parrish Jens H. Christensen, J Fallmann, R Sokhi, R Spengler, J Yoshitani 2022: Guidance on integrated urban hydro-meteorological, climate and environmental services: challenges and the way forward (ed) C Ren, G McGregor, Urban climate science for planning healthy cities <https://doi.org/10.1007/978-3-030-87598-5, Springer Nature  Ch 14, 311-338. <https://doi.org/10.1007/978-3-030-87598-5_14>
 
-Joe P, A Baklanov, S Grimmond, V Bouchet, L Molina, H Schluenzen, G Mills, J Tan, B Golding, V Masson, C Ren, J Voogt, S Miao, H Lean, A Hovespyan, G Terrugi, P Parrish Jens H. Christensen, J Fallmann, R Sokhi, R Spengler, J Yoshitani 2022: Guidance on integrated urban hydro-meteorological, climate and environmental services: challenges and the way forward (ed) C Ren, G McGregor, Urban climate science for planning healthy cities <https://doi.org/10.1007/978-3-030-87598-5, Springer Nature  Ch 14, 311-338. <https://doi.org/10.1007/978-3-030-87598-5_14
+Joe P, A Baklanov, S Grimmond, V Bouchet, L Molina, H Schluenzen, G Mills, J Tan, B Golding, V Masson, C Ren, J Voogt, S Miao, H Lean, A Hovespyan, G Terrugi, P Parrish Jens H. Christensen, J Fallmann, R Sokhi, R Spengler, J Yoshitani 2022: Guidance on integrated urban hydro-meteorological, climate and environmental services: challenges and the way forward (ed) C Ren, G McGregor, Urban climate science for planning healthy cities <https://doi.org/10.1007/978-3-030-87598-5, Springer Nature  Ch 14, 311-338. <https://doi.org/10.1007/978-3-030-87598-5_14>
 
 Grimmond CSB 2021: Climate of Cities The Routledge Handbook of Urban Ecology (2nd Ed) Douglas et al., Routledge, Ch.10,  129-141  
 
-Grimmond CSB, Ward HC 2021: Urban Observations  T. Foken (Ed.), Springer Handbook of Atmospheric Measurements, Springer Handbooks, <https://doi.org/10.1007/978-3-030-52171-4_52, 1397-1429
+Grimmond CSB, Ward HC 2021: Urban Observations  T. Foken (Ed.), Springer Handbook of Atmospheric Measurements, Springer Handbooks, <https://doi.org/10.1007/978-3-030-52171-4_52, 1397-1429>
 
-Bloss W, P Brimblecombe, Y Chen, H Coe, S Gani, M Gen, S Grimmond, R Harrison, G McFiggans, L Mihaylova, C Pfrang, Z Shi, J Slater, D Srivastava, P Styring, E Velasco, P Wang,  JZ Yu 2021: General discussion: Urban air quality; Meteorological inﬂuences and air quality trends Faraday Discussions 226: 191-206 <https://doi.org/10.1039/D1FD90014E
+Bloss W, P Brimblecombe, Y Chen, H Coe, S Gani, M Gen, S Grimmond, R Harrison, G McFiggans, L Mihaylova, C Pfrang, Z Shi, J Slater, D Srivastava, P Styring, E Velasco, P Wang,  JZ Yu 2021: General discussion: Urban air quality; Meteorological inﬂuences and air quality trends Faraday Discussions 226: 191-206 <https://doi.org/10.1039/D1FD90014E>
 
-WMO 2021: Guidance on Integrated Urban Hydro meteorological, Climate and Environment Services Volume II: Demonstration Cities. WMO-No. 1234, 153pp  https://library.wmo.int/viewer/56760/
+WMO 2021: Guidance on Integrated Urban Hydro meteorological, Climate and Environment Services Volume II: Demonstration Cities. WMO-No. 1234, 153pp  https://library.wmo.int/viewer/56760/>
 
-Lu S, Emmanuel R, Perera N, Ratnayake R, Grimmond S, Luo Z, Omidvar H, Sun T 2020: Reduction of overheating in Sri Lanka: An action research imperative? Proceedings of the 36th Annual Association of Researchers in Construction Management Conference, 243-252 http://www.arcom.ac.uk/-docs/archive/2020-Working-Papers.pdf
+Lu S, Emmanuel R, Perera N, Ratnayake R, Grimmond S, Luo Z, Omidvar H, Sun T 2020: Reduction of overheating in Sri Lanka: An action research imperative? Proceedings of the 36th Annual Association of Researchers in Construction Management Conference, 243-252 <http://www.arcom.ac.uk/-docs/archive/2020-Working-Papers.pdf>
 
 Grimmond S 2019: Microclimates, (editor) JD Haigh in 30-second Climate, Ivy Press, London 76-77
 
 Grimmond S 2019: Urban climate, (editor) JD Haigh in 30-second Climate, Ivy Press, London 78-79
 
-WMO 2019: Guidance on integrated urban hydrometeorological, climate and environmental services Vol I: Concept and Methodology, WMO-No. 1234 <https://library.wmo.int/index.php?lvl=notice_display&id=21512#.XlFbwmj7SHs
+WMO 2019: Guidance on integrated urban hydrometeorological, climate and environmental services Vol I: Concept and Methodology, WMO-No. 1234 <https://library.wmo.int/index.php?lvl=notice_display&id=21512#.XlFbwmj7SHs>
 
-Batchvarova E, SE Gryning, CSB Grimmond, M Kelly, A Rutgersson, T Vihma, A Baklanov, RS Sokhi 2018: Representation of surface processes in mesoscale models (eds) Sokhi, Baklanov, Schlünzen Mesoscale Modelling for Meteorological and Air Pollution Applications, Anthem Press. http://www.anthempress.com/mesoscale-modelling-for-meteorological-and-air-pollution-applications
+Batchvarova E, SE Gryning, CSB Grimmond, M Kelly, A Rutgersson, T Vihma, A Baklanov, RS Sokhi 2018: Representation of surface processes in mesoscale models (eds) Sokhi, Baklanov, Schlünzen Mesoscale Modelling for Meteorological and Air Pollution Applications, Anthem Press. <http://www.anthempress.com/mesoscale-modelling-for-meteorological-and-air-pollution-applications>
 
-Grimmond C, Ward H, Kotthaus S 2016: How is urbanisation altering local and regional climate? The Routledge Handbook of Urbanization and Global Environmental Change (ed) KC Seto & W Solecki, CA Griffith, 582pp <https://www.routledge.com/products/9780415732260
+Grimmond C, Ward H, Kotthaus S 2016: How is urbanisation altering local and regional climate? The Routledge Handbook of Urbanization and Global Environmental Change (ed) KC Seto & W Solecki, CA Griffith, 582pp <https://www.routledge.com/products/9780415732260>
 
-Chrysoulakis N, Grimmond CSB 2016: Understanding and reducing the anthropogenic heat emission. Urban climate mitigation techniques (ed) M Santamouris, D Kolokots, Ch 2:27-39 <https://www.routledge.com/products/9780415712132
+Chrysoulakis N, Grimmond CSB 2016: Understanding and reducing the anthropogenic heat emission. Urban climate mitigation techniques (ed) M Santamouris, D Kolokots, Ch 2:27-39 <https://www.routledge.com/products/9780415712132>
 
-Magliulo V, P Toscano, CSB Grimmond, S Kotthaus, L Järvi, H Setälä, F Lindberg, R Vogt, T Staszewski, A Bubak, A Synnefa, M Santamouris 2015: Environmental measurements in BRIDGE case studies (Ch 5) Understanding Urban Metabolism (ed) N Chrysoulakis, E Castro, E Moors, Routledge, 45-57 http://www.routledge.com/book
+Magliulo V, P Toscano, CSB Grimmond, S Kotthaus, L Järvi, H Setälä, F Lindberg, R Vogt, T Staszewski, A Bubak, A Synnefa, M Santamouris 2015: Environmental measurements in BRIDGE case studies (Ch 5) Understanding Urban Metabolism (ed) N Chrysoulakis, E Castro, E Moors, Routledge, 45-57 <http://www.routledge.com/book>
 
-Grimmond CSB, L Järvi, F Lindberg, S Marras, M Falk, T Loridan, G Pigeon, DR Pyles, D Spano 2015: Urban energy budget models (Ch 9) Understanding Urban Metabolism ed N Chrysoulakis, E Castro, E Moors, Routledge, 91-105 http://www.routledge.com/books/details/9780415835114/
+Grimmond CSB, L Järvi, F Lindberg, S Marras, M Falk, T Loridan, G Pigeon, DR Pyles, D Spano 2015: Urban energy budget models (Ch 9) Understanding Urban Metabolism ed N Chrysoulakis, E Castro, E Moors, Routledge, 91-105 <http://www.routledge.com/books/details/9780415835114/>
 
-Lietzke B, R Vogt, DT Young, CSB Grimmond 2015: Physical fluxes in urban environment (Ch 4). Understanding Urban Metabolism (ed) N Chrysoulakis, E Castro, E Moors, Routledge, 29-44, http://www.routledge.com/books/details/9780415835114/
+Lietzke B, R Vogt, DT Young, CSB Grimmond 2015: Physical fluxes in urban environment (Ch 4). Understanding Urban Metabolism (ed) N Chrysoulakis, E Castro, E Moors, Routledge, 29-44, <http://www.routledge.com/books/details/9780415835114/>
 
-Tallis MJ, Amorim JH, Calfapietra C, Freer-Smith PH, Grimmond CSB, Kotthaus S, Lemes de Oliveira F, Miranda AI, Toscano P 2015: The impacts of green infrastructure on air quality and temperature Handbook on Green Infrastructure: Planning, design and implementation (ed) D Sinnett, N Smith, S Burgess, Ch 2, 30-49,http://www.e-elgar.com/shop/andbook-on-green-infrastructure
+Tallis MJ, Amorim JH, Calfapietra C, Freer-Smith PH, Grimmond CSB, Kotthaus S, Lemes de Oliveira F, Miranda AI, Toscano P 2015: The impacts of green infrastructure on air quality and temperature Handbook on Green Infrastructure: Planning, design and implementation (ed) D Sinnett, N Smith, S Burgess, Ch 2, 30-49,<http://www.e-elgar.com/shop/andbook-on-green-infrastructure>
 
-Moors E, C Grimmond, A Veldhuizen, L Järvi, F van der Bolt 2015: Urban water balance and hydrology models (Ch 10) Understanding Urban Metabolism ed N Chrysoulakis, E Castro, E Moors, Routledge, 106-116 http://www.routledge.com/books/details/9780415835114/
+Moors E, C Grimmond, A Veldhuizen, L Järvi, F van der Bolt 2015: Urban water balance and hydrology models (Ch 10) Understanding Urban Metabolism ed N Chrysoulakis, E Castro, E Moors, Routledge, 106-116 <http://www.routledge.com/books/details/9780415835114/>
 
-Grimmond C, G Carmichael, H Lean, A Baklanov, S Leroyer, V Masson, K Schluenzen, B Golding 2015: Urban-scale environmental prediction systems. Seamless Prediction of the Earth-System: from minutes to months (ed. Brunet G, Jones S. Ruti P) (Chap 18) WMO- No 1156, 347-370https://library.wmo.int/records/item/54696-seamless-prediction-of-the-earth-system
+Grimmond C, G Carmichael, H Lean, A Baklanov, S Leroyer, V Masson, K Schluenzen, B Golding 2015: Urban-scale environmental prediction systems. Seamless Prediction of the Earth-System: from minutes to months (ed. Brunet G, Jones S. Ruti P) (Chap 18) WMO- No 1156, 347-370 <https://library.wmo.int/records/item/54696-seamless-prediction-of-the-earth-system>
 
 Grimmond CSB, A Baklanov, M Best, R Betts, J Feddema, P Falloon, G Folberth, R Frances, T Holt, T Jackson, E Larson, M Lawrence, M McCarthy, T Meir, N Mirumachi, K Oleson, J Pullen 2013: Coastal megacities: Contributions to environmental changes at regional and global scales, Megacities and the Coast: Risk, Resilience and Transformation (ed, Pelling M, Blackburn S), 100-129 (+ colour plates 4.6- 4.15), Earthscan from Routledge
 
-Grimmond S 2012: Overview of urban meteorology, Urban Meteorology: Forecasting, Monitoring, and Meeting Users' Needs, Board on Atmospheric Sciences and Climate, National Academy of Sciences, NRC, 129-137 http://www.nap.edu/openbook.php?record_id=13328
+Grimmond S 2012: Overview of urban meteorology, Urban Meteorology: Forecasting, Monitoring, and Meeting Users' Needs, Board on Atmospheric Sciences and Climate, National Academy of Sciences, NRC, 129-137 <http://www.nap.edu/openbook.php?record_id=13328>
 
-Cleugh HA, S Grimmond 2012: Urban climates and global climate change. Henderson–Sellers A, Mc Guffie K (ed) The Future of the World’s Climate. Elsevier Ch 3, 47-76 + references, (Book awarded The Atmospheric Science Librarians International (ASLI) Choice Award 2012- Presented January 2013 AMS annual meeting) <https://doi.org/10.1016/B978-0-12-386917-3.00003-8
+Cleugh HA, S Grimmond 2012: Urban climates and global climate change. Henderson–Sellers A, Mc Guffie K (ed) The Future of the World’s Climate. Elsevier Ch 3, 47-76 + references, (Book awarded The Atmospheric Science Librarians International (ASLI) Choice Award 2012- Presented January 2013 AMS annual meeting) <https://doi.org/10.1016/B978-0-12-386917-3.00003-8>
 
-Grimmond S 2012: Urban impacts on climate The Global Climate System: Patterns, Processes, and Teleconnections HA Bridgeman & JE Oliver Cambridge University Press,  Chapter 7,  205 - 243  <https://doi.org/10.1017/CBO9780511817984.008 
+Grimmond S 2012: Urban impacts on climate The Global Climate System: Patterns, Processes, and Teleconnections HA Bridgeman & JE Oliver Cambridge University Press,  Chapter 7,  205 - 243  <https://doi.org/10.1017/CBO9780511817984.008>
 
-Grimmond CSB 2010: The Climate in Cities. The Routledge Handbook of Urban Ecology. ed I Douglas, D Goode, M Houck, W Rusong, Routledge, London, Ch 10, 103-119  http://dx.doi.org/10.4324/9780203839263.ch10
+Grimmond CSB 2010: The Climate in Cities. The Routledge Handbook of Urban Ecology. ed I Douglas, D Goode, M Houck, W Rusong, Routledge, London, Ch 10, 103-119  <http://dx.doi.org/10.4324/9780203839263.ch10>
 
-Baklanov A, J Ching, CSB Grimmond, A Martilli 2009: Model urbanization strategies: Summaries, recommendations & requirements Urbanization of Meteorological & Air Quality Models, (eds) Baklanov A, S Grimmond, A Mahura M Athanassiadou Springer-Verlag, ISBN: 978-3-642-00297-7, 151-162 <https://doi.org/10.1007/978-3-642-00298-4_15
+Baklanov A, J Ching, CSB Grimmond, A Martilli 2009: Model urbanization strategies: Summaries, recommendations & requirements Urbanization of Meteorological & Air Quality Models, (eds) Baklanov A, S Grimmond, A Mahura M Athanassiadou Springer-Verlag, ISBN: 978-3-642-00297-7, 151-162 <https://doi.org/10.1007/978-3-642-00298-4_15>
 
-Grimmond CSB, M Best, J Barlow, AJ Arnfield J-J Baik, S Belcher, M Bruse, I Calmet, F Chen, P Clark, A Dandou, E Erell, K Fortuniak, R Hamdi, M Kanda, T Kawai, H Kondo, S Krayenhoff, SH Lee, S-B Limor, A Martilli, V Masson, S Miao, G Mills, R Moriwaki, K Oleson, A Porson, U Sievers, M Tombrou, J Voogt, T Williamson 2009: Urban surface energy balance models: model characteristics & methodology for a comparison study Urbanization of Meteorological & Air Quality Models, (eds) Baklanov A, CSB Grimmond, A Mahura, M Athanassiadou Springer-Verlag, ISBN: 978-3-642-00297-7, 97-123. <https://doi.org/10.1007/978-3-642-00298-4_11
+Grimmond CSB, M Best, J Barlow, AJ Arnfield J-J Baik, S Belcher, M Bruse, I Calmet, F Chen, P Clark, A Dandou, E Erell, K Fortuniak, R Hamdi, M Kanda, T Kawai, H Kondo, S Krayenhoff, SH Lee, S-B Limor, A Martilli, V Masson, S Miao, G Mills, R Moriwaki, K Oleson, A Porson, U Sievers, M Tombrou, J Voogt, T Williamson 2009: Urban surface energy balance models: model characteristics & methodology for a comparison study Urbanization of Meteorological & Air Quality Models, (eds) Baklanov A, CSB Grimmond, A Mahura, M Athanassiadou Springer-Verlag, ISBN: 978-3-642-00297-7, 97-123. <https://doi.org/10.1007/978-3-642-00298-4_11>
 
-Grimmond S 2006: Urban impacts on climate. H Bridgman, J Oliver (ed) The Global Climate System: Patterns, Processes, and Teleconnections, 205-243. Cambridge University Press.  <https://doi.org/10.1017/CBO9780511817984.008
+Grimmond S 2006: Urban impacts on climate. H Bridgman, J Oliver (ed) The Global Climate System: Patterns, Processes, and Teleconnections, 205-243. Cambridge University Press.  <https://doi.org/10.1017/CBO9780511817984.008>
 
 Band LE, M Cadenasso, CSB Grimmond, M Grove, ST Pickett 2005: Heterogeneity in urban ecosystems: Patterns & process, Ecosystem function in heterogeneous landscapes (ed) Lovett GM, CG Jones, MG Turner, Springer-Verlag, NY, 257-78. 
 
-Grimmond CSB 2004: Understanding urban climates. DG Janelle, B Warf, K Hansen ed. WorldMinds: Geographical Perspectives on 100 Problems. Dordrecht, The Netherlands: Kluwer Academic Publishers, 481-486.  <https://doi.org/10.1007/978-1-4020-2352-1_78
+Grimmond CSB 2004: Understanding urban climates. DG Janelle, B Warf, K Hansen ed. WorldMinds: Geographical Perspectives on 100 Problems. Dordrecht, The Netherlands: Kluwer Academic Publishers, 481-486.  <https://doi.org/10.1007/978-1-4020-2352-1_78>
 
-Oke TR, CSB Grimmond 2002: Urban-rural energy balance differences.  COST 715 Surface Energy Balance in Urban Areas. Proc COST-715 Expert Meeting, Antwerp, Belgium, 12 April 2000. European Commission, Report EUR 19447, 52-65. <https://op.europa.eu/en/publication-details/-/publication/a2c6c16e-dba1-47f2-8a32-f98c1b3f6722/language-en/format-PDFA1B
+Oke TR, CSB Grimmond 2002: Urban-rural energy balance differences.  COST 715 Surface Energy Balance in Urban Areas. Proc COST-715 Expert Meeting, Antwerp, Belgium, 12 April 2000. European Commission, Report EUR 19447, 52-65. <https://op.europa.eu/en/publication-details/-/publication/a2c6c16e-dba1-47f2-8a32-f98c1b3f6722/language-en/format-PDFA1B>
 
-Grimmond CSB, TR Oke 2002: Heat fluxes & stability in cities. COST-715 Surface Energy Balance in Urban Areas.  European Commission, Report EUR 19447, 16-30. <https://op.europa.eu/en/publication-detail/-/publication/a2c6c16e-dba1-47f2-8a32-f98c1b3f6722/language-en/format-PDFA1B
+Grimmond CSB, TR Oke 2002: Heat fluxes & stability in cities. COST-715 Surface Energy Balance in Urban Areas.  European Commission, Report EUR 19447, 16-30. <https://op.europa.eu/en/publication-detail/-/publication/a2c6c16e-dba1-47f2-8a32-f98c1b3f6722/language-en/format-PDFA1B>
 
 Grimmond CSB, C Souch 2001: Evapotranspiration in urban areas. McGraw-Hill Yearbook of Science & Technology 2002, 167-169
 
@@ -631,33 +631,31 @@ Hubble MD, CSB Grimmond 1995: Urban heat storage. McGraw-Hill Yearbook of Scienc
     1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000-1)
     1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990-1)
 
-
 ## Unrefereed /Partially Refereed
 
-Lantzanakis G, D Tsirantonakis, N Chrysoulakis, S Grimmond, A Christen J Birkmann 2023: Initial development of the urbisphere urban hyperspectral library: Berlin, Germany  2023 JURSE <https://doi.org/10.1109/jurse57346.2023.10144154
+Lantzanakis G, D Tsirantonakis, N Chrysoulakis, S Grimmond, A Christen J Birkmann 2023: Initial development of the urbisphere urban hyperspectral library: Berlin, Germany  2023 JURSE <https://doi.org/10.1109/jurse57346.2023.10144154>
 
-Shi ZB, 徐婧莎, R Harrison, W Bloss, J Allan, B Barratt, H Coe, R Doherty, 傅平青, S Grimmond, 关大博, 郭新彪, J Hamilton, 贺克斌, D Heard, N Hewitt, R Jones, M Kalberer, F Kelly, J Lee, A Lewis, 李杰, M Loh, M Miller, P Monks, E Nemitz, P Palmer, C Reeves, 邵龙义, 孙志伟, 陶澍, 佟胜睿, L Whalley, 王新明, 王学军, O Wild, 吴志军, 谢品华, 张强, 郑玫, 朱彤, 2021: 中国超大城市空气 污染和人体健康 APHH-Beijing) 中英联合研究计划: 最终报告. <https://doi.org/10.25500/epapers.bham.00003381
-
+Shi ZB, 徐婧莎, R Harrison, W Bloss, J Allan, B Barratt, H Coe, R Doherty, 傅平青, S Grimmond, 关大博, 郭新彪, J Hamilton, 贺克斌, D Heard, N Hewitt, R Jones, M Kalberer, F Kelly, J Lee, A Lewis, 李杰, M Loh, M Miller, P Monks, E Nemitz, P Palmer, C Reeves, 邵龙义, 孙志伟, 陶澍, 佟胜睿, L Whalley, 王新明, 王学军, O Wild, 吴志军, 谢品华, 张强, 郑玫, 朱彤, 2021: 中国超大城市空气 污染和人体健康 APHH-Beijing) 中英联合研究计划: 最终报告. <https://doi.org/10.25500/epapers.bham.00003381>
 
 ### 2020
 
-Lipson M, S Grimmond, M Best 2020: Calling for participants: A new multi-site evaluation project for modelling in urban areas. UCN 75: 15-16. http://www.urban-climate.org/wp-content/uploads/IAUC075.pdf 
+Lipson M, S Grimmond, M Best 2020: Calling for participants: A new multi-site evaluation project for modelling in urban areas. UCN 75: 15-16. <http://www.urban-climate.org/wp-content/uploads/IAUC075.pdf> 
 
-Kent CW, C Grimmond, D Gatey, JF Barlow, S Kotthaus, F Lindberg, C Halios, K Lee, HC Ward, JW Hong, J Hong, K Hirano 2018: Urban aerodynamic roughness and wind-speed estimation UCN 67: 13-18 http://urban-climate.org/newsletters/IAUC067.pdf
+Kent CW, C Grimmond, D Gatey, JF Barlow, S Kotthaus, F Lindberg, C Halios, K Lee, HC Ward, JW Hong, J Hong, K Hirano 2018: Urban aerodynamic roughness and wind-speed estimation UCN 67: 13-18 <http://urban-climate.org/newsletters/IAUC067.pdf>
 
 Feigenwinter C, N Chrysoulakis, Z Mitraka, Parlow E, R Vogt, CSB Grimmond, M Marconcini, F Del Frate, F Lindberg, JP Gastellu-Etchegorry 2017: Spatial distribution of sensible and latent heat flux in the URBANFLUXES case study cities London (UK) and Basel (Switzerland) based on a combined method using micrometeorological approaches, Earth observation (EO) data and GIS-techniques JURSE, Dubai, UAE
 
-Lindberg F, S Grimmond, NE Theeuwes, A Gabey, Bei Huang, CW Kent, T Sun 2017: Urban multi-scale environmental predictor − An extensive tool for climate services in urban areas UCN 66: 13-20 http://urban-climate.org/newsletters/IAUC066.pdf
+Lindberg F, S Grimmond, NE Theeuwes, A Gabey, Bei Huang, CW Kent, T Sun 2017: Urban multi-scale environmental predictor − An extensive tool for climate services in urban areas UCN 66: 13-20 <http://urban-climate.org/newsletters/IAUC066.pdf>
 
 Mitraka Z, C Feigenwinter, N Chrysoulakis, E Parlow, S Grimmond, F Lindberg, A Wicki, M Marconcini 2017: Towards discriminating between zones with different thermal behaviour in cities JURSE, Dubai, UAE
 
 Chrysoulakis N, M Marconcini, JP Gastellu-Etchegorry, S Grimmond, C Feigenwinter, F Lindberg, F Del Frate, J Klostermann, Z Mitraka, T Esch, L Landier, A Gabey, E Parlow, F Olofson Anthropogenic heat flux Estimation from Space: Results of the second phase of the URBANFLUXES JURSE, Dubai, UAE
 
-Mitraka Z, Christian Feigenwinter, N Chrysoulakis, E Parlow, S Grimmond, F Lindberg, Andreas Wicki, Mattia Marconcini 2017: Towards discriminating between zones with different thermal behaviour in cities.  JURSE, Dubai, UAE.  <https://doi.org/10.1109/JURSE.2017.7924593
+Mitraka Z, Christian Feigenwinter, N Chrysoulakis, E Parlow, S Grimmond, F Lindberg, Andreas Wicki, Mattia Marconcini 2017: Towards discriminating between zones with different thermal behaviour in cities.  JURSE, Dubai, UAE.  <https://doi.org/10.1109/JURSE.2017.7924593>
 
-Yin T, Kotthaus S, Gastellu-Etchegorry JP, Morrison W, Norford LK, Grimmond S, Lauret N, Chrysoulakis N, Bitar AA, Landier L 2017: Atmospheric correction of ground-based thermal infrared camera through DART model. Proceedings of IEEE IGARSS 5885-5888. <https://doi.org/10.1109/IGARSS.2017.8128348
+Yin T, Kotthaus S, Gastellu-Etchegorry JP, Morrison W, Norford LK, Grimmond S, Lauret N, Chrysoulakis N, Bitar AA, Landier L 2017: Atmospheric correction of ground-based thermal infrared camera through DART model. Proceedings of IEEE IGARSS 5885-5888. <https://doi.org/10.1109/IGARSS.2017.8128348>
 
-Chrysoulakis N, Marconcini M, Gastellu-Etchegorry J, Grimmond C, Feigenwinter C, Lindberg F, Del Frate F, Klostermann J, Mitraka Z, Esch T, Landier L, Gabey A, Parlow E, Olofson F 2017: Anthropogenic heat flux estimation from space: Results of the second phase of the URBANFLUXES Project. JURSE 2017, Dubai, UAE   <https://doi.org/10.1109/10.1109/JURSE.2017.7924591
+Chrysoulakis N, Marconcini M, Gastellu-Etchegorry J, Grimmond C, Feigenwinter C, Lindberg F, Del Frate F, Klostermann J, Mitraka Z, Esch T, Landier L, Gabey A, Parlow E, Olofson F 2017: Anthropogenic heat flux estimation from space: Results of the second phase of the URBANFLUXES Project. JURSE 2017, Dubai, UAE   <https://doi.org/10.1109/10.1109/JURSE.2017.7924591>
 
 Grimmond CSB, Crawford B, B Forsberg, D Oudin, C Åström, J Olsson, D Segersson, L Strömbäck 2016: Urban SIS D4.3 Indicators for urban assessments, C3S_441 Lot3 Urban SIS, ECMWF Copernicus Climate Change Service (C3S), 50pp
 
@@ -668,26 +666,26 @@ Grimmond CSB, S Kotthaus, T Sun, HC Ward, S Norbert, Z Zaidi, J Sharpe, M Pellin
 
 Grimmond, Ward HC, Tan, J, Fu XS, Ao XY 2015: Workpackage 5.2: Climate services: Research for sector based climate services Urban Environments. Final Report (Year 1). Newton Fund/Met Office. 88 pp.
 
-Grimmond S, Tang XU, A Baklanov 2014: Towards Integrated Urban Weather, Environment and Climate Services. WMO Bulletin, 63, 1, 10-14 <https://googledrive.com/host/0BwdvoC9AeWjUazhkNTdXRXUzOEU/bulletin_63-1_en.pdf http://library.wmo.int/opac/index.php?lvl=notice_display&id=15965
+Grimmond S, Tang XU, A Baklanov 2014: Towards Integrated Urban Weather, Environment and Climate Services. WMO Bulletin, 63, 1, 10-14 <https://googledrive.com/host/0BwdvoC9AeWjUazhkNTdXRXUzOEU/bulletin_63-1_en.pdf> <http://library.wmo.int/opac/index.php?lvl=notice_display&id=15965
 
-Christen A, T Oke, S Grimmond, D Steyn and M Roth 2013: 35 years of urban climate research at the ‘Vancouver-Sunset’ flux tower FluxLetter, 5(2),29-39, http://fluxnet.ornl.gov/sites/default/files/FluxLetter%20Vol5%20no2b.pdf
+Christen A, T Oke, S Grimmond, D Steyn and M Roth 2013: 35 years of urban climate research at the ‘Vancouver-Sunset’ flux tower FluxLetter, 5(2),29-39, <http://fluxnet.ornl.gov/sites/default/files/FluxLetter%20Vol5%20no2b.pdf>
 
 Grimmond CSB 2013: Observing London: Weather data needed for London to thrive, London Climate Change Partnership, <https://climatelondon.org.uk/publications/observing-london/ 82pp, LCCP, Lloyds, Met Office
 
-Dabberdt WF, A Baklanov, GR Carmichael, V Chandrasekar, CSB Grimmond, P Nurmi, K Petty, V Wulfmeyer 2013: WMO GURME Workshop on Urban Meteorological Observation Design WMO GAW Report No. 208 http://www.wmo.int/pages/prog/arep/gaw/documents/GAW_208_web.pdf (meeting 2011)
+Dabberdt WF, A Baklanov, GR Carmichael, V Chandrasekar, CSB Grimmond, P Nurmi, K Petty, V Wulfmeyer 2013: WMO GURME Workshop on Urban Meteorological Observation Design WMO GAW Report No. 208 <http://www.wmo.int/pages/prog/arep/gaw/documents/GAW_208_web.pdf> (meeting 2011)
 
-Grimmond S, G Beig, B Brown, G Carmichael, C Baode, F Zheqing, G Fleming, A Garcia, L Jalkanen, H Kootval, L Hong, K Longo, M Haizen, P Li, J Shi, JG Tan, Xu Tang, D Terblanche, WC Woo, J Zhang 2014: Establishing integrated weather, climate, water and related environmental services for megacities and large urban complexes – Initial Guidance, Developed by the WMO Expert Workshop held on 20-21 August 2013, Shanghai, China http://gfcs.wmo.int/sites/default/files/events/Expert%20Workshop//WMO_Megacity_IMP_Plan.pdf
+Grimmond S, G Beig, B Brown, G Carmichael, C Baode, F Zheqing, G Fleming, A Garcia, L Jalkanen, H Kootval, L Hong, K Longo, M Haizen, P Li, J Shi, JG Tan, Xu Tang, D Terblanche, WC Woo, J Zhang 2014: Establishing integrated weather, climate, water and related environmental services for megacities and large urban complexes – Initial Guidance, Developed by the WMO Expert Workshop held on 20-21 August 2013, Shanghai, China <http://gfcs.wmo.int/sites/default/files/events/Expert%20Workshop//WMO_Megacity_IMP_Plan.pdf>
 
 Kotthaus S, S Grimmond 2012: Flux observations in London − Energy, water and carbon dioxide exchange in a dense European city centre IAUC newsletter, 45, 26-30 (student award)
-Lindberg F, L Allen, S Kotthaus, CSB Grimmond 2012: Global Model of Anthropogenic Heat Flux, IAUC newsletter, 44, 9-13  http://urban-climate.com/wp3/wp-content/uploads/2012/07/IAUC044.pdf
+Lindberg F, L Allen, S Kotthaus, CSB Grimmond 2012: Global Model of Anthropogenic Heat Flux, IAUC newsletter, 44, 9-13  http://urban-climate.com/wp3/wp-content/uploads/2012/07/IAUC044.pdf>
 
-Grimmond S, Christen A (5/2012) Flux measurements in urban ecosystems, FluxLetter, 5 (1) 1-8. 32-35 http://fluxnet.ornl.gov/sites/default/files/FluxLetter_Vol5_no1.pdf
+Grimmond S, Christen A (5/2012) Flux measurements in urban ecosystems, FluxLetter, 5 (1) 1-8. 32-35 <http://fluxnet.ornl.gov/sites/default/files/FluxLetter_Vol5_no1.pdf>
 
-Kotthaus S, HC Ward, S Grimmond, JG Evans 2011: Flux measurements in southern England by KCL and CEH FluxLetter, 5(1) 25-31 http://fluxnet.ornl.gov/sites/default/files/FluxLetter_Vol5_no1.pdf
+Kotthaus S, HC Ward, S Grimmond, JG Evans 2011: Flux measurements in southern England by KCL and CEH FluxLetter, 5(1) 25-31 <http://fluxnet.ornl.gov/sites/default/files/FluxLetter_Vol5_no1.pdf>
 
-Grimmond S 2011: London’s urban climate: historical and contemporary perspectives. City Weathers: meteorology and urban design 1950-2010, (eds) M Hebbert, V Jankovic, B Webb Manchester Architecture Research Centre, University of Manchester, http://www.sed.manchester.ac.uk/architecture/research/csud/workshop/2011CityWeat
+Grimmond S 2011: London’s urban climate: historical and contemporary perspectives. City Weathers: meteorology and urban design 1950-2010, (eds) M Hebbert, V Jankovic, B Webb Manchester Architecture Research Centre, University of Manchester, <http://www.sed.manchester.ac.uk/architecture/research/csud/workshop/2011CityWeat
 
-Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Global to city scale urban anthropogenic heat flux: Model & variability. Deliverable 1.4, MEGAPOLI Scientific Report 10-01, MEGAPOLI-04-REP-2010-03, 87p, ISBN: 978-87-992924-4-8; http://megapoli.dmi.dk/publ/MEGAPOLI_sr10-01.pdf
+Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Global to city scale urban anthropogenic heat flux: Model & variability. Deliverable 1.4, MEGAPOLI Scientific Report 10-01, MEGAPOLI-04-REP-2010-03, 87p, ISBN: 978-87-992924-4-8; <http://megapoli.dmi.dk/publ/MEGAPOLI_sr10-01.pdf>
 
 
 
@@ -695,23 +693,23 @@ Allen L, S Beevers, F Lindberg, M Iamarino, N Kitiwiroon, CSB Grimmond 2010: Glo
 
 Erell E, Eliassion I, S Grimmond, B Offerle, T Williamson  2010 The effect of stability on estimated variations of advected moisture in the Canyon Air Temperature (CAT) model  AMS 9th Symposium on the Urban Environment,  J4C.4
 
-Brazel A, P Gober, S Grossman Clarke, S Myint, R Quay, AQ Miller, S Rossi S Grimmond 2009: Mitigating urban heat island effects with water- & energy-sensitive urban designs, (J7.3) http://ams.confex.com/ams/pdfpapers/145231.pdf AMS 89th Annual Meeting/ 8th Symp. on the Urban Environment, Phoenix
+Brazel A, P Gober, S Grossman Clarke, S Myint, R Quay, AQ Miller, S Rossi S Grimmond 2009: Mitigating urban heat island effects with water- & energy-sensitive urban designs, (J7.3) <http://ams.confex.com/ams/pdfpapers/145231.pdf> AMS 89th Annual Meeting/ 8th Symp. on the Urban Environment, Phoenix
 
-Christen A, N Coops, B Crawford, N Goodwin, C Grimmond, T Oke, J Voogt 2009:The EPiCC Vancouver Experiment - how do urban vegetation characteristics & garden irrigation control the local-scale energy balance? http://ams.confex.com/ams/pdfpapers/147347.pdf
+Christen A, N Coops, B Crawford, N Goodwin, C Grimmond, T Oke, J Voogt 2009:The EPiCC Vancouver Experiment - how do urban vegetation characteristics & garden irrigation control the local-scale energy balance? <http://ams.confex.com/ams/pdfpapers/147347.pdf>
 
 Chrysoulakis N, R Vogt, D Young, CSB Grimmond, D Spano, S Marras 2009: ICT for Urban Metabolism: The case of BRIDGE. In: Wohlgemuth, V. Page, B. & Voigt, K. (Eds): Proceedings of EnviroInfo2009: Environmental Informatics & Industrial Environmental Protection: Concepts, Methods & Tools. Hochschule für Technik und Wirtschaft Berlin, Vol. 2, 183– 193.
 
-Crawford B, A Christen, TR Oke, JA Voogt, S Grimmond 2009: Observations of carbon dioxide fluxes in two suburban neighborhoods in Vancouver, Canada (J13.1) http://ams.confex.com/ams/pdfpapers/146715.pdf  AMS 89th Annual Meeting/ 8th Symp. on the Urban Environment, Phoenix
+Crawford B, A Christen, TR Oke, JA Voogt, S Grimmond 2009: Observations of carbon dioxide fluxes in two suburban neighborhoods in Vancouver, Canada (J13.1) <http://ams.confex.com/ams/pdfpapers/146715.pdf>  AMS 89th Annual Meeting/ 8th Symp. on the Urban Environment, Phoenix
 
-Erell E, I Eliasson, S Grimmond, B Offerle, T Williamson 2009: Incorporating spatial & temporal variations of advected moisture in the canyon air temperature (CAT) model (A11-8) ICUC7 Yokohama, Japan http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/375787-2-090515062859-003.pdf
+Erell E, I Eliasson, S Grimmond, B Offerle, T Williamson 2009: Incorporating spatial & temporal variations of advected moisture in the canyon air temperature (CAT) model (A11-8) ICUC7 Yokohama, Japan <http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/375787-2-090515062859-003.pdf>
 
 Fortuniak K, CSB Grimmond, B Offerle, W Pawlak, M Siedlecki 2009: Singularities of turbulent urban heat fluxes in Łódź. Proc. 4th Polish Urban Climate & Bioclimate conference.
 
-Grimmond CSB, M Blackett, M Best, JJ Baik, S Belcher, SI Bohnenstengel, I Calmet, F Chen, A Dandou, K Fortuniak, M Gouvea, R Hamdi, M Hendry, H Kondo, S Krayenhoff, SH Lee, T Loridan, A Martilli, V Masson, S Miao, K Oleson, G Pigeon, A Porson, F Salamanca, GJ Steeneveld, M Tombrou, J Voogt, N Zhang 2009: The international urban energy balance comparison project: Initial results from Phase 2, (A11-6, preprint) ICUC7 Yokohama, Japan  http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/372811-1-090524190750-003.pdf
+Grimmond CSB, M Blackett, M Best, JJ Baik, S Belcher, SI Bohnenstengel, I Calmet, F Chen, A Dandou, K Fortuniak, M Gouvea, R Hamdi, M Hendry, H Kondo, S Krayenhoff, SH Lee, T Loridan, A Martilli, V Masson, S Miao, K Oleson, G Pigeon, A Porson, F Salamanca, GJ Steeneveld, M Tombrou, J Voogt, N Zhang 2009: The international urban energy balance comparison project: Initial results from Phase 2, (A11-6, preprint) ICUC7 Yokohama, Japan  <http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/372811-1-090524190750-003.pdf>
 
 Grimmond CSB, M Blackett, MJ Best, J-J Baik, SE Belcher, SI Bohnenstengel, I Calmet, F Chen, A Dandou, K Fortuniak, ML Gouvea, R Hamdi, M Hendry, M. Kanda, T. Kawai, Y Kawamoto, H Kondo, S Krayenhoff, S-H Lee, T Loridan, A Martilli, V Masson, S Miao, K Oleson, G Pigeon, A Porson, Y-H Ryu, F Salamanca, L Shashua-Bar, G-J Steeneveld, M Tombrou, J Voogt, D Young, N Zhang 2009: The PILPS-Urban experience: common guidelines for introducing a urban tile in NWP models. ECMWF/GLASS Land surface modelling, data assimilation & the implications for predictability Workshop, Reading UK, 9-12 November 2009, 11 pp
 
-Loridan T, S Grimmond, S Grossman-Clarke, F Chen, M Tewari, KW Manning, A. Martilli 2009: The NOAH/urban canopy model in WRF v3.1: Input parameters & sensitivity analysis using the MOSCEM optimization algorithm,  ICUC7 Yokohama, Japan  http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/384525-1-090521004733-003.pdf
+Loridan T, S Grimmond, S Grossman-Clarke, F Chen, M Tewari, KW Manning, A. Martilli 2009: The NOAH/urban canopy model in WRF v3.1: Input parameters & sensitivity analysis using the MOSCEM optimization algorithm,  ICUC7 Yokohama, Japan  <http://www.ide.titech.ac.jp/~icuc7/extended_abstracts/pdf/384525-1-090521004733-003.pdf>
 
 Pappas V, CSB Grimmond, VG Mitchell, HA Cleugh 2007: Impact of climate variability & change on predicted urban irrigation demand: Melbourne, Australia. Water Management Challenges in Global Change CCWI2007 & SUWM2007 Conference, De Montfort Univ., Leicester, 6 pp
 
@@ -725,7 +723,7 @@ Salmond JA, TR Oke, CSB Grimmond, S Roberts, B Offerle 2005: Venting urban canyo
 
 Cleugh HA, E Bui, VG Mitchell, J Xu, CSB Grimmond & D Simon 2005: Evapotranspiration in urban water balance models: A methodological framework, Modsim 2005, Melbourne, 7pp 
 
-Fortuniak K, B Offerle, CSB Grimmond 2005: Application of a slab surface energy balance model to determine surface parameters for urban areas, Lund eRep. Phys. Geog., 5, 90-91. http://www.nateko.lu.se/Elibrary/LeRPG/5/LeRPG5Article.pdf
+Fortuniak K, B Offerle, CSB Grimmond 2005: Application of a slab surface energy balance model to determine surface parameters for urban areas, Lund eRep. Phys. Geog., 5, 90-91. <http://www.nateko.lu.se/Elibrary/LeRPG/5/LeRPG5Article.pdf>
 
 Fortuniak K, B. Offerle, CSB Grimmond, K Kłysik 2005: Parameterisations of clear sky downward radiation in an urban area – Łódź case study. Proceedings 17th International Congress of Biometeorology Garmisch-Partenkirchen,  Germany.
 
@@ -745,11 +743,11 @@ Grimmond CSB 2005: President’s Column, IAUC Newsletter No. 9, 1
 
 Grimmond CSB 2005: Cool homes program impact evaluation: Philadelphia, Energy Coordinating Agency, Interim Evaluation Report, US DHHS
 
-Lemonsu A, V Masson, C Grimmond, G Pigeon, S Bastin 2005: Modelling of urban processes & boundary layer over Marseilles, 6th ESCOMPTE Workshop, Marseille, France http://medias.obs-mip.fr/escompte/publi/communications/tri/final/abstract_lemonsu.htm
+Lemonsu A, V Masson, C Grimmond, G Pigeon, S Bastin 2005: Modelling of urban processes & boundary layer over Marseilles, 6th ESCOMPTE Workshop, Marseille, France <http://medias.obs-mip.fr/escompte/publi/communications/tri/final/abstract_lemonsu.htm>
 
-Lohou F, P Bouchou, A Coppalle, P Durand, S Grimmond, M Irvine, P Laville, JM Rosant 2005: Intercomparison of energy fluxes measurements ESCOMPTE campaign, 6th ESCOMPTE Workshop, Marseille France http://medias.obs-mip.fr/escompte/publi/communications/tri/final/Extended-abst-Intercomparaison-Flux-Lohou.pdf
+Lohou F, P Bouchou, A Coppalle, P Durand, S Grimmond, M Irvine, P Laville, JM Rosant 2005: Intercomparison of energy fluxes measurements ESCOMPTE campaign, 6th ESCOMPTE Workshop, Marseille France <http://medias.obs-mip.fr/escompte/publi/communications/tri/final/Extended-abst-Intercomparaison-Flux-Lohou.pdf>
 
-Fortuniak K, B Offerle, CSB Grimmond 2004: Slab surface energy balance scheme & its application to parameterisation of the energy fluxes on urban areas. NATO ASI, Kiev, Ukraine, 4-15.05 2004, 82-83, www.met.rdg.ac.uk/urb_met/NATO_ASI/talks.html
+Fortuniak K, B Offerle, CSB Grimmond 2004: Slab surface energy balance scheme & its application to parameterisation of the energy fluxes on urban areas. NATO ASI, Kiev, Ukraine, 4-15.05 2004, 82-83, www.met.rdg.ac.uk/urb_met/NATO_ASI/talks.html>
 
 Grimmond C, H Su, B Offerle, B Crawford, S Scott, S Zhong, C Clements 2004: Variability of sensible heat fluxes in a suburban area of Oklahoma City. 84th Annual Meeting AMS, Eighth Symposium on integrated observing & assimilation systems in the atmosphere, oceans & land surface & the Symposium on Planning, Nowcasting, & Forecasting in the Urban Zone. Seattle,  J7.2 8pp CD
 
@@ -767,7 +765,7 @@ Piringer M,  Joffre S 2004: The urban surface energy budget & mixing height in E
 
 Roberts S, TR Oke, A Lemonsu, CSB Grimmond, P Jackson 2004: Sensitivity of surface-atmosphere energy exchanges within urban areas derived from simulations. 84th Annual meeting AMS: Symposium on Planning, nowcasting, & forecasting in the urban zone. Seattle [7.1] 6pp
 
-Dabberdt, WF, MA Carroll, W Appleby, D Baumgardner, G Carmichael, P Davidson, JC Dorna, TG Dye, CSB Grimmond, P Middleton, W Neff, Y Zhang 2003: Report of the USWRP workshop on air quality forecasting http://box.mmm.ucar.edu/uswrp/reports/reports.html
+Dabberdt, WF, MA Carroll, W Appleby, D Baumgardner, G Carmichael, P Davidson, JC Dorna, TG Dye, CSB Grimmond, P Middleton, W Neff, Y Zhang 2003: Report of the USWRP workshop on air quality forecasting <http://box.mmm.ucar.edu/uswrp/reports/reports.html>
 
 Best MJ, CSB Grimmond & MG Villani 2003: Just how difficult can it be to model urban areas? Proc. 5th International Conference on Urban Climate, 1: 331-334.
 
@@ -915,7 +913,7 @@ Grimmond CSB, TR Oke, R Spronken-Smith, E Jauregui, C Souch, T Newton, TS King, 
 
 Grimmond CSB 1996: G350 Climatological Instrumentation & Field Methods Manual. CMP IUB,Collegiate Copies. Spring
 
-Grimmond CSB, C Souch, HP Schmid 1996: Geography 109 Web site (ongoing revisions & updates) http://www.indiana.edu/~geog109/ [Major revision 2000]. Revised each semester through Fall 2004
+Grimmond CSB, C Souch, HP Schmid 1996: Geography 109 Web site (ongoing revisions & updates) <http://www.indiana.edu/~geog109/ [Major revision 2000]. Revised each semester through Fall 2004
 
 Grimmond S, C Souch 1996: Weather & Climate Laboratory Manual G109. CMP, IUB, Collegiate Copies, Fall
 
