@@ -615,18 +615,12 @@ Grimmond CSB 1996: Dynamically determined parameters for urban energy & water ex
 
 Hubble MD, CSB Grimmond 1995: Urban heat storage. McGraw-Hill Yearbook of Science & Technology 1996. McGraw-Hill, New York, 361-363
 
-1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
-    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
-    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
-    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
-    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
-1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
 
-1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
-    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
-    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
-    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
-    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
+| Type | Year |  |   |  |
+|--|--|--|--|--|
+|[Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers) | [2020](https://suegrimmond.github.io/PublicationsSG#2020) |[2010](https://suegrimmond.github.io/PublicationsSG#2010) | [2000](https://suegrimmond.github.io/PublicationsSG#2000) | [1990](https://suegrimmond.github.io/PublicationsSG#1990) |
+| [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
+| [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)|  [2020](https://suegrimmond.github.io/PublicationsSG#2020-1) | [2010](https://suegrimmond.github.io/PublicationsSG#2010-1) | [2000](https://suegrimmond.github.io/PublicationsSG#2000-1) |[1990](https://suegrimmond.github.io/PublicationsSG#1990-1)|
 
 ## Unrefereed /Partially Refereed
 
