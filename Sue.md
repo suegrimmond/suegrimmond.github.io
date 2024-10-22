@@ -48,14 +48,14 @@ Current international Scientific Committee memberships includes ISPL France, CCR
 - [Centaur](https://centaur.reading.ac.uk/view/creators/90005257.html)
 - [Google Scholar](https://scholar.google.com/citations?user=wlxFPjkAAAAJ&hl=en)
 
-| [Other Publications](https://suegrimmond.github.io/Publications)  | |
+| [Link to Other Topics](https://suegrimmond.github.io/Publications)  | Below are Example Centaur searches |
 |--|--|
 |[Land surface modelling](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+model&_action_search=Search) |[SUEWS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=SUEWS&_action_search=Search) |
 | [OHM](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+OHM&_action_search=Search) | [LUCY](https://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+LUCY&_action_search=Search) |
 | [LUMPS](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=LUMPS+grimmond&_action_search=Search) |
 | **Variables and Processes** |
-| [Water balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22water+balance%22&_action_search=Search)| - [Evaproation](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+evaporation&_action_search=Search)
-| [Energy Balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22energy+balance%22&_action_search=Search)| - [Sensible heat flux](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22sensible+heat+flux%22&_action_search=Search)|
+| [Water balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22water+balance%22&_action_search=Search)| [Evaproation](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+evaporation&_action_search=Search)
+| [Energy Balance](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22energy+balance%22&_action_search=Search)| [Sensible heat flux](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22sensible+heat+flux%22&_action_search=Search)|
 | [CO2](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+CO2&_action_search=Search)| [BoundaryLayer Height](http://centaur.reading.ac.uk/cgi/search/archive/simple?screen=Search&order=&q=grimmond+%22boundary+layer+height%22&_action_search=Search)|
 |**Observational Techniques**|
 | [Scintillometry](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+scintillometry&_action_search=Search)|[Eddy Covariance](http://centaur.reading.ac.uk/cgi/search/simple?screen=Search&order=&q=grimmond+eddy+covariance&_action_search=Search) |
