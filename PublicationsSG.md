@@ -1,18 +1,18 @@
 
 # Publications
 
-1. [Journal Papers](<https://suegrimmond.github.io/PublicationsSG#journal-papers)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990)
-1. [Book Chapters](<https://suegrimmond.github.io/PublicationsSG#book-chapters)
+1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
+1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
 
-1. [Unrefereed](<https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020-1)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010-1)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000-1)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990-1)
+1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
 
 ## Journal Papers
 
@@ -534,17 +534,17 @@ Grimmond CSB, TR Oke 1986: Urban water balance II: Results from a suburb of Vanc
 
 Fitzharris BB, CSB Grimmond 1982: Assessing snow storage & melt in a New Zealand mountain environment. Hydrological Aspects of Alpine & High Mountain Areas, International Association of Hydrological Sciences Publication 138:161-68 <https://iahs.info/uploads/dms/iahs_138_0161.pdf>
 
-1. [Journal Papers](<https://suegrimmond.github.io/PublicationsSG#journal-papers)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990)
-1. [Book Chapters](<https://suegrimmond.github.io/PublicationsSG#book-chapters)
-1. [Unrefereed](<https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020-1)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010-1)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000-1)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990-1)
+1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
+1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
+1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
 
 ## Book Chapters
 
@@ -622,18 +622,18 @@ Grimmond CSB 1996: Dynamically determined parameters for urban energy & water ex
 
 Hubble MD, CSB Grimmond 1995: Urban heat storage. McGraw-Hill Yearbook of Science & Technology 1996. McGraw-Hill, New York, 361-363
 
-1. [Journal Papers](<https://suegrimmond.github.io/PublicationsSG#journal-papers)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990)
-1. [Book Chapters](<https://suegrimmond.github.io/PublicationsSG#book-chapters)
+1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
+1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
 
-1. [Unrefereed](<https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020-1)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010-1)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000-1)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990-1)
+1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
 
 ## Unrefereed /Partially Refereed
 
@@ -993,15 +993,14 @@ Grimmond C 1981: An evaluation of the contents of some New Zealand environmental
 Grimmond CSB 1979: Kakanui catchment water resources. Report to the Otago Catchment Board, New Zealand.
 
 
-1. [Journal Papers](<https://suegrimmond.github.io/PublicationsSG#journal-papers)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990)
-1. [Book Chapters](<https://suegrimmond.github.io/PublicationsSG#book-chapters)
-
-1. [Unrefereed](<https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
-    1. [2020](<https://suegrimmond.github.io/PublicationsSG#2020-1)
-    1. [2010](<https://suegrimmond.github.io/PublicationsSG#2010-1)
-    1. [2000](<https://suegrimmond.github.io/PublicationsSG#2000-1)
-    1. [1990](<https://suegrimmond.github.io/PublicationsSG#1990-1)
+1. [Journal Papers](https://suegrimmond.github.io/PublicationsSG#journal-papers)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990)
+1. [Book Chapters](https://suegrimmond.github.io/PublicationsSG#book-chapters)
+1. [Unrefereed](https://suegrimmond.github.io/PublicationsSG#unrefereed-partially-refereed)
+    1. [2020](https://suegrimmond.github.io/PublicationsSG#2020-1)
+    1. [2010](https://suegrimmond.github.io/PublicationsSG#2010-1)
+    1. [2000](https://suegrimmond.github.io/PublicationsSG#2000-1)
+    1. [1990](https://suegrimmond.github.io/PublicationsSG#1990-1)
