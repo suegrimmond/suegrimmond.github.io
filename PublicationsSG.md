@@ -13,7 +13,7 @@
 Jongen HJ, M Lipson, AJ Teuling, S Grimmond, JJ Baik, M Best, M Demuzere, K Fortuniak, Y Huang, MG De Kauwe, R Li, J McNorton, N Meili, K Oleson, SB Park, T Sun, A Tsiringakis, M Varentsov, C Wang, ZH Wang, GJ Steeneveld 2024: The water balance representation in Urban-PLUMBER land surface models JAMES 16., 10 <https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004231>
 
 Xie X, Luo Z, S Grimmond, Y Liu, CE Ugalde-Loo, MT Bailey, X  Wang 2024: Could air-source heat pump cooling exacerbate residential overheating in UK 2050s climate scenarios? Sustainable Cities and Society <https://doi.org/10.1016/j.scs.2024.105811>
-<
+
 Liu Y,  S Grimmond, Z Luo, D Hertwig, M McGrory, S Lo Piano, ST Smith 2024: Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses Energy & Buildings <https://doi.org/10.1016/j.enbuild.2024.114668>
 
 Saunders B, S Grimmond, D Hertwig, S Bohnenstengel, H Lean 2024: Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London. Quarterly Journal of the Royal Meteorological Society  <https://doi.org/10.1002/qj.4837>
