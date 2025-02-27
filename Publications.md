@@ -177,7 +177,6 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 3. Hertwig D, S Grimmond, MA Hendry, B Saunders, Z Wang, M Jeoffrion, PL Vidale, PC McGuire, SI Bohnenstengel, HC Ward, S Kotthaus 2020: Urban signals in high-resolution weather and climate simulations: role of urban land-surface characterisation. TAC 142: 701–728 https://doi.org/10.1007/s00704-020-03294-1
  
 ### Sun
-1. Sun T, CSB Grimmond, G-H Ni 2016: How do green roofs mitigate urban thermal stress under heat waves? JGR-A 121: 5320–5335 https://doi.org/10.1002/2016JD024873 
 1. Sun T, S Grimmond 2019: A Python-enhanced urban land surface model SuPy (SUEWS in Python, v2019.2):development, deployment and demonstration GMD 12: 2781–2795 https://doi.org/10.5194/gmd-12-2781-2019
 1. Sun T, ZH Wang, WC Oechel, CSB Grimmond 2017: The analytical objective hysteresis model (AnOHM v1.0): Methodology to determine bulk storage heat flux coefficients GMD 10: 2875–2890 https://doi.org/10.5194/gmd-10-2875-2017
 1. Sun T, Kotthaus S, Li D, Ward H, Gao Z, Ni, Guangheng, Grimmond S 2017: Attribution and mitigation of heat wave-induced urban heat storage change ERL 12: 11, 114007 https://doi.org/10.1088/1748-9326/aa922a
