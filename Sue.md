@@ -7,6 +7,7 @@
 #### Awards
 
 Her awards include:
+- [2025 Fellow of the Royal Society](https://www.royalsociety.org/people/sue-grimmond-37369/)
 - [2024 European Meteorological Society Silver Medal](https://www.emetsoc.org/awards/award/sue-grimmond/)
 - [2023 S. Zilitinkevich Memorial Award](https://www.emetsoc.org/awards/award-category/collaborations-on-other-awards/zilitinkevich-award/)
 - [2020 Royal Meteorological Society Symons's Gold Medal](https://www.rmets.org/awards-and-prizes-distinguished-work-and-careers-2020)
