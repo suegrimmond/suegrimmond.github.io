@@ -9,10 +9,9 @@
 |[Ward](https://suegrimmond.github.io/Publications#ward) | [Warren](https://suegrimmond.github.io/Publications#warren)| [Xie](https://suegrimmond.github.io/Publications#xie) |[Xiong](https://suegrimmond.github.io/Publications#xiong)|
 
 
-| Cities | |  |  |
-|--|--|--|--|
-[Beijing](https://suegrimmond.github.io/Publications#beijing) | [Berlin](https://suegrimmond.github.io/Berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) | [Chicago](https://suegrimmond.github.io/Publications#chicago) | [London](https://suegrimmond.github.io/Publications#london)|
-|[PARIS](https://suegrimmond.github.io/Berlin#Paris) | [Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
+| Cities | |  |  |  |   |   |
+|--|--|--|--|--|--|--|
+[Beijing](https://suegrimmond.github.io/Publications#beijing) | [Berlin](https://suegrimmond.github.io/Berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) | [Chicago](https://suegrimmond.github.io/Publications#chicago) | [London](https://suegrimmond.github.io/Publications#london)| [PARIS](https://suegrimmond.github.io/Berlin#Paris) | [Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
 
 | Topics |  | | | | | |
 |--|--|--|--|--|--|--|
