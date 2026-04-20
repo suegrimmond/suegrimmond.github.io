@@ -3,6 +3,8 @@
 #### 2025
 Glazer RH, S Grimmond, L Blunn, D Fenner, H Lean, A Christen, W Morrison, D Looschelders, J Shonk Hectometric-scale modelling of the urban mixed-layer evaluated with a dense LiDAR-ceilometer network _Weather Clim. Dynam._, 6, 1723–1742, [https://doi.org/10.5194/wcd-6-1723-2025](https://doi.org/10.5194/wcd-6-1723-2025)
 
+Iqbal N, M Ravan, Z Mitraka, J Birkmann, S Grimmond, D Hertwig, N Chrysoulakis, G Somarakis, A Wendnagel-Beck How does perceived heat stress differ between urban forms and human vulnerability profiles? – case study Berlin  _Nat. Hazards Earth Syst. Sci_., 25, 2481–2502, [https://doi.org/10.5194/nhess-25-2481-2025](https://doi.org/10.5194/nhess-25-2481-2025)
+
 ### 2024
 Fenner D, A Christen, S Grimmond, F Meier, W Morrison, M Zeeman J Barlow J Birkmann, L Blunn, N Chrysoulakis, M Clements, R Glazer, D Hertwig, S Kotthaus, K König, D Looschelders, Z Mitraka, D Poursanidis, D Tsirantonakis, B Bechtel, K Benjamin, F Beyrich, F Briegel, G Feigel, C Gertsen, N Iqbal, J Kittner, H Lean, Y Liu, Z Luo, M McGrory, S Metzger, M Paskin, M Ravan, T Ruhtz, B Saunders, D Scherer, ST Smith, M Stretton, K Trachte, M Van Hove 2024: urbisphere-Berlin Campaign: Investigating Multiscale Urban Impacts on the Atmospheric Boundary Layer. _Bull. Amer. Meteor. Soc_., 105, E1929–E1961, [https://doi.org/10.1175/BAMS-D-23-0030.1](https://doi.org/10.1175/BAMS-D-23-0030.1)
 
