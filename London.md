@@ -8,11 +8,20 @@ Saunders B, S Grimmond, D Hertwig, S Bohnenstengel, H Lean 2024: Methodology to 
 
 Liu Y,  S Grimmond, Z Luo, D Hertwig, M McGrory, S Lo Piano, ST Smith 2024: Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses _Energy & Buildings_ [https://doi.org/10.1016/j.enbuild.2024.114668](https://doi.org/10.1016/j.enbuild.2024.114668)
 
+### 2022
 
+Lim HD, Hertwig D, Grylls T, Gough H, van Reeuwijk, M, S Grimmond, C Vanderwel 2022: Pollutant dispersion by tall buildings: laboratory experiments and large-eddy simulation _Experiments in Fluids_ 63:92 [https://doi.org/10.1007/s00348-022-03439-0](https://doi.org/10.1007/s00348-022-03439-0)
+
+### 2021
+Hertwig D, S Grimmond, S Kotthaus, C Vanderwel, H Gough, M Haeffelin, A Robins 2021: Variability of physical meteorology in urban areas at different scales: implications for air quality. _Faraday Discussions_ 226: 149-172  [https://doi.org/10.1039/D0FD00098A](https://doi.org/10.1039/D0FD00098A)
+
+### 2020
+Hertwig D, S Grimmond, MA Hendry, B Saunders, Z Wang, M Jeoffrion, PL Vidale, PC McGuire, SI Bohnenstengel, HC Ward, S Kotthaus 2020: Urban signals in high-resolution weather and climate simulations: role of urban land-surface characterisation _Theoretical and Applied Climatology_ 142:701–728 [https://doi.org/10.1007/s00704-020-03294-1](https://doi.org/10.1007/s00704-020-03294-1)
 
 ### 2019
-Harrison RM, DCS Beddows, MS Alam, A Singh, J Brean, R Xu, S Kotthaus, S Grimmond 2019: Interpretation of particle number size distributions measured across an urban area during the FASTER Campaign ACP 19: 39–55 https://doi.org/10.5194/acp-19-39-2019
+Harrison RM, DCS Beddows, MS Alam, A Singh, J Brean, R Xu, S Kotthaus, S Grimmond 2019: Interpretation of particle number size distributions measured across an urban area during the FASTER Campaign _ACP_ 19: 39–55 [https://doi.org/10.5194/acp-19-39-2019](https://doi.org/10.5194/acp-19-39-2019)
 
+Hertwig D, H Gough, S Grimmond, J Barlow, C Kent, W Lin, A Robins, P Hayden 2019: Wake characteristics of tall buildings in a complex urban canopy _Boundary-Layer Meteorology_ 172:239-270 [https://doi.org/10.1007/s10546-019-00450-7](https://doi.org/10.1007/s10546-019-00450-7)
 
 ### 2017
 Zazzeri G, D Lowry, RE Fisher, JL France, M Lanoisellé, CSB Grimmond, EG Nisbet 2017: Verifying methane inventories by isotopic analysis in the London region SR 7: 4854 https://doi.org/10.1038/s41598-017-04802-6
@@ -23,9 +32,9 @@ Yunus AP, R Avtar, S Kraines, M Yamamuro, F Lindberg, CSB Grimmond 2016: Uncerta
 
 
 ### 2015
-Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project BAMS 96: 779–804 https://doi.org/10.1175/BAMS-D-12-00245.1
+Bohnenstengel SI, Belcher SE, Aitken A, Allan JD, Allen G, Bacak A, Bannan TJ, Barlow JF, Beddows DCS, Bloss WJ, Booth AM, Chemel C, Coceal O, Di Marco CF, Falloon KH, Fleming Z, Furger M, Geitl JK, Graves RR, Green DC, Grimmond CSB, Halios C, Hamilton JF, Harrison RM, Heal MR, Heard DE, Helfter C, Herndon SC, Holmes RE, Hopkins JR, Jones AM, Kelly FJ, Kotthaus S, Langford B, Lee JD, Leigh RJ, Lewis AC, Lidster RT, Lopez-Hilfiker FD, McQuaid JB, Mohr C, Monks PS, Nemitz E, Ng NL, Percival CJ, Prévôt ASH, Ricketts HMA, Sokhi R, Stone D, Thornton JA, Tremper AH, Valach AC, Visser S, Whalley LK, Williams LR, Xu L, Young DE, Zotter P 2015: Meteorology, air quality, and health in London: The ClearfLo project _BAMS_ 96: 779–804 https://doi.org/10.1175/BAMS-D-12-00245.1
 
-Font A, Grimmond CSB, Kotthaus S, Morguí JA, Stockdale C, O’Connor E, Priestman M, Barratt B 2015: Daytime CO2 urban-regional scale surface fluxes from airborne measurements, eddy-covariance observations and emissions inventories in Greater London EP, 196, 98-106, https://doi.org/10.1016/j.envpol.2014.10.001
+Font A, Grimmond CSB, Kotthaus S, Morguí JA, Stockdale C, O’Connor E, Priestman M, Barratt B 2015: Daytime CO2 urban-regional scale surface fluxes from airborne measurements, eddy-covariance observations and emissions inventories in Greater London_ EP_, 196, 98-106, https://doi.org/10.1016/j.envpol.2014.10.001
 
 
 | Cities | |  |  |  |   |   |
