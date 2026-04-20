@@ -4,9 +4,12 @@
 Hertwig D, M McGrory, M Paskin, Y Liu, S Lo Piano, H Llanwarne, ST Smith, S Grimmond 2025: Connecting physical and socio-economic spaces for multi-scale urban modelling: a dataset for London _Geoscience Data J_  [https://doi.org/10.1002/gdj3.289](https://doi.org/10.1002/gdj3.289)
 
 ### 2024
-Saunders B, S Grimmond, D Hertwig, S Bohnenstengel, H Lean 2024: Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London. _Quarterly Journal of the Royal Meteorological Society_  [https://doi.org/10.1002/qj.4837](https://doi.org/10.1002/qj.4837)
+Hall T, L Blunn, S Grimmond, N McCarroll, C Merchant, W Morrison, J Shonk, H Lean, M Best 2024: Utility of thermal remote sensing for evaluation of a high-resolution weather model in a city Quarterly Journal of the Royal Meteorological Society <https://doi.org/10.1002/qj.4669>
 
 Liu Y,  S Grimmond, Z Luo, D Hertwig, M McGrory, S Lo Piano, ST Smith 2024: Dwelling conversion and energy retrofit modify building anthropogenic heat emission  under past and future climates: a case study of London terraced houses _Energy & Buildings_ [https://doi.org/10.1016/j.enbuild.2024.114668](https://doi.org/10.1016/j.enbuild.2024.114668)
+
+
+Saunders B, S Grimmond, D Hertwig, S Bohnenstengel, H Lean 2024: Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London. _Quarterly Journal of the Royal Meteorological Society_  [https://doi.org/10.1002/qj.4837](https://doi.org/10.1002/qj.4837)
 
 ### 2022
 
