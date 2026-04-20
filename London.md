@@ -1,10 +1,8 @@
-## London 
+## London  [2025](#2025) | [2020](#2020) | [2015](#2015)|
 
 [Beijing](https://suegrimmond.github.io/Publications#beijing) | [Berlin](https://suegrimmond.github.io/Berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) | [Chicago](https://suegrimmond.github.io/Publications#chicago) | [London](https://suegrimmond.github.io/London)| [PARIS](https://suegrimmond.github.io/Berlin#Paris) | [Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
 
-| | |  |  |  |   |   |
-|--|--|--|--|--|--|--|
-[2025](#2025)|[2020](#2020)|[20150](#2015)|
+
 
 ### 2025
 Hertwig D, M McGrory, M Paskin, Y Liu, S Lo Piano, H Llanwarne, ST Smith, S Grimmond 2025: Connecting physical and socio-economic spaces for multi-scale urban modelling: a dataset for London _Geoscience Data J_  [https://doi.org/10.1002/gdj3.289](https://doi.org/10.1002/gdj3.289)
