@@ -11,8 +11,8 @@
 
 | Cities | |  |  |
 |--|--|--|--|
-[Beijing](https://suegrimmond.github.io/Publications#beijing) | [Berlin](https://suegrimmond.github.io/Berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) 
-|[Chicago](https://suegrimmond.github.io/Publications#chicago) |[London](https://suegrimmond.github.io/Publications#london)|[Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
+[Beijing](https://suegrimmond.github.io/Publications#beijing) | [Berlin](https://suegrimmond.github.io/Berlin)  | [Birmingham](https://suegrimmond.github.io/Publications#birmingham) | [Chicago](https://suegrimmond.github.io/Publications#chicago) | [London](https://suegrimmond.github.io/Publications#london)|
+|[PARIS](https://suegrimmond.github.io/Berlin#Paris) | [Shanghai](https://suegrimmond.github.io/Publications#shanghai) |
 
 | Topics |  | | | | | |
 |--|--|--|--|--|--|--|
