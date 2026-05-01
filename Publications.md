@@ -74,7 +74,7 @@
 1. Huang B, GH Ni, S Grimmond 2019: Impacts of upwind urban expansion on regional climate during heat waves Atmosphere 10(7): 364 https://doi.org/10.3390/atmos10070364
 
 ### Järvi  
-1. Järvi L, CSB Grimmond, A Christen 2011: The surface urban energy and water balance scheme (SUEWS): Evaluation in Vancouver and Los Angeles. JH, 411, 219-237 https://doi.org/10.1016/j.jhydrol.2011.10.001
+1. Järvi L, CSB Grimmond, A Christen 2011: The surface urban energy and water balance scheme (SUEWS): Evaluation in Vancouver and Los Angeles. JH, 411, 219-237 <https://doi.org/10.1016/j.jhydrol.2011.10.001>
 8. Järvi L, CSB Grimmond, M Taka, H Setälä, A Nordbo, IB Strachan 2014: Development of the surface urban energy and water balance scheme (SUEWS) for cold climate cities. GMD, 7, 1691-1711 https://doi.org/10.5194/gmd-7-1691-2014.
 1. Järvi L, S Grimmond, JP McFadden, A Christen, I Strachan, M Taka, L Warsta, M Heimann 2017: Warming effects on the urban hydrology in cold climate regions SR 7: 5833 https://doi.org/10.1038/s41598-017-05733-y
 2. Järvi L, M Havu, HC Ward, V Bellucco, JP McFadden, T Toivonen, V Heikinheimo, P Kolari, A Riikonen, CSB Grimmond 2019: Spatial modeling of local-scale biogenic and anthropogenic carbon dioxide emissions in Helsinki. JGR Atmospheres, 124, 8363-8384  https://doi.org/10.1029/2018JD029576
