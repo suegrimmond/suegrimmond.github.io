@@ -4,15 +4,12 @@
 
 | PDRA | PhD |Visitor |
 |---|--|--|
-| [Denise Hertwig](https://orcid.org/0000-0002-2483-2675) | [Yiqing Liu](https://orcid.org/0000-0001-5159-9197) |
-| [Russell Glazer](https://orcid.org/0000-0002-1002-1628) ||
-| [Vitor Lavor](https://orcid.org/0000-0001-9346-7694) |
-|[Yiqing Liu](https://orcid.org/0000-0001-5159-9197)|
+| [Denise Hertwig](https://orcid.org/0000-0002-2483-2675) | WM |
+| [Russell Glazer](https://orcid.org/0000-0002-1002-1628) |LW|
+| [Vitor Lavor](https://orcid.org/0000-0001-9346-7694) |[Dana Looschelders](https://orcid.org/0009-0009-2000-2728) |
+|[Yiqing Liu](https://orcid.org/0000-0001-5159-9197)|DT|
 | [Silvia Rognone]([https://orcid.org/0000-0002-2976-6101) | [Tiancheng Ma](https://orcid.org/0009-0006-8860-3042) || 
 | [Cam Southgate-Ash](https://orcid.org/0009-0007-5165-9998)|[Matthew Paskin](https://orcid.org/0009-0007-1782-7150) |
-|| [Dana Looschelders](https://orcid.org/0009-0009-2000-2728) |
-||LW |
-|| DT |
 || GI |
 
 
@@ -24,11 +21,10 @@
 
 | PDRA | PhD | Visitors | Technician |
 |---|--| --|--|
-|[Megan McGrory](https://orcid.org/0000-0003-1016-5573) |
-| Matt Clements|  [Vitor Lavor](https://orcid.org/0000-0001-9346-7694) 
+| |  [Vitor Lavor](https://orcid.org/0000-0001-9346-7694) 
 ||[Cam Southgate-Ash](https://orcid.org/0009-0007-5165-9998)|
-|| MF
-|| [Beth Saunders](https://orcid.org/0000-0002-2788-6134)  | TZ |[Matthew Paskin (t)](https://orcid.org/0009-0007-1782-7150) |
+|Matt Clements| MF
+|[Megan McGrory](https://orcid.org/0000-0003-1016-5573) | [Beth Saunders](https://orcid.org/0000-0002-2788-6134)  | TZ |[Matthew Paskin (t)](https://orcid.org/0009-0007-1782-7150) |
 | [Will Morrison](https://orcid.org/0000-0003-1568-8226) | | HL|KB (t) |
 | [Mathew Lipson](https://www.researchgate.net/profile/Mathew-Lipson)  | DM|  [Keisuke Nakao](https://orcid.org/0000-0002-5260-1110) | M (Y) N (t) |
 | [Natalie Theeuwes](https://orcid.org/0000-0002-9277-8551)| [Meg Stretton](https://orcid.org/0000-0002-1444-5735)| [Junxia Dou](https://orcid.org/0000-0003-0082-8681) |GM (t)
