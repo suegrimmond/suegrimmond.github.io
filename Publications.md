@@ -223,6 +223,8 @@ Lindén J, CSB Grimmond, J Esper: 2015: Urban warming in villages, ASR, 12, 157-
 ### Warren
 1. Warren EL, DT Young, L Chapman, C Muller, CSB Grimmond, XM Cai 2016: The Birmingham Urban Climate Laboratory—A high density, urban meteorological dataset, from 2012–2014 SD 3: 160038​https://doi.org/10.1038/sdata.2016.38 
 1. Warren E, C Charlton-Perez, S Kotthaus, H Lean, S Ballard, E Hopkin, S Grimmond 2018: Evaluation of forward-modelled attenuated backscatter using an urban ceilometer network in London under clear-sky conditions AE 191: 532-547 https://doi.org/10.1016/j.atmosenv.2018.04.045
+2. Warren EL, C Charlton-Perez, H Lean, S Kotthaus, S Grimmond 2022: Spatial variability of forward modelled attenuated backscatter in clear-sky conditions over a megacity: Implications for observation network design Quarterly Journal of the Royal Meteorological Society 148:1168-1183 https://doi.org/10.1002/qj.4253  
+3. Warren, E., Lean, H., Charlton-Perez, C., Grimmond, S., & Kotthuas, S. (2026). London model data used in : Spatial variability of forward modelled attenuated backscatter in clear-sky conditions over a megacity: Implications for observation network design [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20705276
 
 ### Ward
 1. Ward HC, S Grimmond 2017: Using biophysical modelling to assess the impact of various scenarios on summertime urban climate across Greater London LUP 165: 142–161, https://doi.org/10.1016/j.landurbplan.2017.04.001
